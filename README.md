@@ -5,86 +5,85 @@ Purpose: Currently Magento Translations official page don't exist.
 ===============
 
 Translations for Magento
-
-Language	Status	Maintainer	
-Afrikaans (South Africa)	0.82%	CharlesM	Select
-Albanian (Albania)	13.40%	 -- 	Select
-Arabic (Algeria)	0.72%	superyms, ShopGo	Select
-Arabic (Egypt)	30.27%	Ahmed Abdelsalam, ShopGo	Select
-Arabic (Kuwait)	29.24%	superyms, Ahmed Mahmoud, ShopGo	Select
-Arabic (Morocco)	66.45%	imatjar	Select
-Arabic (Saudi Arabia)	100.00%	ShopGo	Select
-Armenian (Eastern)	1.73%	Mosses Akizian, Voskan	Select
-Armenian (Western)	0.10%	Mosses Akizian	Select
-Azerbaijani (Azerbaijan)	17.30%	rashadex	Select
-Basque (Basque)	0.10%	 -- 	Select
-Belarusian (Belarus)	3.34%	Aliaksandr Astapenka	Select
-Bengali (Bangladesh)	0.08%	glaDiator, simpass	Select
-Bosnian (Bosnia)	23.77%	Hobitnjak	Select
-Bulgarian (Bulgaria)	86.13%	SecretR, Antonio_	Select
-Catalan (Catalonia)	87.66%	Snamor, jesteve	Select
-Chinese (Hong Kong SAR)	0.64%	3firelegs	Select
-Chinese Simplified (China)	99.87%	Ryan Sun _Kuafu, Bysoft, Paul Morris, lotusseedsD, old_taoist	Select
-Chinese Traditional (Taiwan)	65.69%	magnetox	Select
-Croatian (Croatia)	61.77%	Predrag	Select
-Czech (Czech Republic)	97.96%	iguru	Select
-Danish (Denmark)	95.55%	MadsK, crius	Select
-Dutch (Netherlands)	97.68%	Chantal, Dock05, Gui	Select
-English (Australian)	66.04%	Fontis	Select
-English (United Kingdom)	66.63%	 -- 	Select
-English (United States)	98.04%	 -- 	Select
-Estonian (Estonia)	47.70%	 -- 	Select
-Filipino (Philippines)	0.10%	 -- 	Select
-Finnish (Finland)	77.69%	aarne, Alpha, Lemonline	Select
-French (Canada)	66.06%	pictogram	Select
-French (France)	99.95%	SeL_	Select
-Galician(Galician)	85.86%	picans	Select
-Georgian (Georgia)	16.13%	Malkhaz	Select
-German (Austria)	0.13%	 -- 	Select
-German (Germany)	90.76%	Rico_Neitzel, novalis	Select
-German (Switzerland)	92.95%	mcigee, nickweisser	Select
-Greek (Greece)	67.57%	 -- 	Select
-Gujarati (India)	0.68%	kandip	Select
-Hebrew (Israel)	85.78%	OrotTech, starnetwork	Select
-Hindi (India)	1.85%	kandip	Select
-Hungarian (Hungary)	89.85%	Pro Digital	Select
-Icelandic (Iceland)	6.07%	Thorri	Select
-Indonesian (Indonesia)	45.03%	ceefour	Select
-Italian (Italy)	99.75%	Black Cat, ziq2004, Emergento, Martino_Fenu	Select
-Italian (Switzerland)	0.00%	adebe, piotrekkaminski	Select
-Japanese (Japan)	90.16%	 -- 	Select
-Khmer (Cambodia)	99.65%	 -- 	Select
-Korean (South Korea)	4.17%	Min Park, kyu kim	Select
-Lao (Laos)	0.54%	 -- 	Select
-Latvian (Latvia)	34.67%	Aleksander Andrijenko, niro	Select
-Lithuanian (Lithuania)	67.70%	naujasdizainas	Select
-Macedonian (Macedonia)	15.39%	spiritfly	Select
-Malaysian (Malaysia)	1.78%	JLHC	Select
-Mongolian (Mongolia)	0.51%	 -- 	Select
-Norwegian Bokmal (Norway)	88.14%	Roy Andre, Sindre|ProperHost, Magentoinorge, oehoff	Select
-Norwegian Nynorsk (Norway)	0.00%	 -- 	Select
-Persian (Iran)	30.33%	Hadifarnoud	Select
-Polish (Poland)	100.00%	jemoon, snowdog	Select
-Portuguese (Brazil)	100.00%	Indexa, Carlos Teixeira	Select
-Portuguese (Portugal)	99.98%	Magento_3GNTW	Select
-Romanian (Romania)	56.24%	smlaci, Lucrian	Select
-Russian (Russia)	95.07%	Dmitry A Nikolaev, aluminium, Nanocoding representer	Select
-Serbian (Serbia)	8.85%	pallermo	Select
-Slovak (Slovakia)	67.62%	 -- 	Select
-Slovenian (Slovenia)	100.00%	Whitekin	Select
-Spanish (Argentina)	17.30%	Damian Culotta, Martin H	Select
-Spanish (Chile)	38.18%	jfigueroa, zeusco	Select
-Spanish (Colombia)	65.45%	 -- 	Select
-Spanish (Costa Rica)	0.30%	 -- 	Select
-Spanish (Mexico)	94.25%	Josue4ever, davidDWQ	Select
-Spanish (Panama)	90.20%	 -- 	Select
-Spanish (Peru)	10.10%	 -- 	Select
-Spanish (Spain)	93.39%	insaix, OSdave, lopezandres	Select
-Spanish (Venezuela)	2.59%	lopezandres	Select
-Swahili (Kenya)	0.56%	 -- 	Select
-Swedish (Sweden)	87.05%	Icommerce Modules, Staffan Palopaa	Select
-Thai (Thailand)	91.17%	ariesanywhere	Select
-Turkish (Turkey)	97.30%	hidonet	Select
-Ukrainian (Ukraine)	61.79%	 -- 	Select
-Vietnamese (Vietnam)	2.78%	Huân, magestore	Select
-Welsh (United Kingdom)	10.87%	zemic	Select
+Language	Status
+Afrikaans (South Africa)	0.82%
+Albanian (Albania)	13.40%
+Arabic (Algeria)	0.72%
+Arabic (Egypt)	30.27%
+Arabic (Kuwait)	29.24%
+Arabic (Morocco)	66.45%
+Arabic (Saudi Arabia)	100.00%
+Armenian (Eastern)	1.73%
+Armenian (Western)	0.10%
+Azerbaijani (Azerbaijan)	17.30%
+Basque (Basque)	0.10%
+Belarusian (Belarus)	3.34%
+Bengali (Bangladesh)	0.08%
+Bosnian (Bosnia)	23.77%
+Bulgarian (Bulgaria)	86.13%
+Catalan (Catalonia)	87.66%
+Chinese (Hong Kong SAR)	0.64%
+Chinese Simplified (China)	99.87%
+Chinese Traditional (Taiwan)	65.69%
+Croatian (Croatia)	61.77%
+Czech (Czech Republic)	97.96%
+Danish (Denmark)	95.55%
+Dutch (Netherlands)	97.68%
+English (Australian)	66.04%
+English (United Kingdom)	66.63%
+English (United States)	98.04%
+Estonian (Estonia)	47.70%
+Filipino (Philippines)	0.10%
+Finnish (Finland)	77.69%
+French (Canada)	66.06%
+French (France)	99.95%
+Galician(Galician)	85.86%
+Georgian (Georgia)	16.13%
+German (Austria)	0.13%
+German (Germany)	90.76%
+German (Switzerland)	92.95%
+Greek (Greece)	67.57%
+Gujarati (India)	0.68%
+Hebrew (Israel)	85.78%
+Hindi (India)	1.85%
+Hungarian (Hungary)	89.85%
+Icelandic (Iceland)	6.07%
+Indonesian (Indonesia)	45.03%
+Italian (Italy)	99.75%
+Italian (Switzerland)	0.00%
+Japanese (Japan)	90.16%
+Khmer (Cambodia)	99.65%
+Korean (South Korea)	4.17%
+Lao (Laos)	0.54%
+Latvian (Latvia)	34.67%
+Lithuanian (Lithuania)	67.70%
+Macedonian (Macedonia)	15.39%
+Malaysian (Malaysia)	1.78%
+Mongolian (Mongolia)	0.51%
+Norwegian Bokmal (Norway)	88.14%
+Norwegian Nynorsk (Norway)	0.00%
+Persian (Iran)	30.33%
+Polish (Poland)	100.00%
+Portuguese (Brazil)	100.00%
+Portuguese (Portugal)	99.98%
+Romanian (Romania)	56.24%
+Russian (Russia)	95.07%
+Serbian (Serbia)	8.85%
+Slovak (Slovakia)	67.62%
+Slovenian (Slovenia)	100.00%
+Spanish (Argentina)	17.30%
+Spanish (Chile)	38.18%
+Spanish (Colombia)	65.45%
+Spanish (Costa Rica)	0.30%
+Spanish (Mexico)	94.25%
+Spanish (Panama)	90.20%
+Spanish (Peru)	10.10%
+Spanish (Spain)	93.39%
+Spanish (Venezuela)	2.59%
+Swahili (Kenya)	0.56%
+Swedish (Sweden)	87.05%
+Thai (Thailand)	91.17%
+Turkish (Turkey)	97.30%
+Ukrainian (Ukraine)	61.79%
+Vietnamese (Vietnam)	2.78%
+Welsh (United Kingdom)	10.87%
