@@ -1,4 +1,4 @@
-Magento-Locales collected from : https://web.archive.org/web/20140717210430/http://www.magentocommerce.com/translations/
+Magento-Locales collected from : https://web.archive.org/web/20140717210430/http://www.magentocommerce.com/translations/ <br>
 Purpose: Currently Magento Translations official page don't exist.
 
 
