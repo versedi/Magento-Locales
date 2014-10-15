@@ -4,9 +4,9 @@ Purpose: Currently Magento Translations official page don't exist.
 
 ===============
 
-Translations for Magento
-Language	Status
-Afrikaans (South Africa)	0.82%
+Translations for Magento<br>
+Language	Status<br>
+Afrikaans (South Africa)	0.82%<br>
 Albanian (Albania)	13.40%
 Arabic (Algeria)	0.72%
 Arabic (Egypt)	30.27%
