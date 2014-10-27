@@ -1,301 +1,393 @@
-"%s already exist","%s exista deja"
-"%s already exists","%s exista deja"
-"-- Please Select --","-- Alege --"
-"Add Block Names to Hints","Add Block Names to Hints"
-"Add Secret Key to URLs","Add Secret Key to URLs"
-"Add Store Code to Urls","Adauga codul magazinului la Url"
-"Admin","Admin"
-"Admin Base URL","Admin Base URL"
-"Admin User Emails","Admin User Emails"
-"Advanced","Avansat"
-"Allow countries","Permite tarile"
-"Allowed IPs (comma separated)","Permite IP-uri (separate de virgula)"
-"Are you sure?","Esti sigur?"
-"Back","Inapoi"
-"Backup options","Backup options"
-"Base JavaScript URL","Base JavaScript URL"
-"Base Link URL","Base Link URL"
-"Base Media URL","Base Media URL"
-"Base Skin URL","Base Skin URL"
-"Base URL","Base URL"
-"Before modifying the store view code please make sure that it is not used in index.php","Inainte de a modifica codul vitrinei verifica sa nu fie folosit in index.php"
-"Before modifying the website code please make sure that it is not used in index.php","Inainte de a modifica codul site-ului verifica sa nu fie folosit in index.php"
-"Block with name ""%s"" already exists","Blocul cu numele ""%s"" exista deja"
-"Blocks HTML output","Blocks HTML output"
-"Can't retrieve request object","Nu s-a gasit obiectul cerut"
-"Can't retrieve entity config: %s","Nu s-a gasit configuratia entitatii: %s"
-"Cancel","Anuleaza"
-"Cannot Delete Email Template","Nu s-a putut sterge template-ul de email"
-"Cannot complete this operation from non-admin area.","Cannot complete this operation from non-admin area."
-"Category object is required for determining product request path","Category object is required for determining product request path"
-"Code","Cod"
-"Collections Data","Collections Data"
-"Configuration","Configuration"
-"Controller file was loaded but class does not exist","Controller file was loaded but class does not exist"
-"Cookie Domain","Cookie Domain"
-"Cookie Lifetime","Cookie Lifetime"
-"Cookie Path","Cookie Path"
-"Copyright","Copyright"
-"Countries options","Optiuni tari"
-"Create Store","Creaza magazin"
-"Create Store View","Creaza vitrina"
-"Create Website","Creaza site"
-"Current package name","Current package name"
-"Custom Design","Design personalizat"
-"Custom admin URL","Custom admin URL"
-"Custom email 1","Email personal 1"
-"Custom email 2","Email personal 2"
-"Customer support","Serviciul clienti"
-"Date From","Data de la"
-"Date To","Data la"
-"Date/time format ""%s"" is not supported.","Date/time format ""%s"" is not supported."
-"Debug","Debug"
-"Default","Standard"
-"Default Description","Default Description"
-"Default Keywords","Default Keywords"
-"Default Pages","Pagini standard"
-"Default Robots","Default Robots"
-"Default Store","Magazin standard"
-"Default Store View","Vitrina standard"
-"Default Title","Default Title"
-"Default country","Tara standard"
-"Default no-route url","Default no-route url"
-"Default web url","Default web url"
-"Delete","Sterge"
-"Delete Store","Sterge magazin"
-"Delete Store View","Sterge vitrina"
-"Delete Website","Sterge site"
-"Deleting a %1$s will not delete the information associated with the %1$s (e.g. categories, products, etc.), but the %1$s will not be able to be restored. It is suggested that you create a database backup before deleting the %1$s.","Deleting a %1$s will not delete the information associated with the %1$s (e.g. categories, products, etc.), but the %1$s will not be able to be restored. It is suggested that you create a database backup before deleting the %1$s."
-"Design","Design"
-"Design Change","Schimbare de design"
-"Developer","Developer"
-"Developer Client Restrictions","Developer Client Restrictions"
-"Disable email communications","Disable email communications"
-"Disable modules output","Disable modules output"
-"Duplicate Of Template Code","Duplicate Of Template Code"
-"Edit Design Change","Modifica schimbarea de design"
-"Edit Store","Modifica magazin"
-"Edit Store View","Modifica vitrina"
-"Edit Website","Modifica site"
-"Empty identifier field name","Empty identifier field name"
-"Empty main table name","Empty main table name"
-"Enabled","Activat"
-"Enabled for Admin","Activat pentru admin"
-"Enabled for Frontend","Activat pentru client"
-"Error in file: ""%s"" - %s","Eroare in fisier: ""%s"" - %s"
-"Error while saving. Please try again later.","Eroare la salvare. Incearca mai tarziu."
-"Error: Passwords do not match","Error: Passwords do not match"
-"Exceptions Log File Name","Exceptions Log File Name"
-"First Day of Week","First Day of Week"
+"%s","%s"
+"%s already exist.",%s există deja.
+"%s already exists.",%s există deja.
+"-- Please Select --",-- Selectați --
+"<strong style=""color:red"">Warning!</strong> When using CDN, in some cases JavaScript may not run properly if CDN is not in your subdomain","<strong style=""color:red"">Atenție!</strong> La utilizarea CDN, în unele cazurie posibil ca JavaScript să nu ruleze corect dacă CDN nu este în subdomeniul dvs."
+"<strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.).","<strong style=""color:red"">Atenție!</strong> La utilizarea Codului Magazin în URL-uri, în unele cazuri sistemul e posibil să nu funcționeze corect dacă URL-urile fără Coduri Magain sunt specificate în cadrul serviciilor terțe (ex. PayPal etc.)."
+"A category object is required for determining the product request path.",Un obiect categorie e necesar pentru determinarea căii de solicitare a produsului.
+"Add Block Names to Hints",Adăugare Nume Blocuri la Sugestii
+"Add Secret Key to URLs",Adăugare Cheie Secretă la URL-uri
+"Add Store Code to Urls",Adăugare Cod Magazin la URL-uri
+"Admin",Administrator
+"Admin Base URL",Adresă de Bază URL Administrator
+"Admin User Emails",E-mail-uri Utilizator Administrator
+"Advanced",Avansat
+"After selecting a new media storage location, press the Synchronize button
+                                to transfer all media to that location. Media will not be available in the new
+                                location until the synchronization process is complete.","După selectarea unei noi locații de stocare media, apăsați butonul Sincronizare
+                                pentru a transfera toată media la acea locație. Media nu va fi disponibilă la noua
+                                locație decât atunci când procesul de sincronizare e complet."
+"Allow Countries",Țări Permise
+"Allow Symlinks",Permitere Symlinks
+"Allowed IPs (comma separated)",Permitere IP-uri (separate de virgulă)
+"Allowed file types: ICO, PNG, GIF, JPG, JPEG, APNG, SVG. Not all browsers support all these formats!","Tipuri permise de fișiere: ICO, PNG, GIF, JPG, JPEG, APNG, SVG. Nu toate browserele suportă aceste formate!"
+"Allows customers to stay logged in when switching between different stores.",Permite clienților să rămână logați la schimbarea între diferite magazine
+"Alternative text for next link in pagination menu. If empty, default arrow image will used.","Text alternativ pentru legătura următoare în meniul de paginație. Dacă e liber, imaginea săgeată implicită va fi folosită."
+"Alternative text for previous link in pagination menu. If empty, default arrow image will used.","Text alternativ pentru legătura precedentă în meniul de paginație. Dacă e liber, imaginea săgeată implicită va fi folosită."
+"An error occurred while saving. Please review the error log.",Eroare la salvare. Consultați registrul de erori.
+"Anchor Text for Next",Text Ancoră pentru Următorul
+"Anchor Text for Previous",Text Ancoră pentru Precedentul
+"Anchor symbol (#) is not supported in request path",Simbolul ancoră (#) nu e suportat în calea de solicitare
+"Anchor symbol (#) is not supported in url rewrite suffix",Simbolul ancoră (#) nu e suportat în sufixul de rescriere url
+"Are you sure?",Sunteți sigur?
+"Auto-redirect to Base URL",Auto-redirecționare la Adresa de Bază URL
+"Back",Înapoi
+"Backup Options",Opțiuni Back-up
+"Base JavaScript URL",Adresă de Bază URL JavaScript
+"Base Link URL",Legătură de Bază URL
+"Base Media URL",Adresă de Bază URL Media
+"Base Secure URL",Adresă de Bază URL Securizată
+"Base Skin URL",Adresă de Bază URL Temă
+"Base URL",Adresă de Bază URL
+"Base Unsecure URL",Adresă de Bază URL Nesecurizată
+"Before modifying the store view code please make sure that it is not used in index.php.",Înainte de a modifica codul vitrinei asigurați-vă că nu este folosit în index.php.
+"Before modifying the website code please make sure that it is not used in index.php.",Înainte de a modifica codul site-ului asigurați-vă că nu este folosit în index.php.
+"Block with name ""%s"" already exists",Blocul cu numele "%s" există deja
+"Browser Capabilities Detection",Detectare Capacități Browser
+"CSS Settings",Setări CSS
+"Cache Storage Management",Administrare Stocare Cache
+"Cache storage may contain additional data. Are you sure that you want flush it?",Stocarea cache-ului ar putea conține date adiționale. Sunteți sigur că doriți să o goliți?
+"Can not create invoice. Order was not found.",Nu se poate crea factura. Comanda nu a fost găsită.
+"Can't retrieve request object",Nu s-a găsit obiectul cerut
+"Can\'t retrieve entity config: %s",Nu se poate recupera configurația entității: %s
+"Cancel",Anulare
+"Cannot complete this operation from non-admin area.",Nu se poate finaliza această operație dintr-o zonă non-admin.
+"Card type does not match credit card number.",Tipul de card nu se potrivește cu numărul de card de credit.
+"Code",Cod
+"Controller file was loaded but class does not exist",Fișierul controller a fost încărcat dar clasa nu există
+"Cookie Domain",Domeniu Cookie
+"Cookie Lifetime",Durată Viață Cookie
+"Cookie Path",Cale Cookie
+"Cookie Restriction Mode",Mod Restricție Cookie
+"Copyright",Drepturi Autor
+"Core",Nucleu
+"Countries Options",Opțiuni Țări
+"Country",Țara
+"Create Store",Creare Magazin
+"Create Store View",Creare Vitrină
+"Create Website",Creare Site
+"Credit card number does not match credit card type.",Numărul cardului de credit nu se potrivește cu tipul de card de credit.
+"Current Package Name",Nume Pachet Curent
+"Custom Admin Path",Cale Administrator Personalizată
+"Custom Admin URL",URL Administrator Personalizat
+"Custom Design",Aspect Personalizat
+"Custom Email 1",Mesaj Personalizat 1
+"Custom Email 2",Mesaj Personalizat 2
+"Custom Variables",Variabile Personalizate
+"Custom1 Contact Email",E-mail Contact Personalizat1
+"Custom1 Contact Name",Nume Contact Personalizat1
+"Custom2 Contact Email",E-mail Contact Personalizat2
+"Custom2 Contact Name",Nume Contact Personalizat2
+"Customer Support",Serviciul Clienți
+"Dashboard",Panou Control
+"Date From",De la Data
+"Date To",Până la Data
+"Date/time format ""%s"" is not supported.",Formatul dată/timp "%s" nu e suportat.
+"Debug",Depanare
+"Default",Implicit
+"Default Country",Tară Implicită
+"Default Description",Descriere Implicită
+"Default Keywords",Cuvinte Cheie Implicite
+"Default No-route URL",URL Fără-rută Implicit
+"Default Pages",Pagini Implicite
+"Default Robots",Roboți Impliciți
+"Default Store",Magazin Implicit
+"Default Store View",Vitrină Implicită
+"Default Title",Titlu Implicit
+"Default Web URL",URL Web Implicit
+"Delete",Ștergere
+"Delete Store",Ștergere Magazin
+"Delete Store View",Ștergere Vitrină
+"Delete Website",Ștergere Site
+"Deleting a %1$s will not delete the information associated with the %1$s (e.g. categories, products, etc.), but the %1$s will not be able to be restored. It is suggested that you create a database backup before deleting the %1$s.","Ștergând %1$s nu se va șterge informația asociată cu %1$s (ex. categorii, produse, etc.), dar %1$s nu va fi disponibil pentru restabilire. Vă sugerăm să faceți un back-up la baza de date înainte de a șterge %1$s."
+"Design",Aspect
+"Design Change",Schimbare Aspect
+"Developer",Dezvoltator
+"Developer Client Restrictions",Restricții Dezvoltator Client
+"Disable Email Communications",Dezactivare Comunicații E-mail
+"Disable Modules Output",Dezactivare Output Module
+"Display Demo Store Notice",Afișare Notificare Magazin Demo
+"Duplicate Of Template Name",Nume Șablon Duplicat
+"Edit Design Change",Modificare Schimbare Aspect
+"Edit Store",Modificare Magazin
+"Edit Store View",Modificare Vitrină
+"Edit Website",Modificare Site
+"Empty identifier field name",Nume câmp identificator gol
+"Empty main table name",Nume tabel principal gol
+"Enable Charts",Activare Grafice
+"Enabled",Activat
+"Enabled for Admin",Activat pentru Administrator
+"Enabled for Frontend",Activat pentru Frontend
+"Environment Update Time",Timp Actualizare Mediu
+"Error in file: ""%s"" - %s",Eroare în fișierul: "%s" - %s
+"European Union Countries",Țări din Uniunea Europeană
+"Exceptions Log File Name",Nume Fișier Jurnal Excepții
+"Favicon Icon",Iconiță Favicon
+"File %s does not exist",Fișierul %s nu există
+"File %s is not readable",Fișierul %s nu poate fi citit
+"File not found",Fișierul nu e găsit
+"File system",Sistem Fișiere
+"File with an extension ""%value%"" is protected and cannot be uploaded",Fișierul cu o extensie "%value%" e protejat și nu poate fi încărcat
+"First Day of Week",Prima Zi A Săptămânii
+"Flush Cache Storage",Golire Stocare Cache
+"Flush Magento Cache",Golire Cache Magento
 "Footer","Footer"
-"Forgot Password Email Sender","Expeditor mail parole uitate"
-"Forgot Password Email Template","Template mail parole uitate"
+"Forgot Password Email Sender",Expeditor E-mail Parolă Uitată
+"Forgot Password Email Template",Șablon E-mail Parolă Uitată
 "General","General"
-"General Settings","Setari generale"
-"General contact","Contact principal"
+"General Contact",Contact General
+"General Contact Email",E-mail Contact General
+"General Contact Name",Nume Contact General
+"General Settings",Setări Generale
+"Get info about current Magento installation",Obținere informații despre instalarea curentă de Magento
 "Global","Global"
-"HTML Head","HTML Head"
+"HTML Head",Head HTML
+"HTML tags are not allowed",Etichetele HTML nu sunt permise
 "Header","Header"
-"Host","Host"
-"Id path for specified store","Id path for specified store"
-"Incorrect credit card expiration date","Incorrect credit card expiration date"
-"Invalid base url type","Invalid base url type"
-"Invalid block name to set child %s: %s","Invalid block name to set child %s: %s"
-"Invalid block type: %s","Invalid block type: %s"
-"Invalid block: %s","Invalid block: %s"
-"Invalid layout update argument, expected Mage_Core_Model_Layout_Element","Invalid layout update argument, expected Mage_Core_Model_Layout_Element"
-"Invalid layout update handle","Invalid layout update handle"
-"Invalid messages storage ""%s"" for layout messages initialization","Invalid messages storage ""%s"" for layout messages initialization"
-"Invalid transactional email code: ","Invalid transactional email code: "
-"Invalid websites configuration path: %s","Invalid websites configuration path: %s"
-"Layout","Layout"
-"Layouts","Layouts"
-"Leave empty for access from any location","Leave empty for access from any location"
-"Locale","Tara si limba"
-"Locale options","Optiuni limba"
-"Log Settings","Log Settings"
-"Logging from Mage::log(). File is located in�{{base_dir}}/var/log","Logging from Mage::log(). File is located in�{{base_dir}}/var/log"
-"Logging from Mage::logException(). File is located in�{{base_dir}}/var/log","Logging from Mage::logException(). File is located in�{{base_dir}}/var/log"
-"Logo Image Alt","Logo Image Alt"
-"Logo Image Src","Logo Image Src"
-"Manage Stores","Gestioneaza magazine"
-"Match expressions in the same order as displayed in the configuration.","Match expressions in the same order as displayed in the configuration."
-"Miscellaneous HTML","Miscellaneous HTML"
-"Miscellaneous scripts","Miscellaneous scripts"
-"Model class does not exist: %s","Model class does not exist: %s"
-"Model collection resource name is not defined","Model collection resource name is not defined"
-"Module ""%1$s"" can not be depended from ""%2$s""","Module ""%1$s"" can not be depended from ""%2$s"""
-"Module ""%1$s"" requires module ""%2$s""","Module ""%1$s"" requires module ""%2$s"""
-"Name","Nume"
-"New Design Change","Schimbare de design noua"
-"New Store","Magazin nou"
-"New Store View","Vitrina noua"
-"New Website","Site nou"
-"No","No"
-"Package","Pachet"
-"Please choose to register or to checkout as a guest","Please choose to register or to checkout as a guest"
-"Please define flag code.","Please define flag code."
-"Please enter 6 or more characters.","Please enter 6 or more characters."
-"Please enter 6 or more characters. Leading or trailing spaces will be ignored.","Please enter 6 or more characters. Leading or trailing spaces will be ignored."
-"Please enter a number greater than 0 in this field.","Please enter a number greater than 0 in this field."
-"Please enter a valid $ amount. For example $100.00.","Please enter a valid $ amount. For example $100.00."
-"Please enter a valid URL. For example http://www.example.com or www.example.com","Please enter a valid URL. For example http://www.example.com or www.example.com"
-"Please enter a valid URL. http:// is required","Please enter a valid URL. http:// is required"
-"Please enter a valid credit card number.","Please enter a valid credit card number."
-"Please enter a valid date.","Please enter a valid date."
-"Please enter a valid email address. For example johndoe@domain.com.","Please enter a valid email address. For example johndoe@domain.com."
-"Please enter a valid number in this field.","Please enter a valid number in this field."
-"Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.","Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890."
-"Please enter a valid social security number. For example 123-45-6789.","Please enter a valid social security number. For example 123-45-6789."
-"Please enter a valid zip code.","Please enter a valid zip code."
-"Please enter a valid zip code. For example 90602 or 90602-1234.","Please enter a valid zip code. For example 90602 or 90602-1234."
-"Please enter valid password.","Please enter valid password."
-"Please make sure that Base URL ends with '/' (slash), e.g. http://yourdomain/magento/","Please make sure that Base URL ends with '/' (slash), e.g. http://yourdomain/magento/"
-"Please make sure your passwords match.","Please make sure your passwords match."
-"Please select State/Province.","Please select State/Province."
-"Please select an option.","Please select an option."
-"Please select one of the above options.","Please select one of the above options."
-"Please select one of the options.","Please select one of the options."
-"Please specify payment method.","Please specify payment method."
-"Please specify shipping method.","Please specify shipping method."
-"Please use letters only (a-z or A-Z) in this field.","Please use letters only (a-z or A-Z) in this field."
-"Please use letters only (a-z) in this field.","Please use letters only (a-z) in this field."
-"Please use numbers only in this field. please avoid spaces or other characters such as dots or commas.","Please use numbers only in this field. please avoid spaces or other characters such as dots or commas."
-"Please use only letters (a-z) or numbers (0-9) only in this field. No spaces or other characters are allowed.","Please use only letters (a-z) or numbers (0-9) only in this field. No spaces or other characters are allowed."
-"Please use only letters (a-z) or numbers (0-9) or spaces and # only in this field.","Please use only letters (a-z) or numbers (0-9) or spaces and # only in this field."
-"Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.","Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter."
-"Please use this date format: dd/mm/yyyy. For example 17/03/2006 for the 17th of March, 2006.","Please use this date format: dd/mm/yyyy. For example 17/03/2006 for the 17th of March, 2006."
-"Please wait, loading...","Please wait, loading..."
-"Polls","Polls"
-"Port (25)","Port (25)"
+"Host",Gazdă
+"How many links to display at once.",Câte legături să fie afișate la un moment dat.
+"ID Path for Specified Store",Cale ID pentru magazinul specificat
+"If the current frame position does not cover utmost pages, will render link to current position plus/minus this value.","Dacă poziția actuală a cadrului nu acoperă maximul de pagini, se va randa legătura către poziția curentă plus/minus această valoare."
+"Incorrect credit card expiration date.",Dată expirare card credit incorectă.
+"Input type ""%value%"" not found in the input types list.",Tip date intrare "%value%" ne-găsit în lista de tipuri de date intrare.
+"Invalid URL '%value%'.",URL '%value%' invalid.
+"Invalid base url type",Tip invalid adresă de bază URL
+"Invalid block name to set child %s: %s",Nume bloc invalid pentru setare copil %s: %s
+"Invalid block type: %s",Tip bloc invalid: %s
+"Invalid block: %s",Bloc invalid: %s
+"Invalid connection",Conexiune invalidă
+"Invalid date",Dată invalidă
+"Invalid layout update handle",Handler actualizare schemă invalid
+"Invalid messages storage ""%s"" for layout messages initialization",Stocare mesaje invalidă "%s" pentru inițializarea mesajelor de schemă
+"Invalid query",Interogare invalidă
+"Invalid transactional email code: %s",Cod e-mail tranzacțional invalid: %s
+"Invalid website\'s configuration path: %s",Cale configurare site invalidă: %s
+"JavaScript Settings",Setări JavaScript
+"Layout",Schemă
+"Leave empty for access from any location.",Lăsați liber pentru acces din orice locație.
+"List of stores",Lista magazinelor
+"Locale",Limba
+"Locale Options",Opțiuni Locale
+"Log Settings",Setări Jurnal
+"Logging from Mage::log(). File is located in {{base_dir}}/var/log",Logare de la Mage::log(). Fișierul e localizat în {{base_dir}}/var/log
+"Logging from Mage::logException(). File is located in {{base_dir}}/var/log",Logare de la Mage::logException(). Fișierul e localizat în {{base_dir}}/var/log
+"Login is Case Sensitive",Logarea e Sensibilă la Majuscule și Minuscule
+"Logo Image",Imagine Siglă
+"Logo Image Alt",Alt Imagine Siglă
+"Logo Image Src",Sursă Imagine Siglă
+"Magento info",Informații Magento
+"Magento info API",API informații Magento
+"Mail Sending Settings",Setări Trimitere E-mail
+"Make sure that base URL ends with '/' (slash), e.g. http://yourdomain/magento/","Asigurați-vă că adresa de bază URL se termină cu '/' (slash), ex. http://yourdomain/magento/"
+"Manage Stores",Administrare Magazine
+"Match expressions in the same order as displayed in the configuration.",Potrivire expresii în aceeași ordine ca cea afișată în configurație.
+"Media Storage",Stocare Media
+"Merge CSS Files",Îmbinare Fișiere CSS
+"Merge JavaScript Files",Îmbinare Fișiere JavaScript
+"Miscellaneous HTML",HTML Divers
+"Miscellaneous Scripts",Script-uri Diverse
+"Model collection resource name is not defined.",Nume resursă colecție model nedefinită.
+"Module ""%1$s"" cannot depend on ""%2$s"".",Modulul "%1$s" nu poate depinde de "%2$s".
+"Module ""%1$s"" requires module ""%2$s"".",Modulul "%1$s" necesită modulul "%2$s".
+"Name",Nume
+"New Design Change",Schimbare Aspect Nouă
+"New Store",Magazin Nou
+"New Store View",Vitrină Nouă
+"New Website",Site Nou
+"No",Nu
+"Offloader header",Antet Offloader
+"PHP SOAP extension is required.",Extensia SOAP PHP e necesară.
+"Package",Pachet
+"Pagination",Paginație
+"Pagination Frame",Cadru Paginație
+"Pagination Frame Skip",Sărire Cadru Paginație
+"Parent directory does not exist: %s",Directorul părinte nu există: %s
+"Path ""%value%"" is not available and cannot be used.",Calea "%value%" e indisponibilă și nu poate fi utilizată.
+"Path ""%value%"" is protected and cannot be used.",Calea "%value%" e protejată și nu poate fi utilizată.
+"Path ""%value%"" may not include parent directory traversal (""../"", ""..\\).""","Calea ""%value%"" nu poate include parcurgerea directorului părinte (""../"", ""..\\)."""
+"Please define flag code.",Definiți codul fanion-ului.
+"Please enter 6 or more characters. Leading or trailing spaces will be ignored.",Introduceți minim 6 caractere. Spațiile din față sau din spate vor fi ignorate.
+"Please enter 7 or more characters. Password should contain both numeric and alphabetic characters.",Introduceți minim 7 caractere. Parola trebuie să conțină atât caractere numerice cât și alfabetice.
+"Please enter a number 0 or greater in this field.",Introduceți un numar mai mare sau egal cu 0 în acest câmp.
+"Please enter a number 1 or greater in this field.",Introduceți un număr mai mare sau egal cu 1 în acest câmp.
+"Please enter a number greater than 0 in this field.",Introduceți un număr mai mare ca 0 în acest câmp.
+"Please enter a number lower than 100.",Introduceți un număr mai mic de 100.
+"Please enter a valid $ amount. For example $100.00.",Introduceți o sumă corectă. De exemplu 100.00 lei.
+"Please enter a valid URL Key. For example ""example-page"", ""example-page.html"" or ""anotherlevel/example-page"".","Introduceți o Cheie URL validă. De exemplu ""pagină-exemplu"", ""pagină-exemplu.html"" sau ""altnivel/pagină-exemplu""."
+"Please enter a valid URL. For example http://www.example.com or www.example.com",Introduceți un URL corect. De exemplu http://www.example.com sau www.example.com
+"Please enter a valid URL. Protocol is required (http://, https:// or ftp://)","Introduceți un URL valid. Protocolul trebuie specificat (http://, https:// sau ftp://)"
+"Please enter a valid XML-identifier. For example something_1, block5, id-4.","Introduceți un identificator XML valid. De exemplu ceva_1, bloc5, id-4."
+"Please enter a valid credit card number.",Introduceți un număr corect de card.
+"Please enter a valid credit card verification number.",Introduceți un număr verificare card credit valid.
+"Please enter a valid date between %s and %s",Introduceți o dată validă între %s și %s
+"Please enter a valid date equal to or greater than %s",Introduceți o dată validă mai mare sau egală cu %s
+"Please enter a valid date less than or equal to %s",Introduceți o dată validă mai mică sau egală cu %s
+"Please enter a valid date.",Introduceți o dată corectă.
+"Please enter a valid day (1-%d).",Introduceți o zi validă (1-%d).
+"Please enter a valid email address. For example johndoe@domain.com.",Introduceți o adresă de e-mail corectă. De exemplu ionpopescu@domeniu.ro.
+"Please enter a valid fax number. For example (123) 456-7890 or 123-456-7890.",Introduceți un număr de fax valid. De exemplu (026) 412-3456 sau 026-412-3456.
+"Please enter a valid full date",Introduceți o dată completă validă.
+"Please enter a valid month (1-12).",Introduceți o lună validă (1-12).
+"Please enter a valid number in this field.",Introduceți un număr corect în acest câmp.
+"Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.",Introduceți un număr de telefon corect. De exemplu (026) 412-3456 sau 026-412-3456.
+"Please enter a valid social security number. For example 123-45-6789.","Introduceți un CNP corect. De exemplu, 2750918243564."
+"Please enter a valid year (1900-%d).",Introduceți un an valid (1900-%d).
+"Please enter a valid zip code.",Introduceți un cod poștal corect.
+"Please enter a valid zip code. For example 90602 or 90602-1234.",Introduceți un cod poștal corect. De exemplu 400550.
+"Please enter issue number or start date for switch/solo card type.",Introduceți numărul emiterii sau data începerii pentru tipul de card switch/solo.
+"Please input a valid CSS-length. For example 100px or 77pt or 20em or .5ex or 50%.",Introduceți o lungime CSS validă. De exemplu 100px sau 77pt sau 20em sau .5ex sau 50%.
+"Please make sure your passwords match.",Verificați potrivirea parolelor.
+"Please select State/Province.",Selectați județul.
+"Please select a file",Selectați un fișier.
+"Please select an option.",Selectați o opțiune.
+"Please select one of the above options.",Selectați una dintre opțiunile de mai sus.
+"Please select one of the options.",Selectați una dintre opțiuni.
+"Please set available and/or protected paths list(s) before validation.",Setați lista(ele) protejată(e) și/sau disponibilă(e) de cale înainte de validare.
+"Please specify either a category or a product, or both.","Specificați fie o categorie fie un produs, fie ambele."
+"Please use letters only (a-z or A-Z) in this field.",Folosiți doar litere (a-z sau A-Z) în acest câmp.
+"Please use numbers only in this field. Please avoid spaces or other characters such as dots or commas.",Folosiți doar numere în acest câmp. Evitați folosirea spațiilor sau a altor caractere cum ar fi punctele sau virgulele.
+"Please use only letters (a-z or A-Z) or numbers (0-9) only in this field. No spaces or other characters are allowed.",Folosiți numai litere (a-z sau A-Z) sau cifre (0-9) în acest câmp. Spațiile sau alte caractere nu sunt permise.
+"Please use only letters (a-z or A-Z) or numbers (0-9) or spaces and # only in this field.",Folosiți numai litere (a-z sau A-Z) sau cifre (0-9) sau spații și # în acest câmp.
+"Please use only letters (a-z or A-Z), numbers (0-9) or underscore(_) in this field, first character should be a letter.","Folosiți numai litere (a-z sau A-Z), cifre (0-9) sau underscore (_) în acest câmp, iar primul caracter trebuie să fie o literă."
+"Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.","Folosiți doar litere (a-z), numere (0-9) sau underscore(_) în acest câmp, iar primul caracter trebuie să fie o literă."
+"Please use only visible characters and spaces.",Folosiți numai caractere vizibile și spații.
+"Please use this date format: dd/mm/yyyy. For example 17/03/2006 for the 17th of March, 2006.",Folosiți acest format pentru dată: zz/ll/aaaa. De exemplu 17/03/2008 pentru 17 martie 2008.
+"Please wait, loading...","Asteptați, se încarcă..."
+"Polls",Sondaje
+"Port (25)",Portul (25)
 "Profiler","Profiler"
-"Prototype Deprecation Log","Prototype Deprecation Log"
-"Request path for specified store","Request path for specified store"
-"Requested invalid store ""%s""","Requested invalid store ""%s"""
-"Resource is not set","Resource is not set"
-"Root Category","Root Category"
-"SMTP settings (Windows server only)","SMTP settings (Windows server only)"
-"Sales representative","Reprezentant vanzari"
-"Save","Salveaza"
-"Save Store","Salveaza magazin"
-"Save Store View","Salveaza vitrina"
-"Save Website","Salveaza site"
-"Search Engines Optimization","Search Engines Optimization"
-"Secure","Secure"
-"Security","Security"
-"Select Date","Select Date"
-"Sender email","Expeditor mail"
-"Sender name","Nume expeditor"
-"Services","Servicii"
-"Session Cookie management","Session Cookie management"
-"Session Lifetime, Seconds","Session Lifetime, Seconds"
-"Session Validation Settings","Session Validation Settings"
-"Set as default","Set as default"
-"Skin (Images / CSS)","Skin (Images / CSS)"
-"Sort order","Sort order"
-"Specified date/time ""%1$s"" do not match format ""%2$s"".","Specified date/time ""%1$s"" do not match format ""%2$s""."
-"Specify either category or product, or both.","Specify either category or product, or both."
-"Start date can't be greater than end date","Start date can't be greater than end date"
-"Startup page","Startup page"
+"Recovery Link Expiration Period (days)",Perioadă Expirare Legătură Recuperare (zile)
+"Request Path for Specified Store",Solicitare cale pentru magazinul specificat
+"Request path length exceeds allowed %s symbols.",Lungime cale solicitare depășește %s simboluri permise.
+"Requested file may not include parent directory traversal (""../"", ""..\\ notation)""","Fișierul solicitat nu poate include parcurgerea directorului părinte (notația ""../"", ""..\\"")"
+"Requested invalid store ""%s""",Magazin solicitat invalid "%s"
+"Resource is not set.",Resursa nu e setată.
+"Retrieve info about current Magento installation",Recuperare informații despre instalarea curentă Magento.
+"Retrieve store data",Recuperare date magazin
+"Retrieve store list",Recuperare listă magazin
+"Return-Path Email",E-mail Cale-Întoarcere
+"Root Category",Categorie Rădăcină
+"Sales Representative",Reprezentant Vânzări
+"Sales Representative Contact Email",E-mail Contact Reprezentant Vânzări
+"Sales Representative Contact Name",Nume Contact Reprezentant Vânzări
+"Save",Salvare
+"Save Store",Salvare Magazin
+"Save Store View",Salvare Vitrină
+"Save Website",Salvare Site
+"Search Engines Optimization",Optimizare Motoare Căutare
+"Secure",Securizat
+"Security",Securitate
+"Select Date",Selectare Dată
+"Select Media Database",Selectare Bază de Date Media
+"Sender Email",Expeditor E-mail
+"Sender Name",Nume Expeditor
+"Services",Servicii
+"Session Cookie Management",Administrare Cookie Sesiune
+"Session Lifetime (seconds)",Durată de Viață Sesiune (secunde)
+"Session Validation Settings",Setări Validare Sesiune
+"Set Return-Path",Setare Cale Întoarcere
+"Set as Default",Setare ca implicit
+"Skin (Images / CSS)",Temă (Imagini / CSS)
+"Sort Order",Ordine Sortare
+"Specified date/time ""%1$s"" do not match format ""%2$s"".",Data/timp specificate "%1$s" nu se potrivesc cu formatul "%2$s".
+"Start date cannot be greater than end date.",Data de începere trebuie să fie mai mare cu data de oprire.
+"Startup Page",Pagină Pornire
 "Status","Status"
-"Store","Magazin"
-"Store Email Addresses","Adrese mail pt magazin"
-"Store Information","Informatii magazin"
-"Store Name","Nume magazin"
-"Store View","Store View"
-"Store View Information","Informatii vitrina"
-"Store View Name","Nume vitrina"
-"Store View was successfully saved","Vitrina magazinului a fost salvata."
-"Store code should contain only letters (a-z), numbers (0-9) or underscore(_), first character should be a letter","Store code should contain only letters (a-z), numbers (0-9) or underscore(_), first character should be a letter"
-"Store doesn't exist","Store doesn't exist"
-"Store view doesn't exist","Store view doesn't exist"
-"Store view was successfully deleted.","Store view was successfully deleted."
-"Store was successfully deleted.","Magazinul a fost sters."
-"Store was successfully saved","Magazinul a fost salvat"
-"Store with the same code","Magazin cu acelasi cod"
-"System","Sistem"
-"System Log File Name","System Log File Name"
-"Template Path Hints","Template Path Hints"
-"Templates","Template-uri"
-"The %s you entered is invalid. Please make sure that it follows ""http://domain.com/"" format.","The %s you entered is invalid. Please make sure that it follows ""http://domain.com/"" format."
-"Themes","Teme"
-"This category and all its child elements","This category and all its child elements"
-"This category and its child categories only","This category and its child categories only"
-"This category and its products only","This category and its products only"
-"This category only","Doar aceasta categorie"
-"This is a required field.","Acest camp este obligatoriu."
-"This store cannot be deleted","This store cannot be deleted"
-"This store cannot be deleted.","This store cannot be deleted."
-"This store view cannot be deleted","This store view cannot be deleted"
-"This store view cannot be deleted.","This store view cannot be deleted."
-"This website cannot be deleted","This website cannot be deleted"
-"This website cannot be deleted.","This website cannot be deleted."
-"This will be displayed just before body closing tag","This will be displayed just before body closing tag"
-"This will be included before head closing tag in page HTML","This will be included before head closing tag in page HTML"
-"Timezone","Timezone"
-"Title Prefix","Title Prefix"
-"Title Suffix","Title Suffix"
-"Translate Inline","Translate Inline"
-"Translate cache should be disabled for both Frontend and Admin inline translations","Translate cache should be disabled for both Frontend and Admin inline translations"
-"Translations","Traduceri"
-"Unable to delete store view. Please, try again later.","Unable to delete store view. Please, try again later."
-"Unable to delete store. Please, try again later.","Unable to delete store. Please, try again later."
-"Unable to delete website. Please, try again later.","Unable to delete website. Please, try again later."
-"Unable to proceed. Please, try again","Nu s-a putut continua operatiunea. Incercati din nou."
-"Unknown scope ""%s""","Unknown scope ""%s"""
-"Unsecure","Unsecure"
-"Url Options","Url Options"
-"Use HTTP Only","Use HTTP Only"
-"Use Secure URLs in Admin","Use Secure URLs in Admin"
-"Use Secure URLs in Frontend","Use Secure URLs in Frontend"
-"Use Web Server Rewrites","Use Web Server Rewrites"
-"Use custom admin URL","Use custom admin URL"
-"Validate HTTP_USER_AGENT","Validate HTTP_USER_AGENT"
-"Validate HTTP_VIA","Validate HTTP_VIA"
-"Validate HTTP_X_FORWARDED_FOR","Validate HTTP_X_FORWARDED_FOR"
-"Validate REMOTE_ADDR","Validate REMOTE_ADDR"
-"Values less than 60 are ignored.","Values less than 60 are ignored."
+"Storage Configuration for Media",Configurație Stocare pentru Media
+"Store",Magazin
+"Store API",API Magazin
+"Store Contact Address",Adresă Contact Magazin
+"Store Contact Information",Informații Contact Magazin
+"Store Contact Telephone",Telefon Contact Magazin
+"Store Email Addresses",Adrese E-mail Magazin
+"Store Information",Informații Magazin
+"Store Name",Nume Magazin
+"Store View",Vitrină
+"Store View Information",Informații Vitrină
+"Store View Name",Nume Vitrină
+"Store view doesn't exist",Vitrina nu există
+"Store with the same code",Magazin cu același cod
+"System",Sistem
+"System Log File Name",Nume Fișier Jurnal Sistem
+"Template Path Hints",Sugestii Cale Șablon
+"Template Settings",Setări Șablon
+"Template Variables",Variabile Șablon
+"Templates",Șabloane
+"Text length does not satisfy specified text range.",Lungimea textului nu satisface intervalul de text specificat.
+"The %s you entered is invalid. Please make sure that it follows ""http://domain.com/"" format.",Legătura %s introdusă de dvs. e invalidă. Asigurați-vă că respectă formatul "http://domeniu.ro/".
+"The From Date value should be less than or equal to the To Date value.",Valoarea De La Data ar trebui să fie mai mică sau egală cu valoarea Până La Data
+"The store code may contain only letters (a-z), numbers (0-9) or underscore(_), the first character must be a letter","Codul magazin poate conține numai litere (a-z), cifre (0-9) sau underscore (_), iar primul caracter trebuie să fie literă"
+"The store does not exist",Magazinul nu există
+"The store has been deleted.",Magazinul a fost șters.
+"The store has been saved.",Magazinul a fost salvat.
+"The store view has been deleted.",Vitrina a fost ștearsă.
+"The store view has been saved",Vitrina a fost salvată.
+"The template Name must not be empty.",Numele șablonului nu poate fi gol.
+"The value is not within the specified range.",Valoarea nu se află în intervalul specificat.
+"The website does not exist.",Site-ul nu există.
+"The website has been deleted.",Site-ul a fost șters.
+"The website has been saved.",Site-ul a fost salvat.
+"Themes",Teme
+"This category and all its child elements",Această categorie și toate elementele sale copil
+"This category and its child categories only",Această categorie și categoriile sale copil doar
+"This category and its products only",Această categorie și produsele sale doar
+"This category only",Doar această categorie
+"This date is a required value.",Această dată e o valoare obligatorie.
+"This is a required field.",Acesta este un câmp obligatoriu.
+"This store cannot be deleted.",Acest magazin nu poate fi șters.
+"This store view cannot be deleted.",Această vitrină nu poate fi ștearsă.
+"This website cannot be deleted.",Acest site nu poate fi șters.
+"This will be displayed just before body closing tag.",Acesta va fi afișat chiar înainte de tag-ul de închidere al body-ului.
+"This will be included before head closing tag in page HTML.",Acestea vor fi incluse înaintea tag-ului de închidere a head-ului în pagina HTML.
+"Timezone",Fus orar
+"Title Prefix",Prefix Titlu
+"Title Suffix",Sufix Titlu
+"Transactional Emails",Email-uri Tranzacționale
+"Translate Inline",Traducere Inline
+"Translate, blocks and other output caches should be disabled for both frontend and admin inline translations.","Traducerea, blocurile și alte cache-uri de ieșire ar trebui să fie dezactivate atât din traducerile inline din frontend cât și din cele din administrator."
+"Translations",Traduceri
+"Two and more slashes together are not permitted in request path",Două sau mai multe slash-uri împreună nu sunt permise în calea solicitării
+"Two and more slashes together are not permitted in url rewrite suffix",Două sau mai multe slash-uri împreună nu sunt permise în sufixul rescrierii url
+"Unable to create directory: %s",Nu se poate crea directorul: %s
+"Unable to delete store view. Please, try again later.",Imposibil de șters vitrina. Încercați mai târziu.
+"Unable to delete store. Please, try again later.",Imposibil de șters magazinul. Încercați mai târziu.
+"Unable to delete website. Please, try again later.",Imposibil de șters site-ul. Încercați mai târziu.
+"Unable to proceed. Please, try again",Nu se poate continua. Încercați din nou
+"Unable to proceed. Please, try again.",Nu se poate continua. Încercați din nou.
+"Unable to save file ""%s"" at ""%s""",Nu se poate salva fișierul "%s" la "%s"
+"Unable to save file: %s",Nu se poate salva fișierul: %s
+"Unknown old style column type definition: {$definition}.",Definiție tip coloană stil vechi necunoscută: {$definition}.
+"Unknown scope ""%s"".",Acoperire necunoscută "%s".
+"Unsecure",Nesecurizat
+"Url Options",Opțiuni Url
+"Use Custom Admin Path",Utilizare Cale Personalizată Administrator
+"Use Custom Admin URL",Utilizare URL Personaliat Administrator
+"Use HTTP Only",Folosire Doar HTTP
+"Use SID on Frontend",Utilizare SID pe Frontend
+"Use Secure URLs in Admin",Folosire URL-uri securizate în Admin
+"Use Secure URLs in Frontend",Folosire URL-uri securizate în Frontend
+"Use Web Server Rewrites",Folosire Rescrieri Web Server
+"VAT Number",Număr TVA
+"Validate HTTP_USER_AGENT",Validare HTTP_USER_AGENT
+"Validate HTTP_VIA",Validare HTTP_VIA
+"Validate HTTP_X_FORWARDED_FOR",Validare HTTP_X_FORWARDED_FOR
+"Validate REMOTE_ADDR",Validare REMOTE_ADDR
+"Validation has failed.",Validarea a eșuat.
+"Values less than 60 are ignored. Note that changes will apply after logout.",Valorile sub 60 sunt ignorate. Rețineți că schimbările vor fi aplicate după delogare.
+"Variable Code must be unique.",Codul Variabilă trebuie să fie unic.
+"Warning! Enabling this feature is not recommended on production environments because it represents a potential security risk.",Atenție! Activarea acestei trăsături nu e recomandată în medii de producție deoarece reprezintă un potențial risc de securitate.
 "Web","Web"
-"Website","Site"
-"Website Information","Informatii site"
-"Website Name","Nume site"
-"Website code should contain only letters (a-z), numbers (0-9) or underscore(_), first character should be a letter","Website code should contain only letters (a-z), numbers (0-9) or underscore(_), first character should be a letter"
-"Website doesn't exist","Website doesn't exist"
-"Website was successfully deleted.","Site-ul a fost sters."
-"Website was successfully saved","Site-ul a fost salvat."
-"Website with the same code","Site cu acelasi cod"
-"Weekend Days","Weekend Days"
-"Welcome Text","Welcome Text"
-"Wrong number of arguments for %s","Wrong number of arguments for %s"
-"Yes","Yes"
-"Your order can not be completed at this time as there is no payment methods available for it.","Your order can not be completed at this time as there is no payment methods available for it."
-"Your order can not be completed at this time as there is no shipping methods available for it. Please make necessary changes in your shipping address.","Your order can not be completed at this time as there is no shipping methods available for it. Please make necessary changes in your shipping address."
-"Your session has been expired, you will be relogged in now.","Sesiunea a expirat, vei fi re-autentificat."
-"Search","Search"
-"Go","Go"
-"Search entire store here...","Search entire store here..."
-"Compare Products","Compare Products"
-"Back to Main Product Info","Back to Main Product Info"
-"You have no items to compare.","You have no items to compare."
-"Clear All","Clear All"
-"Search entire store here...","Search entire store here..."
-"Search","Search"
-"About the calendar","About the calendar"
-"For latest version visit: %s","For latest version visit: %s"
-"Distributed under GNU LGPL. See %s for details.","Distributed under GNU LGPL. See %s for details."
-"Date selection:","Date selection:"
-"- Use the %s, %s buttons to select year","- Use the %s, %s buttons to select year"
-"- Use the %s buttons to select month","- Use the %s buttons to select month"
-"- Hold mouse button on any of the above buttons for faster selection.","- Hold mouse button on any of the above buttons for faster selection."
-"Time selection:","Time selection:"
-"- Click on any of the time parts to increase it","- Click on any of the time parts to increase it"
-"- or click and drag for faster selection.","- or click and drag for faster selection."
-"Go Today","Go Today"
-"Next month (hold for menu)","Next month (hold for menu)"
-"Next year (hold for menu)","Next year (hold for menu)"
-"Select date","Select date"
-"Drag to move","Drag to move"
-"Close","Close"
-"(Shift-)Click or drag to change value","(Shift-)Click or drag to change value"
-"Time:","Time:"
-"DHTML Date/Time Selector","DHTML Date/Time Selector"
+"Website",Site
+"Website Information",Informații Site
+"Website Name",Nume Site
+"Website code may only contain letters (a-z), numbers (0-9) or underscore(_), the first character must be a letter","Codul site-ului poate conține numai litere (a-z), cifre (0-9) sau underscore (_), iar primul caracter trebuie să fie literă"
+"Website with the same code",Site cu același cod
+"Weekend Days",Zile Weekend
+"Welcome Text",Text Bun Venit
+"Wrong file info format",Format fișier info greșit
+"Wrong number of arguments for %s",Număr greșit de argumente pentru %s
+"Wrong old style column type definition: {$definition}.",Definiție tip coloană stil vechi greșită: {$definition}.
+"Yes",Da
+"You will have to log in after you save your custom admin path.",Veți fi nevoit să vă logați după ce salvați calea administrator personalizată.
+"Your design change for the specified store intersects with another one, please specify another date range.","Schimbarea dvs. de aspect pentru magazinul specificat se intersectează cu alta, vă rugăm specificați un alt interval de dată."
+"database ""%s""",baza de date "%s"

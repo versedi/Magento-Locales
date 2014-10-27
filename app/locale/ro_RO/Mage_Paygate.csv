@@ -1,45 +1,67 @@
-"API Login ID","API Login ID"
-"Authorize Only","Authorize Only"
-"Authorize and Capture","Authorize and Capture"
+"3D Secure","3D Secure"
+"3D Secure Card Validation",Validare Card 3D Secure
+"API Login ID",ID Logare API
+"Accepted Currency",Valuta Acceptată
+"Allow Partial Authorization",Permitere Autorizare Parțială
+"Are you sure you want to cancel your payment? Click OK to cancel your payment and release the amount on hold. Click Cancel to enter another credit card and continue with your payment.",Sunteți sigur că doriți să anulați plata dvs.? Faceți click pe OK pentru a anula plata dvs. și a elibera suma reținută. Faceți click pe Anulare pentru a introduce un alt card de credit și a continua cu plata dvs.
+"Authorize Only",Doar Autorizare
+"Authorize and Capture",Autorizare și Captură
+"Authorize.Net Transaction ID %s",ID Tranzacție Authorize.Net %s
 "Authorize.net","Authorize.net"
-"Credit Card Types","Credit Card Types"
-"Credit Card Verification","Credit Card Verification"
-"Debug","Debug"
-"Email customer","Email customer"
-"Enabled","Enabled"
-"Error in authorizing the payment","Error in authorizing the payment"
-"Error in capturing the payment","Error in capturing the payment"
-"Error in payment gateway","Error in payment gateway"
-"Error in refunding the payment","Error in refunding the payment"
-"Error in refunding the payment.","Error in refunding the payment."
-"Error in retrieving the transaction","Error in retrieving the transaction"
-"Fraud order status","Fraud order status"
-"Gateway request error: %s","Gateway request error: %s"
-"Invalid amount for authorization","Invalid amount for authorization"
-"Invalid amount for authorization.","Invalid amount for authorization."
-"Invalid transaction id","Invalid transaction id"
-"Maximum Order Total","Maximum Order Total"
-"Merchant Login","Merchant Login"
-"Merchant's email","Merchant's email"
-"Minimum Order Total","Minimum Order Total"
-"New order status","New order status"
-"Partner","Partner"
-"Password","Password"
-"Payflow Pro","Payflow Pro"
-"Payment Action","Payment Action"
-"Payment authorization error.","Payment authorization error."
-"Payment authorization transaction has been declined.","Payment authorization transaction has been declined."
-"Payment from Specific countries","Payment from Specific countries"
-"Payment from applicable countries","Payment from applicable countries"
-"Proxy Host","Proxy Host"
-"Proxy Port","Proxy Port"
-"Sort order","Sort order"
-"TENDER","TENDER"
-"Test mode","Test mode"
-"Title","Title"
-"Transaction key","Transaction key"
-"URL","URL"
-"Use Proxy","Use Proxy"
-"User","User"
-"VERBOSITY","VERBOSITY"
-"Voided transaction","Voided transaction"
+"Cancel",Anulare
+"Centinel API URL",URL API Centinel
+"Credit Card Types",Tipuri Card de Credit
+"Credit Card Verification",Verificare Card de Credit
+"Credit Card: xxxx-%s","Credit Card: xxxx-%s"
+"Debug",Depanare
+"Email Customer",E-mail Client
+"Enabled",Activat
+"Error in payment gateway.",Eroare la portalul de plată.
+"Gateway actions are locked because the gateway cannot complete one or more of the transactions. Please log in to your Authorize.Net account to manually resolve the issue(s).",Acțiunile portalului sunt blocate deoarece portalul nu poate finaliza una sau mai multe dintre tranzacții. Vă rugăm să vă autentificați cu contul dvs. Authorize.net pentru a rezolva manual problema(ele).
+"Gateway error: %s",Eroare portal: %s
+"If empty, a default value will be used. Custom URL may be provided by CardinalCommerce agreement.","Dacă e gol, o valoare implicită va fi utilizată. URL-uri personalizate pot fi furnizate prin acordul CardinalCommerce."
+"Invalid amount for authorization.",Sumă de autorizare invalidă.
+"Invalid amount for capture.",Sumă de captură invalidă.
+"Invalid amount for partial authorization.",Sumă de autorizare parțială invalidă.
+"Invalid amount for refund.",Sumă de ramburs invalidă.
+"Invalid split tenderId ID.",ID tenderId de împărțire invalid.
+"Invalid transaction ID.",ID tranzacție invalid.
+"Maximum Order Total",Total Maxim Comandă
+"Merchant's Email",E-mail Comerciant
+"Minimum Order Total",Total Minim Comandă
+"New Order Status",Status Comandă Nouă
+"Parent Authorize.Net transaction (ID %s) expired",Tranzacție părinte Authorize.Net (ID %s) expirată
+"Payment Action",Acțiune Plată
+"Payment authorization error.",Eroare autorizare plată.
+"Payment canceling error.",Eroare anulare plată.
+"Payment capturing error.",Eroare capturare plată.
+"Payment from Applicable Countries",Plata din Țări Aplicabile
+"Payment from Specific Countries",Plata din Țări Specifice
+"Payment partial authorization error.",Eroare autorizare parțială plată.
+"Payment refunding error.",Eroare rambursare plată.
+"Payment updating error.",Eroare actualizare plată.
+"Payment voiding error.",Eroare anulare plată.
+"Processed Amount",Suma Procesată
+"Remaining Balance",Balanța Rămasă
+"Severe 3D Secure Card Validation",Validare Severă Card 3D Secure
+"Severe Validation Removes Chargeback Liability on Merchant",Validarea Severă Elimină Răspunderea Comerciantului pentru Chargeback
+"Shopping cart contents and/or address has been changed.",Conținutul coșului de cumpărături și/sau adresa au fost schimbate.
+"Sort Order",Ordine Sortare
+"Test Mode",Mod Test
+"The amount on your credit card is insufficient to complete your purchase. The available amount has been put on hold. To complete your purchase click OK and specify additional credit card number. To cancel the purchase and release the amount on hold, click Cancel.","Suma de pe cardul dvs. de credit este insuficientă pentru finalizarea achiziției. Suma disponibilă a fost pusă în așteptare. Pentru a finaliza achiziția dvs. faceți click pe OK pentru a specifica un număr de card suplimentar. Pentru a anula achiziția și a elibera suma blocată, faceți click pe Anulare."
+"There was an error canceling transactions. Please contact us or try again later.",Eroare la anularea tranzacțiilor. Contactați-ne sau încercați mai târziu.
+"Title",Titlu
+"Transaction Key",Cheie Tranzacție
+"You have reached the maximum number of credit card allowed to be used for the payment.",Ați atins numărul maxim de carduri de credit permise pentru plată.
+"You have reached the maximum number of credit cards that can be used for one payment. The available amounts on all used cards were insufficient to complete payment. The payment has been cancelled and amounts on hold have been released.",Ați atins numărul maxim de carduri de credit care pot fi utilizate pentru o plată. Sumele disponibile pe toate cardurile utilizate au fost insuficiente pentru a finaliza plata. Plata a fost anulată și sumele reținute au fost eliberate.
+"Your credit card has been declined. Click OK to specify another credit card to complete your purchase. Click Cancel to release the amount on hold and select another payment method.",Cardul dvs. de credit a fost refuzat. Faceți click pe OK pentru a specifica un alt card de credit pentru a finaliza achiziția dvs. Faceți click pe Anulare pentru a elibera suma reținută și a selecta o altă metodă de plată.
+"Your order has not been placed, because contents of the shopping cart and/or address has been changed. Authorized amounts from your previous payment that were left pending are now released. Please go through the checkout process for your recent cart contents.","Comanda dvs. nu a fost plasată, deoarece conținutul coșului de cumpărături și/sau adresa au fost schimbate. Sumele autorizate de la plata dvs. anterioară care au fost puse în așteptare sunt acum eliberate. Vă rugăm parcurgeți procesul de finalizare a comenzii pentru conținutul recent al coșului dvs. de cumpărături."
+"Your payment has been cancelled. All authorized amounts have been released.",Plata dvs. a fost anulată. Toate sumele autorizate au fost eliberate.
+"amount %s",sumă %s
+"authorize",autorizare
+"authorize and capture",autorizare și captură
+"capture",captură
+"failed",eșuat
+"refund",rambursare
+"successful",succes
+"void",anulare

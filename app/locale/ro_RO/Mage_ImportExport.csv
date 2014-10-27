@@ -1,0 +1,93 @@
+"%s file does not exists or is not readable",Fișierul %s nu există sau nu poate fi citit
+"-- Please Select --",-- Selectați --
+"Adapter must be an instance of Mage_ImportExport_Model_Import_Adapter_Abstract",Adaptorul trebuie să fie instanță de Mage_ImportExport_Model_Import_Adapter_Abstract
+"Adapter object must be an instance of %s",Obiectul adaptor trebuie să fie instanță de %s
+"Adapter type must be a non empty string",Tipul adaptorului trebuie să fie un string non-liber
+"Append Complex Data",Adăugare Date Complexe
+"Attribute Code",Cod Atribut
+"Attribute Label",Etichetă Atribut
+"Attribute does not has options, so filtering is impossible","Atributul nu are opțiuni, așadar filtrarea e imposibilă"
+"Begin data validation",Începere validare date
+"Begin export of %s",Începere exportare %s
+"Begin import of ""%s"" with ""%s"" behavior",Începere importare "%s" cu comportamentul "%s"
+"CSV","CSV"
+"Can not determine attribute filter type",Nu se poate determina tipul filtrului de atribut
+"Can not find required columns: %s",Nu se pot găsi coloanele solicitate: %s
+"Cannot get autoincrement value",Nu se poate obține valoarea autoincrementată
+"Check Data",Verificare Date
+"Checked rows: %d, checked entities: %d, invalid rows: %d, total errors: %d","Rânduri verificate: %d, entități verificate: %d, rânduri invalide: %d, erori totale: %d"
+"Column names have duplicates",Numele de coloane prezintă dubluri
+"Column names is empty or is not an array",Nume coloane e gol sau nu e matrice
+"Column names: ""%s"" are invalid",Numele de coloane: "%s" sunt invalide
+"Customers",Clienți
+"Data is invalid or file is not uploaded",Date invalide sau fișier ne-încărcat
+"Delete Entities",Ștergere Entități
+"Destination directory is not writable",Directorul destinație nu e inscriptibil
+"Destination file is not writable",Fișierul destinație nu e inscriptibil
+"Destination file path must be a string",Calea fișier destinație trebuie să fie string
+"Done import data validation",Terminat importare validare date
+"Duplicate Unique Attribute for '%s'",Duplicat Atribut Unic pentru '%s'
+"Entity Type",Tip Entitate
+"Entity adapter obejct must be an instance of Mage_ImportExport_Model_Export_Entity_Abstract",Obiectul adaptor entitate trebuie să fie instanță de Mage_ImportExport_Model_Export_Entity_Abstract
+"Entity adapter object must be an instance of Mage_ImportExport_Model_Import_Entity_Abstract",Obiectul adaptor entitate trebuie să fie instanță de Mage_ImportExport_Model_Import_Entity_Abstract
+"Entity is unknown",Entitatea e necunoscută
+"Entity type model must be an instance of Mage_ImportExport_Model_Export_Entity_Product_Type_Abstract",Modelul tip entitate trebuie să fie instanță de Mage_ImportExport_Model_Export_Entity_Product_Type_Abstract
+"Entity type model must be an instance of Mage_ImportExport_Model_Import_Entity_Product_Type_Abstract",Modelul tip entitate trebuie să fie instanță de Mage_ImportExport_Model_Import_Entity_Product_Type_Abstract
+"Error in data structure: behaviors are mixed",Eroare în structura de date: comportamente amestecate
+"Error in data structure: entity codes are mixed",Eroare în structura de date: coduri entitate amestecate
+"Errors limit (%d) reached. Please fix errors and re-upload file",Limita de erori (%d) atinsă. Reparați erorile și re-încărcați fișierul
+"Export",Exportare
+"Export File Format",Format Fișier Exportare
+"Export Settings",Setări Exportare
+"Export has been done.",Exportarea a fost realizată.
+"Exported %s rows.",%s rânduri exportate.
+"File does not contain data.",Fișierul nu conține date.
+"File does not contain data. Please upload another one",Fișierul nu conține date. Încărcați alt fișier
+"File format is unknown",Format fișier necunoscut
+"File is partially valid, but import is not possible","Fișierul e parțial valid, însă importarea nu e posibilă"
+"File is totally invalid. Please fix errors and re-upload file",Fișierul e total invalid. Rezolvați erorile și re-încărcați fișierul.
+"File is valid! To start import process press ""Import"" button",Fișierul e valid! Pentru a porni procesul de importare apăsați pe butonul "Importare"
+"File is valid, but import is not possible","Fișierul e valid, însă importarea nu e posibilă"
+"File was not uploaded",Fișierul nu a fost încărcat
+"Filter",Filtrare
+"From",De la
+"Header column names already set",Nume antet coloane deja setat
+"Import",Importare
+"Import Behavior",Importare Comportament
+"Import Settings",Importare Setări
+"Import has been done successfuly.",Importarea s-a desfășurat cu succes.
+"Import successfully done.",Importare finalizată cu succes.
+"Import/Export",Importare/Exportare
+"Input entity code is not equal to entity adapter code",Cod intrare entitate diferit de cod adaptor entitate
+"Invalid entity",Entitate invalidă
+"Invalid entity model",Model entitate invalid
+"Invalid file format",Format fișier invalid
+"Invalid parameters",Parametrii invalizi
+"Invalid seek position",Poziție salt invalidă
+"Invalid value for '%s'",Valoare invalidă pentru '%s'
+"Invalid value for '%s' column",Valoare invalidă pentru coloana '%s'
+"No filter data provided",Nicio informație de filtrare furnizată
+"No source specified",Nicio sursă specificată
+"No valid data sent",Nicio informație validă trimisă
+"No writer specified",Niciun scriitor specificat
+"Node does not has model token tag",Nodul nu are etichetă token model
+"Not implemented yet",Nu e implementat momentan
+"Please fix errors and re-upload file",Reparați erorile și re-încărcați fișierul
+"Please fix errors and re-upload file or simply press ""Import"" button to skip rows with errors",Reparați erorile și re-încărcați fișierul sau apăsați pur și simplu pe butonul "Importare" pentru a trece peste rândurile cu erori
+"Products",Produse
+"Replace Existing Complex Data",Înlocuire Date Complexe Existente
+"Select File to Import",Selectare Fișier de Importare
+"Skip",Sărire
+"Source file moving failed",Mutare fișier sursă eșuată
+"Source file path must be a string",Calea fișierului sursă trebuie să fie string
+"Source is not set",Sursa nu e setată
+"Status","Status"
+"There are no product types available for export",Nu există tipuri de produs disponibile pentru exportare
+"There is no data for export",Nu există date pentru exportare
+"To",La
+"Total size of uploadable files must not exceed %s",Dimensiunea totală a fișierelor încărcabile nu poate depăși %s
+"Unknown attribute filter type",Tip filtru atribut necunoscut
+"Uploaded file has no extension",Fișierul încărcat nu are extensie
+"Validation finished successfully",Validare finalizată cu succes
+"in rows",în rândurile
+"in rows:",în rândurile:

@@ -1,17 +1,24 @@
-"Cron (Scheduled Tasks) - all the times are in minutes","Cron (Scheduled Tasks) - all the times are in minutes"
-"Daily","Zilnic"
-"Failure history lifetime","Failure history lifetime"
-"For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set.","For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set."
-"Generate schedules every","Generate schedules every"
-"History cleanup every","History cleanup every"
-"Invalid callback: %s::%s does not exist","Invalid callback: %s::%s does not exist"
-"Invalid model/method definition, expecting ""model/class::method"".","Invalid model/method definition, expecting ""model/class::method""."
-"Missed if not run within","Missed if not run within"
-"Monthly","Lunar"
-"No callbacks found","No callbacks found"
-"Schedule ahead for","Schedule ahead for"
-"Success history lifetime","Success history lifetime"
-"Too late for the schedule","Too late for the schedule"
-"Unable to save Cron expression","Unable to save Cron expression"
-"Unknown error","Unknown error"
-"Weekly","Saptamanal"
+"10 minutes",10 minute
+"15 minutes",15 minute
+"20 minutes",20 minute
+"30 minutes",30 minute
+"5 minutes",5 minute
+"Cron (Scheduled Tasks) - all the times are in minutes",Cron (Sarcini Planificate) - toți timpii sunt exprimați în minute
+"Daily",Zilnic
+"Failure History Lifetime",Durata Viață Istoric Eșecuri
+"For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set.",Pentru URL-uri corect generate în timpul rulărilor cron asigurați-vă că Web > URL-uri de bază Securizate și Nesecurizate este setat.
+"Generate Schedules Every",Generare Programe la Fiecare
+"History Cleanup Every",Curățare Istoric la Fiecare
+"Hourly",În fiecare oră
+"Invalid callback: %s::%s does not exist",Apel inversat invalid: %s::%s nu există
+"Invalid model/method definition, expecting ""model/class::method"".","Definiție model/metodă invalidă, se așteaptă ""model/clasă::metodă""."
+"Minute Intervals",Intervale Minute
+"Missed if Not Run Within",Ratat dacă Nu E Rulat În
+"Monthly",Lunar
+"No callbacks found",Niciun apel inversat găsit
+"Schedule Ahead for",Planificare Înainte pentru
+"Success History Lifetime",Durată Viață Istoric Succese
+"Too late for the schedule.",Prea târziu pentru program.
+"Unable to delete the cron task.",Nu se poate șterge sarcina cron.
+"Unable to save the cron expression.",Nu se poate salva expresia cron.
+"Weekly",Săptămânal

@@ -1,28 +1,29 @@
-"1 star","1 stea"
-"2 stars","2 stele"
-"3 stars","3 stele"
-"4 stars","4 stele"
-"5 stars","5 stele"
-"Add New Rating","Adauga o evaluare"
-"Assigned Options","Optiuni alocate"
-"Be the first to review this product","Fii primul care evalueaza produsul"
-"Default Value","Valoare standard"
-"Delete Rating","Sterge evaluare"
-"Edit Rating","Modifica evaluare"
+"1 star",1 stea
+"2 stars",2 stele
+"3 stars",3 stele
+"4 stars",4 stele
+"5 stars",5 stele
+"Add New Rating",Adăugare Evaluare
+"Assigned Options",Opțiuni Alocate
+"Be the first to review this product",Fiți primul care evaluează produsul
+"Default Value",Valoare Implicită
+"Delete Rating",Ștergere Evaluare
+"Edit Rating",Modificare Evaluare
 "ID","ID"
-"If you do not specify a rating title for a store, the default value will be used.","Daca nu specifici titlul evaluarii pentru un magazin, va fi folosita valoarea standard."
-"Manage Ratings","Gestioneaza evaluarile"
-"New Rating","Evaluare noua"
-"Option Label","Eticheta optiune"
-"Option Title","Titlu optiune"
-"Option Title:","Titlu optiune:"
-"Please select one of each ratings above","Alege cate una din evaluarile de mai sus"
-"Rating Information","Informatii evaluare"
-"Rating Name","Nume evaluare"
-"Rating Options","Optiuni evaluare"
-"Rating Title","Titlu evaluare"
-"Rating Visibility","Vizibilitate evaluare"
-"Rating isn't Available","Evaluarea nu este disponibila"
-"Rating with the same title","Evaluare cu acelasi titlu"
-"Save Rating","Salveaza evaluare"
-"Visible In","Vizibila in"
+"If you do not specify a rating title for a store, the default value will be used.","Dacă nu specificați titlul evaluării pentru un magazin, va fi folosită valoarea implicită."
+"Manage Ratings",Gestionare Evaluări
+"New Rating",Evaluare Nouă
+"Option Label",Etichetă Opțiune
+"Option Title",Titlu Opțiune
+"Option Title:",Titlu Opțiune:
+"Please select one of each ratings above",Alegeți câte una din fiecare evaluare de mai sus
+"Rating Information",Informații Evaluare
+"Rating Name",Nume Evaluare
+"Rating Options",Opțiuni Evaluare
+"Rating Title",Titlu Evaluare
+"Rating Visibility",Vizibilitate Evaluare
+"Rating isn't Available",Evaluarea nu este disponibilă
+"Rating with the same title",Evaluare cu același titlu
+"Save Rating",Salvare Evaluare
+"Sort Order",Ordine Sortare
+"Visible In",Vizibilă În

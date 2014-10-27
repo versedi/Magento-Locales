@@ -1,33 +1,40 @@
-"ALL","ALL"
-"ANY","ANY"
-"Add","Adauga"
-"Apply","Aplica"
-"Description: %s","Descriere: %s"
-"Expire at: %s","Expira la: %s"
-"FALSE","FALSE"
-"If %s of these conditions are %s:","If %s of these conditions are %s:"
-"Invalid discount amount.","Invalid discount amount."
-"MATCHING ALL","MATCHING ALL"
-"MATCHING ANY","MATCHING ANY"
-"NOT MATCHING ALL","NOT MATCHING ALL"
-"NOT MATCHING ANY","NOT MATCHING ANY"
-"Name: %s","Nume: %s"
-"Open Chooser","Open Chooser"
-"Perform following actions","Perform following actions"
-"Please choose a condition to add...","Please choose a condition to add..."
-"Please choose an action to add...","Please choose an action to add..."
-"Remove","Sterge"
-"Start at: %s","Incepe la: %s"
-"TRUE","TRUE"
-"by","by"
-"contains","contains"
-"does not contain","does not contain"
-"equals or greater than","equals or greater than"
-"equals or less than","equals or less than"
-"greater than","greater than"
-"is","is"
-"is not","is not"
-"is not one of","is not one of"
-"is one of","is one of"
-"less than","less than"
-"to","to"
+"ALL",TOT
+"ANY",ORICE
+"Add",Adăugare
+"Apply",Aplicare
+"Conditions Combination",Combinație Condiții
+"Customer Groups must be specified.",Grupurile de Clienți trebuie să fie specificate.
+"End Date must be greater than Start Date.",Data de Final trebuie să fie mai mare decât Data de Start.
+"FALSE",FALS
+"If %s of these conditions are %s:",Dacă %s din aceste condiții sunt %s:
+"Invalid discount amount.",Sumă discount invalidă.
+"Open Chooser",Deschidere Selector
+"Perform following actions",Realizare acțiunile următoare
+"Please choose a condition to add...",Alegeți o condiție pentru adăugare...
+"Please choose an action to add...",Alegeți o acțiune pentru adăugare...
+"Remove",Eliminare
+"TRUE",ADEVĂRAT
+"There is no information about associated entity type ""%s"".",Nu există nicio informație despre tipul de entitate asociat "%s".
+"Websites must be specified.",Website-urile trebuie să fie specificate.
+"by",după
+"contains",conține
+"does not contain",nu conține
+"does not contains",nu conține
+"equals or greater than",mai mare sau egal
+"equals or less than",mai mic sau egal
+"for",pentru
+"for greater than",pentru mai mare de
+"for or greater than",pentru sau mai mare de
+"found",găsit
+"from",de la
+"greater than",mai mare
+"is",este
+"is not",nu este
+"is not one of",nu e unul din
+"is one of",e unul din
+"less than",mai mic
+"not found",ne-găsit
+"not from",nu de la
+"to",la
+"was",a fost
+"was not",nu a fost

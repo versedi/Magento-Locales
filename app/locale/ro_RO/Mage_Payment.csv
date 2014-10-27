@@ -1,43 +1,141 @@
-"--Please Select--","--Alegeti--"
-"<label>Make Check payable to:</label> %s","<label>Ramburs:</label> %s"
-"<label>Make Check payable to</label>: %s","<label>Ramburs</label>: %s"
-"Automatically invoice all items","Automatically invoice all items"
-"Can not configuration for payment method with code: %s","Can not configuration for payment method with code: %s"
-"Can not retrieve payment info model object.","Can not retrieve payment info model object."
-"Can not retrieve payment method instance","Can not retrieve payment method instance"
-"Can not retrieve payment method model object.","Can not retrieve payment method model object."
-"Card Verification Number","Card Verification Number"
-"Check / Money order","Check / Money order"
-"Credit Card Number","Credit Card Number"
-"Credit Card Number: %s","Credit Card Number: %s"
-"Credit Card Number: xxxx-%s","Credit Card Number: xxxx-%s"
-"Credit Card Type","Credit Card Type"
-"Credit Card Type: %s","Credit Card Type: %s"
-"Credit Card Types","Credit Card Types"
-"Credit Card Verification","Credit Card Verification"
-"Enabled","Activat"
-"Expiration Date","Data expirarii"
-"Expiration Date: %s/%s","Data expirarii: %s/%s"
-"Make Check payable to","Ramburs"
-"Make Check payable to: %s","Ramburs: %s"
-"Maximum Order Total","Maximum Order Total"
-"Minimum Order Total","Minimum Order Total"
-"Month","Month"
-"Name on Card","Name on Card"
-"Name on the Card: %s","Name on the Card: %s"
-"New order status","New order status"
-"Payment Methods","Metode de plata"
-"Payment Methods Section","Payment Methods Section"
-"Payment from Specific countries","Payment from Specific countries"
-"Payment from applicable countries","Payment from applicable countries"
-"Purchase Order Number","Purchase Order Number"
-"Purchase Order Number: %s","Purchase Order Number: %s"
-"Purchase order","Plata ramburs"
-"Saved CC","Saved CC"
-"Send Check to","Alte informatii"
-"Send Check to:","Alte informatii:"
-"Sort order","Sort order"
-"Title","Title"
-"What is this?","Ce este asta?"
-"Year","Year"
-"Zero Subtotal Checkout","Zero Subtotal Checkout"
+"%s %s cycle.",%s %s ciclu.
+"--Please Select--",--Selectați--
+"3D Secure Card Validation",Validare Card 3D Secure
+"3D Secure Credit Card Validation",Validare Card Credit 3D Secure
+"<label>Make Check payable to:</label> %s",<label>Cec plătibil către:</label> %s
+"A value is required for live mode. Refer to your CardinalCommerce agreement.",O valoare e necesară pentru modul live. Consultați-vă acordul CardinalCommerce.
+"Allow Initial Fee Failure",Permitere Eșec Taxă Inițială
+"An internal reference ID is required to save the payment profile.",Un ID de referință intern e necesar pentru a salva profilul de plată.
+"Authorize action is not available.",Acțiunea de autorizare nu e disponibilă.
+"Auto Bill on Next Cycle",Facturare Automată la următorul Ciclu
+"Automatically Invoice All Items",Facturare Automată Toate Articolele
+"Automatically bill the outstanding balance amount in the next billing cycle (if there were failed payments).",Facturare automată suma excedentă balanței în următorul ciclu de facturare (dacă au existat plăți eșuate).
+"Bank Transfer Payment",Plată Transfer Bancar
+"Billing Agreement status is not set.",Status Acord Facturare nesetat.
+"Billing Amount",Sumă Facturare
+"Billing Frequency",Frecvență Facturare
+"Billing Period",Perioadă Facturare
+"Billing Period Unit",Unitate Perioadă Facturare
+"Billing period unit is not defined or wrong.",Unitatea perioadei de facturare nu e definită sau e greșită.
+"Cannot retrieve the payment info model object.",Nu se poate recupera obiectul model informații plată.
+"Cannot retrieve the payment information object instance.",Nu se poate recupera instanța obiect informații plată.
+"Cannot retrieve the payment method code.",Nu se poate recupera codul metodei de plată.
+"Cannot retrieve the payment method model object.",Nu se poate recupera obiectul model metodă de plată.
+"Capture action is not available.",Acțiunea de captură nu e disponibilă.
+"Card Verification Number",Număr Verificare Card
+"Cash On Delivery Payment",Plată Ramburs la Livrare
+"Centinel API URL",URL API Centinel
+"Check / Money Order",Comandă Cec / Bani
+"Credit Card Number",Număr Card Credit
+"Credit Card Number: xxxx-%s",Număr Card Credit: xxxx-%s
+"Credit Card Type",Tip Card Credit
+"Credit Card Type: %s",Tip Card Credit: %s
+"Credit Card Types",Tipuri Card Credit
+"Credit card number mismatch with credit card type.",Numărul cardului de credit nu se potrivește cu tipul cardului de credit.
+"Credit card type is not allowed for this payment method.",Tipul cardului de credit nu e permis pentru această metodă de plată.
+"Currency",Valuta
+"Currency code is undefined.",Codul valutei e nedefinit.
+"Customer ID is not set.",ID-ul client nu e setat.
+"Day",Ziua
+"Debug Mode",Mod Depanare
+"Enabled",Activat
+"Expiration Date",Data Expirării
+"Expiration Date: %s/%s",Dată Expirare: %s/%s
+"Full name of the person receiving the product or service paid for by the recurring payment.",Numele complet al persoanei care primește produsul sau serviciul plătit prin plata recurentă.
+"Incorrect credit card expiration date.",Dată expirare card credit incorectă.
+"Initial Fee",Taxă Inițială
+"Initial non-recurring payment amount due immediately upon profile creation.",Sumă plată inițială non-recurentă de achitat imediat după crearea profilului.
+"Instructions",Instrucțiuni
+"Internal Reference ID",ID Referință Internă
+"Invalid Credit Card Number",Număr Card Credit Invalid
+"Issue Number",Număr Emitere
+"Make Check Payable to",Cec Plătibil Către
+"Make Check payable to:",Cec Plătibil către:
+"Make Check payable to: %s",Cec plătibil către: %s
+"Maximum Billing Cycles",Cicluri Facturare Maxime
+"Maximum Order Total",Total Maxim Comandă
+"Maximum Payment Failures",Eșecuri Plată Maxime
+"Maximum Trial Billing Cycles",Cicluri Facturare Probă Maxime
+"Merchant ID",ID Comerciant
+"Minimum Order Total",Total Minim Comandă
+"Month",Luna
+"N/A",Indisponibil
+"Name on Card",Nume pe Card
+"Name on the Card",Nume pe Cardul
+"Name on the Card: %s",Numele de pe Cardul: %s
+"New Order Status",Status Comandă Nouă
+"Number of billing periods that make up one billing cycle.",Număr perioade facturare care compun un ciclu de facturare.
+"Order action is not available.",Acțiune comandă nedisponibilă.
+"Overrides API URL that may be specified by a payment method.",Suprascrie URL-ul API care ar putea fi specificat de o metodă de plată.
+"Password",Parolă
+"Payment ID: %s",ID Plată: %s
+"Payment Method",Metodă Plată
+"Payment Methods",Metode Plată
+"Payment Methods Section",Secțiune Metode Plată
+"Payment Reference ID",ID Referință Plată
+"Payment Services",Servicii Plată
+"Payment from Applicable Countries",Plata din Țări Aplicabile
+"Payment from Specific Countries",Plata din Anumite Țări
+"Payment method code is not set.",Codul metodei de plată nu e setat.
+"Payment method code is undefined.",Codul metodei de plată nu e definit.
+"Payment profile is invalid:\n%s",Profil de plată invalid:\n%s
+"Period frequency is wrong.",Frecvența perioadei e greșită.
+"Please enter a valid credit card verification number.",Introduceți un număr de verificare card credit valid.
+"Processor ID",ID Procesor
+"Purchase Order",Achiziționare Comandă
+"Purchase Order Number",Număr Achiziționare Comandă
+"Purchase Order Number:",Număr Achiziționare Comandă:
+"Purchase Order Number: %s",Număr Achiziționare Comandă: %s
+"Recurring Profile Start Date",Dată Începere Profil Recurent
+"Recurring profile start date has invalid format.",Data de începere profil recurent are formatul greșit.
+"Reference ID is not set.",ID-ul referință nu e setat.
+"Refund action is not available.",Acțiunea de rambursare nu e disponibilă.
+"Repeats %s time(s).",Repetă de %s ori.
+"Repeats until suspended or canceled.",Repetă până la suspendare sau anulare.
+"Request Card Security Code",Cerere Cod Securitate Card
+"Saved CC",CC Salvat
+"Schedule Description",Descriere Program
+"Schedule description must be not empty.",Descrierea programului nu poate fi goală.
+"Selected payment type is not allowed for billing country.",Tipul de plată selectat nu e permis pentru țara de facturare.
+"Send Check to",Trimitere cec către
+"Send Check to:",Trimitere cec către:
+"Severe 3D Secure Card Validation",Validare Severă Card 3D Secure
+"Severe validation removes chargeback liability on merchant.",Validarea severă elimină răspunderea comerciantului pentru chargeback.
+"Shipping Amount",Sumă Expediere
+"Short description of the recurring payment. By default equals to the product name.",Descriere scurtă a plății recurente. Implicit e egală cu numele produsului.
+"Sort Order",Ordine Sortare
+"Start Date",Data de Pornire
+"Start date has invalid format.",Data de pornire are formatul invalid.
+"Start date is undefined.",Data de pornire e nedefinită.
+"Subscriber Name",Nume Abonat
+"Switch/Solo/Maestro Issue Number",Număr Emitere Switch/Solo/Maestro
+"Switch/Solo/Maestro Only",Numai Switch/Solo/Maestro
+"Switch/Solo/Maestro Start Date",Dată Pornire Switch/Solo/Maestro
+"Tax Amount",Sumă Taxe
+"Test Mode",Mod Test
+"The date when billing for the profile begins.",Data când facturarea pentru profil începe.
+"The number of billing cycles for payment period.",Numărul de cicluri de facturare pentru perioada de plată.
+"The number of scheduled payments that can fail before the profile is automatically suspended.",Numărul de plăți programate care pot eșua înainte ca profilul să fie suspendat automat.
+"The payment review action is unavailable.",Acțiunea de revizuire plată nu e disponibilă.
+"The requested Payment Method is not available.",Metoda de Plată cerută nu e disponibilă.
+"Title",Titlu
+"Trial Billing Amount",Sumă Facturare Probă
+"Trial Billing Frequency",Frecvență Facturare Probă
+"Trial Billing Period Unit",Unitate Perioadă Facturare Probă
+"Trial Period",Perioadă Probă
+"Trial billing amount is wrong.",Sumă facturare probă greșită.
+"Trial billing period unit is wrong.",Unitate perioadă facturare probă greșită.
+"Trial period frequency is wrong.",Frecvență perioadă probă greșită.
+"Trial period max cycles is wrong.",Maxim cicluri perioadă probă greșit.
+"Two Weeks",Două Săptămâni
+"Unable to save Billing Agreement:",Nu se poate salva Acordul de Facturare:
+"Unit for billing during the subscription period.",Unitate de facturare pe parcursul perioadei de abonare.
+"Unsupported currency code: %s.",Cod valută nesuportat: %s.
+"Void action is not available.",Acțiunea de anulare nu e disponibilă.
+"Week",Săptămână
+"What is this?",Ce este asta?
+"Whether to suspend the payment profile if the initial fee fails or add it to the outstanding balance.",Dacă să se suspende profilul de plată în caz că taxa inițială eșuează sau să se adauge la balanța excedentă.
+"Wrong %s specified.",%s specificat greșit.
+"Wrong or empty billing amount specified.",Sumă facturare greșită sau goală specificată.
+"Year",An
+"Zero Subtotal Checkout",Finalizare Comandă Subtotal Zero

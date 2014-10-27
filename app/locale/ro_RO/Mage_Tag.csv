@@ -1,91 +1,101 @@
-"# of Uses","# de utilizari"
-"%s tag(s) have been accepted for moderation","%s tag(s) have been accepted for moderation"
-"Action","Actiune"
-"Actions","Actiuni"
-"Add New Tag","Adauga eticheta"
-"Add Tags","Adauga etichete"
-"Add Your Tags:","Adauga etichetele tale:"
-"Add to Cart","Pune in cos"
-"Add to Wishlist","Adauga la favorite"
-"All Tags","Toate etichetele"
-"Approved","Aprobat"
-"Are you sure that you want to delete this tag?","Esti sigur ca vrei sa stergi eticheta?"
-"Are you sure you want to delete this tag?","Esti sigur ca vrei sa stergi eticheta?"
-"Are you sure you want to do this?","Esti sigur ca vrei asta?"
-"Are you sure?","Esti sigur?"
-"Back","inapoi"
-"Back to Tags List","inapoi la Lista etichete"
-"Back to view Tag","inapoi la Vezi eticheta"
-"Block Information","Informatii bloc"
+"# of Uses",# de Utilizări
+"%s tag(s) have been accepted for moderation.",%s etichetă(e) a(u) fost acceptată(e) pentru moderare.
+"<strong>Tag Name:</strong> %s",<strong>Nume Etichetă:</strong> %s
+"Action",Acțiune
+"Add",Adăugare
+"Add New Tag",Adăugare Etichetă Nouă
+"Add Tags",Adăugare Etichete
+"Add Your Tags:",Adăugați Etichetele Dvs.:
+"Add tag(s) to product",Adăugare etichetă(e) la produs
+"Add to Cart",Adăugare în Coș
+"Add to Wishlist",Adăugare la Favorite
+"All Tags",Toate Etichetele
+"Approved",Aprobat
+"Are you sure you want to delete this tag?",Sunteți sigur că vreți să stergeți eticheta?
+"Are you sure you want to do this?",Sunteți sigur că vreți să faceți asta?
+"Are you sure?",Sunteți sigur?
+"Back",Înapoi
+"Back to Tags List",Înapoi la Lista de Etichete
+"Base Popularity",Popularitate de Bază
+"Block Information",Informații Bloc
 "CSV","CSV"
-"Change status","Schimba status"
-"Click on a tag to view your corresponding products.","Click pe o eticheta pentru a vedea produsele corespunzatoare acesteia."
-"Country","Tara"
-"Customer Since","Client din"
-"Customers","Clienti"
-"Customers Tagged '%s'","Clientii au pus etichete pe '%s'"
-"Delete","Sterge"
-"Delete Tag","Sterge eticheta"
-"Disabled","Dezactivat"
-"Edit Tag","Modifica eticheta"
-"Edit Tag '%s'","Modifica eticheta '%s'"
-"Email","Email"
-"First Name","Prenume"
-"General Information","Informatii generale"
-"Grid","Tabel"
+"Catalog Product View",Vizualizare Produs Catalog
+"Change status",Schimbare Stare
+"Click on a tag to view your corresponding products.",Faceți click pe o etichetă pentru a vedea produsele corespunzătoare acesteia.
+"Country",Țara
+"Customer My Account My Tags List",Lista Etichetelor Mele Contul Meu Client
+"Customer My Account Tag View",Vizualizare Etichete Contul Meu Client
+"Customer Since",Client din
+"Customers",Clienți
+"Customers Submitted this Tag",Clienții au Trimis această Etichetă
+"Customers Tagged '%s'",Clienții au Etichetat ca '%s'
+"Delete",Ștergere
+"Delete Tag",Ștergere Etichetă
+"Disabled",Dezactivat
+"Edit Tag '%s'",Modificare Eticheta '%s'
+"Email",E-mail
+"First Name",Prenume
+"General Information",Informații Generale
+"Grid",Grilă
 "ID","ID"
-"Last Name","Nume"
-"List","Lista"
-"My Recent Tags","Etichetele mele recente"
-"My Tags","Etichetele mele"
-"Name","Nume"
-"New Tag","Eticheta noua"
-"No matches found.","Nu s-a gasit nimic."
-"Other people marked this product with these tags:","Alti vizitatori au pus urmatoarele etichete:"
-"Pending","in asteptare"
-"Pending Tags","Etichete in asteptare"
-"Popular","Populare"
-"Popular Tags","Etichete populare"
-"Popularity","Popularitate"
-"Price","Pret"
-"Product Name","Nume produs"
-"Product SKU","Cod produs"
-"Product Tags","Etichete produs"
-"Products","Produse"
-"Products Tagged with '%s'","Produse cu eticheta '%s'"
-"Products tagged with '%s'","Produse cu eticheta '%s'"
-"Products tagged with '%s' (<a href='%s'>RSS</a>)","Produse cu eticheta '%s' (<a href='%s'>RSS</a>)"
-"SKU","Cod produs"
-"Save Tag","Salveaza eticheta"
-"Search Results for '%s' (<a href='%s'>RSS</a>)","Rezultate cautare pentru '%s' (<a href='%s'>RSS</a>)"
-"Search Terms","Search Terms"
-"Status","Status"
-"Tag","eticheta"
-"Tag ""%s"" has already been added to the product","Tag ""%s"" has already been added to the product"
-"Tag Information","Informatii eticheta"
-"Tag Name","Nume eticheta"
-"Tag Name: %s","Nume eticheta: %s"
-"Tag can't be empty.","Eticheta nu poate fi goala."
-"Tagged in","Pus eticheta in"
-"Tags","Etichete"
-"Tags Aren't Available","Etichete indisponibile"
-"Tags:","Etichete:"
-"Telephone","Telefon"
-"Thank you. Your tag has been accepted for moderation.","Iti multumim. Eticheta a fost acceptata pentru moderare."
-"Unable to find any products tagged with '%s' in the current store","Nu s-au gasit produse cu eticheta '%s' in magazin"
-"Unable to remove tag. Please, try again later.","Eroare la stergerea etichetei. Incercati mai tarziu."
-"Unable to save tag(s)","Eroare. Nu se poate salva eticheta"
-"Unable to save your tag. Please, try again later.","Eroare. Nu se poate salva eticheta. Incearca mai tarziu."
-"Use spaces to separate tags. Use single quotes (') for phrases.","Foloseste spatii intre etichete. Foloseste ghilimele simple (') pentru fraze."
-"Uses","Utilizari"
-"View All","View All"
-"View All Tags","Vezi toate etichetele"
-"View Customers","Vezi clienti"
-"View Products","Vezi produse"
-"Visible In","Vizibil in"
+"Info","Info"
+"Last Name",Nume
+"List",Listă
+"Manage Tags",Gestionare Etichete
+"My Recent Tags",Etichetele Mele Recente
+"My Tags",Etichetele Mele
+"Name",Nume
+"New Tag",Etichetă Nouă
+"No matches found.",Nu s-a găsit nimic.
+"Other people marked this product with these tags:",Alte persoane au marcat acest produs ca:
+"Pending",În așteptare
+"Pending Tags",Etichete în Așteptare
+"Popular",Populare
+"Popular Tags",Etichete Populare
+"Price",Preț
+"Product Name",Nume Produs
+"Product SKU",COD Produs
+"Product Tag API",API Etichete Produs
+"Product Tags",Etichete Produs
+"Products",Produse
+"Products Tagged by Administrators",Produse Etichetate de Administratori
+"Products Tagged by Customers",Produse Etichetate de Clienți
+"Products Tagged with '%s'",Produse cu Eticheta '%s'
+"Products tagged with '%s'",Produse cu eticheta '%s'
+"Rebuild Tag aggregation data",Reconstruire date agregare Etichete
+"Remove",Eliminare
+"Remove product tag",Eliminare etichetă produs
+"Retrieve list of tags by product",Recuperare listă etichete după produs
+"Retrieve product tag info",Recuperare informații etichete produs
+"SKU",COD Produs
+"Save Tag",Salvare Etichetă
+"Save and Continue Edit",Salvare și Continuare Editare
+"Status",Stare
+"Store View",Vitrină
+"Tag",Etichetă
+"Tag ""%s"" has already been added to the product.",Eticheta "%s" a fost adăugată deja la produs.
+"Tag ""%s"" has been added to the product.",Eticheta "%s" a fost adăugată la produs.
+"Tag ""%s"" has been rejected by administrator.",Eticheta "%s" a fost respinsă de către administrator.
+"Tag Aggregation Data",Date Agregare Etichete
+"Tag Name",Nume Etichetă
+"Tagged Products List",Listă Produse Etichetate
+"Tags",Etichete
+"Tags List (All Available)",Listă Etichete (Toate Disponibile)
+"Tags List Before",Listă Etichete Înainte
+"Tags:",Etichete:
+"Telephone",Telefon
+"The tag has been deleted.",Eticheta a fost ștearsă.
+"There are no tags available.",Nu există etichete disponibile.
+"Unable to find any products tagged with '%s' in the current store",Nu s-au găsit produse cu eticheta '%s' în magazinul curent
+"Unable to remove tag. Please, try again later.",Eroare la eliminarea etichetei. Încercați mai târziu.
+"Unable to save tag(s).",Nu se pot salva etichetele.
+"Update",Actualizare
+"Update product tag",Actualizare etichetă produs
+"Use spaces to separate tags. Use single quotes (') for phrases.",Separați etichetele prin spații. Folosiți ghilimele simple (') pentru fraze.
+"View All Tags",Vizualizare Toate Etichetele
+"View Customers",Vizualizare Clienți
+"View Products",Vizualizare Produse
 "XML","XML"
-"You have not tagged any products yet.","Nu ai adaugat nici o eticheta nici unui produs."
-"Your tag was successfully deleted","Your tag was successfully deleted"
-"Your tag was successfully saved","Your tag was successfully saved"
-"ZIP/Post Code","Cod postal"
-"You have not tagged any products yet.","You have not tagged any products yet."
+"You have not tagged any products yet.",Nu ați etichetat nici un produs.
+"ZIP/Post Code",Cod Poștal
+"[STORE VIEW]",[VITRINĂ]

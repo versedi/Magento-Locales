@@ -1,0 +1,118 @@
+"%name% '%value%' is too long. It must has length %min% symbols.",%name% '%value%' e prea lung. Trebuie să aibă lungimea de %min% simboluri.
+"%name% '%value%' is too short. It must has length %min% symbols.",%name% '%value%' e prea scurt. Trebuie să aibă lungimea de %min% simboluri.
+"* Required Fields",* Câmpuri Obligatorii
+"<strong>%s</strong> requests access to your account",<strong>%s</strong> solicită acces la contul dvs.
+"Admin",Administrator
+"After authorization application will have access to you account.",După autorizare aplicația va avea acces la contul dvs.
+"An error occurred on confirm authorize.",Eroare la confirmarea autorizării.
+"An error occurred on delete action.",Eroare la acțiunea de ștergere.
+"An error occurred on delete application.",Eroare la aplicația de ștergere.
+"An error occurred on reject authorize.",Eroare la respingerea autorizării.
+"An error occurred on saving consumer data.",Eroare la salvarea datelor consumatorului.
+"An error occurred on update revoke status.",Eroare la actualizarea statusului de revocare.
+"An error occurred while deleting the consumer.",Eroare la ștergerea consumatorului.
+"An error occurred.",A apărut o eroare.
+"An error occurred. Your authorization request is invalid.",A apărut o eroare. Cererea dvs. de autorizare e invalidă.
+"App Name",Nume Aplicație
+"Application ""%s"" has been deleted.",Aplicația "%s" a fost ștearsă.
+"Application ""%s"" has been enabled.",Aplicația "%s" a fost activată.
+"Application ""%s"" has been revoked.",Aplicația "%s" a fost revocată.
+"Application Name",Nume Aplicație
+"Application not found.",Aplicație ne-găsită.
+"Are you sure you want to delete this application?",Sunteți sigur că doriți să ștergeți această aplicație?
+"Are you sure you want to disable this application?",Sunteți sigur că doriți să dezactivați această aplicație?
+"Are you sure you want to enable this application?",Sunteți sigur că doriți să activați această aplicație?
+"Authorization confirmed",Autorizare confirmată
+"Authorization confirmed.",Autorizare confirmată.
+"Authorize",Autorizare
+"Authorize application",Autorizare aplicație
+"Authorized Tokens",Token-uri Autorizate
+"Callback URL",URL Callback
+"Cleanup Probability",Probabilitate Curățare
+"Cleanup Settings",Setări Curățare
+"Close",Închidere
+"Confirm OAuth token authorization",Confirmare autorizare token OAuth
+"Confirm token authorization Pop Up for admin",Pop Up confirmare autorizare token pentru administrator
+"Confirm token authorization for admin",Confirmare autorizare token pentru administrator
+"Confirmation Of Authorization",Confirmarea Autorizării
+"Consumer Information",Informații Consumator
+"Consumer Name",Nume Client
+"Consumers",Consumatori
+"Created At",Creat La
+"Customer",Client
+"Customer My Account My OAuth Applications",Client Contul Meu Aplicațiile Mele OAuth
+"Delete",Ștergere
+"Disable",Dezactivare
+"Disabled",Dezactivat
+"Edit",Modificare
+"Edit Consumer",Modificare Consumator
+"Email",E-mail
+"Email Address",Adresă E-mail
+"Enable",Activare
+"Enabled",Activat
+"Entry with ID #%s not found.",Înregistrarea cu ID-ul #%s ne-găsită.
+"Expiration Period",Perioadă Expirare
+"Give the verifier code to application administrator",Trimiteți codul de verificare administratorului aplicației
+"ID","ID"
+"Invalid Callback URL",URL Callback Invalid
+"Invalid ID parameter.",Parametru ID invalid.
+"Invalid Rejected Callback URL",URL Callback Respins Invalid
+"Invalid entry ID.",ID înregistrare invalid.
+"Invalid revoke status.",Status revocare invalid.
+"Key",Cheie
+"Log In",Logare
+"Log in as a customer",Logare ca și client
+"Log in as admin",Logare ca și administrator
+"Log in as customer",Logare ca și client
+"Log in to use <strong>%s</strong>",Logați-vă pentru a utiliza <strong>%s</strong>
+"Login",Logare
+"My Applications",Aplicațiile Mele
+"Name",Nume
+"New Consumer",Consumator Nou
+"OAuth","OAuth"
+"OAuth Admin My Apps",OAuth Administrator Aplicațiile Mele
+"OAuth Authorized Tokens",Token-uri Autorizare OAuth
+"OAuth Consumers",Clienți OAuth
+"OAuth authorization Pop Up for customer",Pop Up autorizare OAuth pentru client
+"OAuth authorization for admin",Autorizare OAuth pentru administrator
+"OAuth authorization for customer",Autorizare OAuth pentru client
+"OAuth authorization simple for admin",Autorizare OAuth simplă pentru administrator
+"Password",Parolă
+"Permissions",Permisiuni
+"Please login to proceed authorization.",Logați-vă pentru a continua cu autorizarea.
+"Please select needed row(s).",Selectați rândul(rile) necesar(e).
+"Please select revoke status.",Selectați statusul de revocare.
+"REST - My Apps",Aplicațiile Mele REST
+"REST - OAuth Authorized Tokens",Token-uri Autorizate OAuth REST
+"REST - OAuth Consumers",Clienți OAuth REST
+"Reject",Respingere
+"Reject OAuth token authorization",Respingere autorizare token OAuth
+"Reject authorization",Respingere autorizare
+"Reject token authorization Pop Up for admin",Respingere Pop Up autorizare token pentru administrator
+"Reject token authorization for admin",Respingere autorizare token pentru administrator
+"Rejected Callback URL",URL Callback Respins
+"Rejection Of Authorization",Respingerea Autorizării
+"Revoked",Revocat
+"Role Name",Nume Rol
+"Save",Salvare
+"Save and Continue Edit",Salvare și Continuare Editare
+"Secret","Secret"
+"Selected entries enabled.",Înregistrările selectate activate.
+"Selected entries has been deleted.",Înregistrările selectate au fost șterse.
+"Selected entries revoked.",Înregistrările selectate revocate.
+"Status","Status"
+"System",Sistem
+"The application access request is rejected.",Cererea de acces la aplicație este refuzată.
+"The consumer has been deleted.",Consumatorul a fost șters.
+"The consumer has been saved.",Consumatorul a fost salvat.
+"Token Status Change",Schimbare Status Token
+"Token Status Change Email Template",Șablon E-mail Schimbare Status Token
+"Unable to find a consumer.",Nu se poate găsi un consumator.
+"User ID",ID Utilizator
+"User Name",Nume Utilizator
+"User Type",Tip Utilizator
+"Verifier code: %s",Cod de verificare: %s
+"You have no applications.",Nu aveți nicio aplicație.
+"deleted",șters
+"enabled",activat
+"revoked",revocat

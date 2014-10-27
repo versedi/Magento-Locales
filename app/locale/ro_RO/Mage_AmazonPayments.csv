@@ -1,0 +1,101 @@
+" Select Shipping Method"," Selectare Metodă Expediere"
+"<br/>Trace confirmation request:<br/>%s",<br/>Urmărire cerere confirmare:<br/>%s
+"Access Key",Cheie Acces
+"Access Key ID",ID Cheie Acces
+"Amazon Simple Pay",Plată Simplă Amazon
+"Amazon Simple Pay notification error",Eroare notificare Plată Simplă Amazon
+"Amazon Simple Pay service capture confirmation error: confirmation request amount is not equal to the amount of order.",Eroare confirmare captură serviciu Plată Simplă Amazon: suma cererii de confirmare nu e egală cu suma comenzii.
+"Amazon Simple Pay service capture confirmation error: the amount in the existing invoice does not match the amount in the confirmation request.",Eroare confirmare captură serviciu Plată Simplă Amazon: suma din factura existentă nu se potrivește cu suma din cererea de confirmare.
+"Amazon Simple Pay service capture confirmation error: the existing transaction ID does not match the transaction ID in the confirmation request.",Eroare confirmare captură serviciu Plată Simplă Amazon: ID-ul tranzacției existente nu se potrivește cu ID-ul tranzacției din cererea de confirmare.
+"Amazon Simple Pay service capture confirmation. The invoice was captured automatically.",Confirmare captură serviciu Plată Simplă Amazon. Factura a fost capturată automat.
+"Amazon Simple Pay service confirmation error: order states sequence violation.",Eroare confirmare serviciu Plată Simplă Amazon: violare secvență stări comandă.
+"Amazon Simple Pay service confirmation error: the order currency does not match the currency of the IPN request.",Eroare confirmare serviciu Plată Simplă Amazon: valuta comenzii nu se potrivește cu valuta cererii NPI.
+"Amazon Simple Pay service confirmation error: the order specified in the IPN request cannot be found.",Eroare confirmare serviciu Plată Simplă Amazon: comanda specificată în cererea NPI nu poate fi găsită.
+"Amazon Simple Pay service confirmation error: the payment method in the order is not Amazon Simple Pay.",Eroare confirmare serviciu Plată Simplă Amazon: metoda de plată a comenzii nu este Plată Simplă Amazon.
+"Amazon Simple Pay service confirmed capture for invoice %s.",Captură confirmată serviciu Plată Simplă Amazon pentru factura %s.
+"Amazon Simple Pay service confirmed refund for credit memo %s.",Rambursare confirmată serviciu Plată Simplă Amazon pentru memo-ul de credit %s.
+"Amazon Simple Pay service has confirmed amount authorization.",Serviciul Plată Simplă Amazon a confirmat autorizarea sumei.
+"Amazon Simple Pay service has confirmed cancelation.",Serviciul Plată Simplă Amazon a confirmat anularea.
+"Amazon Simple Pay service has confirmed capture for invoice %s. The invoice was automatically captured.",Serviciul Plată Simplă Amazon a confirmat captura pentru factura %s. Factura va fi capturată automat.
+"Amazon Simple Pay service has confirmed capture initiation.",Serviciul Plată Simplă Amazon a confirmat inițializarea capturii.
+"Amazon Simple Pay service has confirmed capture.",Serviciul Plată Simplă Amazon a confirmat captura.
+"Amazon Simple Pay service has confirmed payment capture. Invoice %s was automatically created after confirmation.",Serviciul Plată Simplă Amazon a confirmat captura plății. Factura %s a fost creată automat după confirmare.
+"Amazon Simple Pay service has confirmed payment capture. Invoice was created automatically.",Serviciul Plată Simplă Amazon a confirmat captura plății. Factura a fost creată automat.
+"Amazon Simple Pay service has confirmed payment refund. Credit memo %s was automatically created after confirmation.",Serviciul Plată Simplă Amazon a confirmat rambursarea plății. Memo-ul de credit %s a fost creat automat după confirmare.
+"Amazon Simple Pay service has confirmed payment refund. Credit memo was created automatically.",Serviciul Plată Simplă Amazon a confirmat rambursarea plății. Memo-ul de credit a fost creat automat.
+"Amazon Simple Pay service has confirmed payment refund. The credit memo was created automatically.",Serviciul Plată Simplă Amazon a confirmat rambursarea plății. Memo-ul de credit a fost creat automat.
+"Amazon Simple Pay service has confirmed refund.",Serviciul Plată Simplă Amazon a confirmat rambursarea.
+"Amazon Simple Pay service has confirmed refund. The credit memo was processed automatically.",Serviciul Plată Simplă Amazon a confirmat rambursarea. Memo-ul de credit a fost procesat automat.
+"Amazon Simple Pay service has confirmed refunded credit memo %s. The credit memo was processed automatically.",Serviciul Plată Simplă Amazon a confirmat rambursarea pentru memo-ul de credit %s. Memo-ul de credit a fost procesat automat.
+"Amazon Simple Pay service is not available. Payment was not processed.",Serviciul Plată Simplă Amazon nu este disponibil. Plata nu a fost procesată.
+"Amazon Simple Pay service payment confirmation has failed.",Serviciul Plată Simplă Amazon a eșuat confirmarea plății.
+"Amazon Simple Pay service refund confirmation error: the amount in the existing creditmemo does not match the amount in the confirmation request.",Eroare confirmare rambursare serviciu Plată Simplă Amazon: suma din memo-ul de credit existent nu se potrivește cu suma din cererea de confirmare.
+"Amazon Simple Pay service refund confirmation error: the confirmation request amount does not match the order amount.",Eroare confirmare rambursare serviciu Plată Simplă Amazon: suma cererii de confirmare nu se potrivește cu suma comenzii.
+"Amazon Simple Pay service refund confirmation error: the transaction ID in the existing creditmemo does not match the transaction ID in the confirmation request.",Eroare confirmare rambursare serviciu Plată Simplă Amazon: ID-ul tranzacției din memo-ul de credit existent nu se potrivește cu ID-ul tranzacției din cererea de confirmare.
+"Authorize Only",Numai Autorizare
+"Authorize and Capture",Autorizare și Captură
+"Cancel Description",Anulare Descriere
+"Cancel Order Notification received from Checkout by Amazon service.",Notificare Anulare Comandă primită de la serviciul Finalizare Comandă prin Amazon.
+"Checkout by Amazon",Finalizare Comandă prin Amazon
+"Continue Shopping",Continuare Cumpărături
+"Customer was redirected to Amazon Simple Pay site",Clientul a fost redirecționat către site-ul Plată Simplă Amazon
+"Debug",Depanare
+"Debug Log",Registru Depanare
+"Email Sender",Expeditor E-mail
+"Enable",Activare
+"Error Log",Registru Erori
+"FPS Sandbox Service URI",URI Serviciu Sandbox FPS
+"FPS Service URI",URI Serviciu FPS
+"Immediate Return",Retur Imediat
+"Invalid action code.",Cod acțiune invalid.
+"Invalid request.",Cerere invalidă.
+"Invoice was created with Checkout by Amazon.",Factura a fost creată cu Finalizare Comandă prin Amazon.
+"Merchant ID",ID Comerciant
+"Merchant Login",Logare Comerciant
+"Merchant Name",Nume Comerciant
+"Merchant Password",Parolă Comerciant
+"Merchant Token",Token Comerciant
+"Method Choice Checkout Message",Mesaj Finalizare Comandă Alegere Metodă
+"New Order Notification received from Checkout by Amazon service.",Notificare Comandă Nouă primită de la serviciul Finalizare Comandă prin Amazon.
+"New Order Status",Status Comandă Nouă
+"Notification Error Transactional Email",E-mail Tranzacțional Eroare Notificare
+"Order Ready To Ship Notification received form Checkout by Amazon service.",Notificare Comandă Pregătită de Expediere primită de la serviciul Finalizare Comandă prin Amazon.
+"Order was canceled with Checkout by Amazon.",Comanda a fost anulată cu Finalizare Comandă prin Amazon.
+"Payment Action",Acțiune de Plată
+"Payment Description",Descriere Plată
+"Payment Sandbox Service URI",URI Serviciu de Plată Sandbox
+"Payment Service URI",URI Serviciu de Plată
+"Payment authorization canceled with Amazon Simple Pay service.",Autorizare plată anulată prin serviciul Plată Simplă Amazon.
+"Pending Amazon Simple Pay",În Așteptare Plată Simplă Amazon
+"Redirect Message",Mesaj Redirecționare
+"Refund Description",Descriere Rambursare
+"Refund was created with Checkout by Amazon.",Rambursarea a fost creată cu Finalizare Comandă prin Amazon.
+"Report Email",E-mail Raport
+"Report Error to Email",Raportare Eroare în E-mail
+"Response body is not a valid FPS response.",Corpul răspunsului nu e un răspuns FPS valid.
+"SUCCESS",SUCCES
+"Sandbox","Sandbox"
+"Secret Key",Cheie Secretă
+"Secret Key ID",ID Cheie Secretă
+"Shipment was created with Checkout by Amazon.",Expedierea a fost creată cu Finalizare Comandă prin Amazon.
+"Thank you for your purchase!",Vă mulțumim pentru achiziție!
+"The customer has canceled payment and successfully returned from Amazon Simple Pay site",Clientul a anulat plata și s-a întors cu succes de la site-ul Plată Simplă Amazon
+"The customer has successfully returned from Amazon Simple Pay site",Clientul s-a întors cu succes de la site-ul Plată Simplă Amazon
+"The invoice was created (online capture). Waiting for capture confirmation from Amazon Simple Pay service.",Factura a fost creată (captură online). Se așteaptă confirmarea capturii de la serviciul Plată Simplă Amazon.
+"The invoice was not refunded. Amazon Simple Pay service error: [%s] %s",Factura nu a fost rambursată. Eroare serviciu Plată Simplă Amazon: [%s] %s
+"The item specified in callback request XML was not found in quote.",Articolul specificat în XML-ul cererii de întoarcere nu a fost găsit în estimare.
+"The order was not canceled. Amazon Simple Pay service error: [%s] %s",Comanda nu a fost anulată. Eroare serviciu Plată Simplă Amazon: [%s] %s
+"The order was not captured online. Authorization confirmation is required.",Comanda nu a fost capturată online. Confirmarea autorizării e obligatorie.
+"The order was not captured. Amazon Simple Pay service error: [%s] %s",Comanda nu a fost capturată. Eroare serviciu Plată Simplă Amazon: [%s] %s
+"The payment was captured online with Amazon Simple Pay service. The invoice was created. Waiting for capture confirmation from the payment service.",Plata a fost capturată online prin serviciul Plată Simplă Amazon. Factura a fost creată. Se așteaptă confirmarea capturii de la serviciul de plată.
+"The payment was refunded online with Amazon Simple Pay service. The credit memo was created. Waiting for refund confirmation from Amazon Simple Pay service.",Plata a fost rambursată online prin serviciul Plată Simplă Amazon. Memo-ul de credit a fost creat. Se așteaptă confirmarea rambursării de la serviciul de plată.
+"The payment was refunded online. Waiting for refund confirmation from Amazon Simple Pay service.",Plata a fost rambursată online. Se așteaptă confirmarea rambursării de la serviciul Plată Simplă Amazon.
+"The request is not a valid IPN request.",Cererea nu este o cerere NPI validă.
+"The request was signed incorrectly or the signature is missing.",Cererea a fost semnată incorect sau semnătura lipsește.
+"Title",Titlu
+"Use Callback API",Utilizare API Întoarcere
+"You will be redirected to Checkout by Amazon in a few seconds.",Veți fi redirecționat către Finalizarea Comenzii prin Amazon în câteva secunde.
+"You will receive an order confirmation email with details of your order and a link to track its progress.",Veți primi un e-mail de confirmare a comenzii cu detalii despre comanda dvs. și o legătură pentru a urmări progresul acesteia.
+"You will receive an order confirmation email with details of your order and a link to track its progress.<br/>",Veți primi un e-mail de confirmare a comenzii cu detalii despre comanda dvs. și o legătură pentru a urmări progresul acesteia.<br/>
+"Your billing address will be ignored and you will be redirected to Checkout by Amazon website.",Adresa dvs. de facturare va fi ignorată și veți fi redirecționat către site-ul Finalizare Comandă prin Amazon.
+"Your order has been received.",Comanda dvs. a fost recepționată.

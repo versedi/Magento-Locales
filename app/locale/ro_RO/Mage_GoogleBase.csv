@@ -1,80 +1,78 @@
-"Account login","Account login"
-"Account password","Account password"
-"Active","Active"
-"Add Attribute Mapping","Add Attribute Mapping"
-"Add New Attribute","Add New Attribute"
-"Add to Google Base","Add to Google Base"
-"Are you sure?","Are you sure?"
-"Attribute","Attribute"
-"Attribute Set","Attribute Set"
-"Attribute Set and Item Type","Attribute Set and Item Type"
-"Attributes","Attributes"
-"Attributes Set","Attributes Set"
-"Attributes mapping","Attributes mapping"
+"Active",Activ
+"Add Attribute Mapping",Adăugare Mapare Atribut
+"Add New Attribute",Adăugare Atribut Nou
+"Add to Google Base",Adăugare la Google Base
+"Are you sure?",Sunteți sigur?
+"Attribute",Atribut
+"Attribute Set",Set Atribute
+"Attribute Set and Item Type",Set Atribute și Tip Articol
+"Attributes",Atribute
+"Attributes Mapping",Mapare Atribute
+"Attributes Set",Set Atribute
 "AuthSub","AuthSub"
-"Available Products","Available Products"
-"British Pound Sterling","British Pound Sterling"
-"Cannot update Google Base Item for Store '%s'","Cannot update Google Base Item for Store '%s'"
-"Captcha confirmation error: %s","Captcha confirmation error: %s"
-"Captcha confirmed successfully","Captcha confirmed successfully"
-"Clicks","Clicks"
+"Available Products",Produse Disponibile
+"Base Currency should be set to %s for %s in system configuration. Otherwise item prices won't be correct in Google Base.",Valuta de Bază ar trebui să fie setată la %s pentru %s în configurația sistemului. În caz contrar prețurile articolelor nu vor fi corecte în Google Base.
+"Cannot update Google Base Item for Store '%s'",Imposibil de actualizat Articolul Google Base pentru Magazinul '%s'
+"Captcha confirmation error: %s",Eroare confirmare Captcha: %s
+"Captcha has been confirmed.",Captcha a fost confirmat.
+"Catalog","Catalog"
+"Clicks",Click-uri
 "ClientLogin","ClientLogin"
-"Confirm","Confirm"
-"Current Mapping will be reloaded. Continue?","Current Mapping will be reloaded. Continue?"
-"Custom attribute, no mapping","Custom attribute, no mapping"
-"Default Store (%s)","Default Store (%s)"
-"Delete","Delete"
-"Delete Mapping","Delete Mapping"
-"Edit Item Type","Edit Item Type"
-"Edit Item Type ""%s""","Edit Item Type ""%s"""
-"Error: %s","Error: %s"
-"Euro","Euro"
-"Expires","Expires"
-"Germany","Germany"
+"Confirm",Confirmare
+"Current Mapping will be reloaded. Continue?",Maparea curentă va fi reîncărcată. Continuați?
+"Custom attribute, no mapping","Atribut personalizat, fără mapare"
+"Delete",Ștergere
+"Delete Mapping",Ștergere Mapare
+"Edit Item Type",Editare Tip Articol
+"Edit Item Type ""%s""",Editare Tip Articol "%s"
+"Error: %s",Eroare: %s
+"Expires",Expiră
+"Google","Google"
 "Google Base","Google Base"
-"Google Base Attribute","Google Base Attribute"
-"Google Base ID","Google Base ID"
-"Google Base Item Type","Google Base Item Type"
-"Google Base Item type","Google Base Item type"
-"Google Base Items","Google Base Items"
-"Hide","Hide"
+"Google Base Attribute",Atribut Google Base
+"Google Base ID",ID Google Base
+"Google Base Item Type",Tip Articol Google Base
+"Google Base Item type",Tip Articol Google Base
+"Google Base Items",Articole Google Base
+"Google base","Google base"
+"Hide",Ascundere
+"Hosted",Găzduit
+"Hosted or Google",Găzduit sau Google
 "Impr.","Impr."
-"Invalid Product Model for Google Base Item","Invalid Product Model for Google Base Item"
-"Item Type was deleted","Item Type was deleted"
-"Item Types","Item Types"
-"Item model is not specified to delete Google Base entry","Item model is not specified to delete Google Base entry"
-"Item type was successfully saved","Item type was successfully saved"
-"Items","Items"
-"Manage Attribute Mapping","Manage Attribute Mapping"
-"Manage Attributes","Manage Attributes"
-"Manage Items","Manage Items"
-"New Item Type","New Item Type"
-"No","No"
-"No items were deleted from Google Base","No items were deleted from Google Base"
-"No items were published","No items were published"
-"No items were saved as Inactive items","No items were saved as Inactive items"
-"No products were added to Google Base","No products were added to Google Base"
-"Object model is not specified to save Google Base entry","Object model is not specified to save Google Base entry"
-"Page views","Page views"
-"Please, select Attribute Set and Google Item Type to load attributes","Please, select Attribute Set and Google Item Type to load attributes"
-"Product Name","Product Name"
-"Publish","Publish"
-"Published","Published"
-"Remove","Remove"
-"Save Mapping","Save Mapping"
-"Synchronize","Synchronize"
-"Target Country","Target Country"
-"This action will update items statistics and remove the items which are not available in Google Base. Continue?","This action will update items statistics and remove the items which are not available in Google Base. Continue?"
-"Total of %d items(s) were successfully deleted, Total of %d items(s) were successfully updated","Total of %d items(s) were successfully deleted, Total of %d items(s) were successfully updated"
-"Total of %d items(s) were successfully published","Total of %d items(s) were successfully published"
-"Total of %d items(s) were successfully removed from Google Base","Total of %d items(s) were successfully removed from Google Base"
-"Total of %d items(s) were successfully saved as Inactive items","Total of %d items(s) were successfully saved as Inactive items"
-"Total of %d product(s) were successfully added to Google Base","Total of %d product(s) were successfully added to Google Base"
-"US Dollar","US Dollar"
-"Unable to connect to Google Base. Please, check Account settings in configuration.","Unable to connect to Google Base. Please, check Account settings in configuration."
-"United Kingdom","United Kingdom"
-"United States","United States"
-"Update Google Base item when product is updated","Update Google Base item when product is updated"
-"View Available Products","View Available Products"
-"View Item in Google Base","View Item in Google Base"
-"Yes","Yes"
+"Invalid Product Model for Google Base Item",Model Produs Invalid pentru Articolul Google Base
+"Item Type was deleted",Tip Articol Șters
+"Item Types",Tipuri Articol
+"Item model is not specified to delete Google Base entry.",Model articol nespecificat pentru ștergerea înregistrării Google Base.
+"Items",Articole
+"Manage Attribute Mapping",Gestionare Mapare Atribut
+"Manage Attributes",Gestionare Atribute
+"Manage Items",Gestionare Articole
+"New Item Type",Tip Articol Nou
+"New ItemType",Tip ArticolNou
+"No",Nu
+"No items were deleted from Google Base",Niciun articol nu a fost șters din Google Base
+"No items were published",Niciun articol nu a fost publicat
+"No items were saved as inactive items",Niciun articol nu a fost salvat ca articol inactiv
+"No products were added to Google Base",Niciun produs nu a fost adăugat la Google Base
+"Object model is not specified to save Google Base entry.",Model obiect nespecificat pentru a salva înregistrarea Google Base.
+"Please, select Attribute Set and Google Item Type to load attributes",Selectați Setul de Atribute și Tipul de Articol Google pentru încărcarea atributelor
+"Product Name",Nume Produs
+"Publish",Publicare
+"Published",Publicat
+"Remove",Eliminare
+"Save Mapping",Salvare Mapare
+"Session expired during export. Please revise exported products and repeat the process if necessary.",Sesiunea a expirat în timpul exportării. Revizuiți produsele exportate și repetați procesul dacă e necesar.
+"Synchronize",Sincronizare
+"Target Country",Țara țintă
+"The item type has been saved.",Tipul de articol a fost salvat.
+"This action will update items statistics and remove the items which are not available in Google Base. Continue?",Această acțiune va actualiza statistica articolelor și va elimina articolele care nu sunt disponibile în Google Base. Continuați?
+"Total of %d items(s) have been deleted; total of %d items(s) have been updated.",Un total de %d articole au fost șterse; un total de %d articole au fost actualizate.
+"Total of %d items(s) have been published.",Un total de %d articole au fost publicate.
+"Total of %d items(s) have been removed from Google Base.",Un total de %d articole au fost eliminate din Google Base.
+"Total of %d items(s) have been saved as inactive items.",Un total de %d articole au fost salvate ca articole inactive.
+"Total of %d product(s) have been added to Google Base.",Un total de %d produse au fost adăugate la Google Base.
+"Unable to connect to Google Base. Please, check Account settings in configuration.",Imposibil de conectat la  Google Base. Verificați setările Contului în configurație.
+"Unable to select a Store View.",Imposibil de selectat o Vitrină.
+"View Available Products",Vizualizare Produse Disponibile
+"View Item in Google Base",Vizualizare Articol în Google Base
+"Yes",Da

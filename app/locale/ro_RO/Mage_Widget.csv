@@ -1,0 +1,75 @@
+"%s","%s"
+"-- Please Select --",-- Selectați --
+"Actions",Acțiuni
+"Add Layout Update",Adăugare Actualizare Schemă
+"Add New Widget Instance",Adăugare Instanță Widget Nouă
+"All",Toate
+"All Pages",Toate Paginile
+"All Product Types",Toate Tipurile de Produs
+"An error occurred during saving a widget: %s",Eroare la salvarea unui widget: %s
+"Anchor Categories",Categorii Ancoră
+"Apply",Aplicare
+"Assign to Store Views",Atribuire la Vitrine
+"Big Image",Imagine Mare
+"Block Reference",Referință de Bloc
+"CMS","CMS"
+"Categories",Categorii
+"Choose...",Alegeți...
+"Close",Închidere
+"Continue",Continuare
+"Default Template",Șablon Implicit
+"Delete",Ștergere
+"Design Package/Theme",Pachet/Temă Aspect
+"Export to:",Exportare în:
+"Frontend Properties",Proprietăți Interfață Client
+"Generic Pages",Pagini Generice
+"Images",Imagini
+"Insert Widget",Inserare Widget
+"Insert Widget...",Inserare Widget...
+"Layout Updates",Actualizări Schemă
+"Manage Widget Instances",Gestionare Instanțe Widget
+"New Instance",Instanță Nouă
+"New Widget Instance",Instanță Widget Nouă
+"Next page",Pagina următoare
+"Non-Anchor Categories",Categorii Non-Ancoră
+"Not Selected",Ne-selectat
+"Open Chooser",Deschideți Selector
+"Page",Pagina
+"Please Select Block Reference First",Vă Rugăm Selectați Întâi Referința Bloc
+"Previous page",Pagina anterioară
+"Products",Produse
+"Remove Layout Update",Eliminare Actualizare Schemă
+"Save and Continue Edit",Salvare și Continuare Editare
+"Select All",Selectare Tot
+"Select Visible",Selectare Vizibile
+"Settings",Setări
+"Sort Order",Ordine Sortare
+"Sort Order of widget instances in the same block reference",Ordinea de sortare a instanțelor widget din aceeași referință de bloc
+"Specific %s",%s specific
+"Specified Page",Pagină Specifică
+"Template",Șablon
+"The information in this tab has been changed.",Informațiile din această casetă s-au schimbat.
+"The widget instance has been deleted.",Instanța widget a fost ștearsă.
+"The widget instance has been saved.",Instanța widget a fost salvată.
+"This tab contains invalid data. Please solve the problem before saving.",Această casetă conține date incorecte. Rezolvați problema înainte de a salva.
+"Thumbnail",Miniatură
+"Total %d records found",Un total de %d înregistrări găsite
+"Type",Tip
+"Unselect All",Deselectare Tot
+"Unselect Visible",Deselectare Vizibile
+"View",Vizualizare
+"Widget","Widget"
+"Widget ""%s""","Widget ""%s"""
+"Widget ID",ID Widget
+"Widget Insertion",Inserție Widget
+"Widget Instance",Instanță Widget
+"Widget Instance Title",Titlu Instanță Widget
+"Widget Options",Opțiuni Widget
+"Widget Type",Tip Widget
+"Widget Type is not specified",Tip Widget nespecificat
+"Widget instance is not full complete to create.",Instanța widget nu e completă pentru creare.
+"Widgets",Widget-uri
+"Wrong widget instance specified.",Instanță widget specificată greșită.
+"items selected",articole selectate
+"of %s pages",din %s pagini
+"per page",pe pagină

@@ -1,0 +1,238 @@
+"%s","%s"
+"%s role is a special one and can\'t be changed.",Rolul %s este unul special și nu poate fi schimbat.
+"%s role is a special one and can\'t be deleted.",Rolul %s este unul special și nu poate fi șters.
+"%s role is protected.",Rolul %s este protejat.
+"ACL Attribute Rules",Reguli Atribut ACL
+"ACL Attributes Information",Informații Atribute ACL
+"Add",Adăugare
+"Add Admin Role",Adăugare Rol Administrator
+"Add New Role","Adăugare Rol Nou "
+"Address Type",Tip Adresă
+"Admin",Administrator
+"Allow",Permitere
+"An error occurred while deleting the role.",Eroare la ștergerea acestui rol.
+"An error occurred while saving attribute rules.",Eroare la salvarea regulilor de atribut.
+"An error occurred while saving role.",Eroare la salvarea rolului.
+"Api Rules Information",Informații Reguli Api
+"Assigned",Alocat
+"Associate to Website",Asociere la Site
+"Attribute Rules Information",Informații Reguli Atribute
+"Attribute Set",Set Atribute
+"Attributes",Atribute
+"Automatically Return Credit Memo Item to Stock",Returnare Automată în Stoc a Articolelor de Memo de Credit
+"Back",Înapoi
+"Backorders",Precomenzi
+"Base Currency",Valuta de Bază
+"Base Customer Balance",Balanță de Bază Client
+"Base Discount",Reducere de Bază
+"Base Discount Amount",Sumă de Bază Reducere
+"Base Item Subtotal",Subtotal de Bază Articol
+"Base Item Subtotal Including Tax",Subtotal de Bază Articol Cu Taxe
+"Base Original Price",Preț Original de Bază
+"Base Price",Preț de Bază
+"Base Price Including Tax",Preț de Bază Cu Taxe
+"Base Shipping",Expediere de Bază
+"Base Shipping Discount",Reducere de Bază Expediere
+"Base Shipping Tax",Taxe de Bază Expediere
+"Base Subtotal",Subtotal de Bază
+"Base Subtotal Including Tax",Subtotal de Bază Cu Taxe
+"Base Tax Amount",Sumă de Bază Taxe
+"Base Total Due",Total de Bază de Plată
+"Base Total Paid",Total de Bază Plătit
+"Base Total Refunded",Total de Bază Rambursat
+"Buy Now URL",URL Cumpărați Acum
+"Can Be Divided into Multiple Boxes for Shipping",Poate Fi Împărțit în Mai Multe Cutii pentru Expediere
+"Canceled Qty",Cant Anulată
+"Catalog","Catalog"
+"Catalog Product",Produs Catalog
+"CatalogInventory",InventarCatalog
+"Category ID",ID Categorie
+"City",Oraș
+"Company",Companie
+"Country",Țara
+"Coupon Code",Cod Cupon
+"Create",Creare
+"Create Permanent Redirect for old URL",Creare Redirecționare Permanentă pentru URL vechi
+"Created From",Creat De La
+"Customer",Client
+"Customer Address",Adresă Client
+"Customer Address ID",ID Adresă Client
+"Customer Balance",Balanță Client
+"Customer First Name",Prenume Client
+"Customer ID",ID Client
+"Customer Last Name",Nume Familie Client
+"Customer Middle Name",Al Doilea Prenume Client
+"Customer Prefix",Prefix Client
+"Customer Suffix",Sufix Client
+"Default Image",Imagine Implicită
+"Delete",Ștergere
+"Deny",Refuzare
+"Disable automatic group change based on VAT ID",Dezactivare schimbare grup automată bazată pe ID TVA
+"Discount",Reducere
+"Discount Amount",Sumă Reducere
+"Discount Description",Descriere Reducere
+"Edit",Modificare
+"Edit %s ACL attribute rules",Modificare reguli atribute ACL %s
+"Edit Role",Modificare Rol
+"Edit attribute rules for %s Role",Modificare reguli atribute pentru Rol %s
+"Email",E-mail
+"Enable Qty Increments",Activare Incrementare Cant.
+"Exclude",Excludere
+"File Content",Conținut Fișier
+"File MIME Type",Tip MIME Fișier
+"File Name",Nume Fișier
+"Final Price With Tax",Preț Final Cu Taxe
+"Final Price Without Tax",PReț Final Fără Taxe
+"First Name",Prenume
+"Gift Message",Mesaj Cadou
+"Grand Total",Total General
+"Grand Total to Be Charged",Total General de Facturat
+"Group",Grup
+"Guest",Vizitator
+"Has Custom Options",Are Opțiuni Personalizate
+"ID","ID"
+"Inventory Data",Date Inventar
+"Invoiced Qty",Cant Facturată
+"Is Confirmed",E Confirmat
+"Is Default Billing Address",E Adresa de Facturare Implicită
+"Is Default Shipping Address",E Adresa de Expediere Implicită
+"Item ID",ID Articol
+"Item Subtotal",Subtotal Articol
+"Item Subtotal Including Tax",Subtotal Articol Cu Taxe
+"Label",Etichetă
+"Last Logged In",Ultima Logare În
+"Last Name",Nume
+"Low Stock Date",Dată Stoc Limitat
+"Manage Stock",Gestionare Stoc
+"Maximum Qty Allowed in Shopping Cart",Cantitate Maximă Permisă în Coșul de Cumpărături
+"Minimum Qty Allowed in Shopping Cart",Cantitate Minimă Permisă în Coșul de Cumpărături
+"New Role",Rol Nou
+"Notify for Quantity Below",Notificare pentru Cantități Sub
+"OAuth","OAuth"
+"Order",Comanda
+"Order Addresses",Adrese Comandă
+"Order Comments",Comentarii Comandă
+"Order Currency",Valută Comandă
+"Order Date",Dată Comandă
+"Order ID",ID Comandă
+"Order ID (internal)",ID Comandă (intern)
+"Order Item ID",ID Articol Comandă
+"Order Items",Articole Comandă
+"Order Status",Status Comandă
+"Ordered Qty",Cant Comandată
+"Orders",Comenzi
+"Original Price",Preț Original
+"Parent Order Item ID",ID Articol Comandă Părinte
+"Payment Method",Metodă Plată
+"Phone Number",Număr Telefon
+"Placed from IP",Plasată de la IP-ul
+"Please enter a valid number in ""max_sale_qty"" field",Introduceți un număr valid în câmpul "max_sale_qty"
+"Please enter a valid number in ""min_qty"" field",Introduceți un număr valid în câmpul "min_qty"
+"Please enter a valid number in ""min_sale_qty"" field",Introduceți un număr valid în câmpul "min_sale_qty"
+"Please enter a valid number in ""notify_stock_qty"" field",Introduceți un număr valid în câmpul "notify_stock_qty"
+"Please use numbers only in ""category_id"" field.",Utilizați doar numere în câmpul "category_id".
+"Please use numbers only in ""qty_increments"" field. Please avoid spaces or other characters such as dots or commas.",Utilizați doar numere în câmpul "qty_increments". Evitați spațiile sau alte caractere cum ar fi punctele sau virgulele.
+"Position",Poziție
+"Price",Preț
+"Price Including Tax",Preț Cu Taxe
+"Product",Produs
+"Product Category",Categorie Produs
+"Product ID",ID Produs
+"Product Image",Imagine Produs
+"Product Type",Tip Produs
+"Product URL",URL Produs
+"Product Website",Website Produs
+"Product and Custom Options Name",Produs și Nume Opțiuni Personalizate
+"Qty",Cant.
+"Qty Increments",Trepte Cant
+"Qty Uses Decimals",Cant Folosește Zecimale
+"Qty for Item's Status to Become Out of Stock",Cant. la care Statusul Articolului Devine Stoc Epuizat
+"REST - Attributes",Atribute REST
+"REST - Roles",Roluri REST
+"REST ACL Attributes",Atribute REST ACL
+"REST Attributes",Atribute REST
+"REST Role",Rol REST
+"REST Roles",Roluri REST
+"REST Roles Information",Informații Roluri REST
+"Read",Citire
+"Refunded Qty",Cant Rambursată
+"Regular Price With Tax",Preț Obișnuit Cu Taxe
+"Regular Price Without Tax",Preț Obișnuit Fără Taxe
+"Rest Roles",Roluri Rest
+"Retrieve",Recuperare
+"Role ""%s"" no longer exists",Rolul "%s" nu mai există
+"Role ""%s"" not found.",Rolul "%s" nu a fost găsit.
+"Role API Resources",Resurse API Rol
+"Role Info",Info Roluri
+"Role Information",Informații Roluri
+"Role Name",Nume Rol
+"Role Users",Utilizatori Rol
+"Role has been deleted.",Rolul a fost șters.
+"Roles",Roluri
+"SKU",COD
+"Salability Status",Status Vândabilitate
+"Sales",Vânzări
+"Save",Salvare
+"Shipped Qty",Cant Expediată
+"Shipping Amount",Sumă Expediere
+"Shipping Discount",Reducere Expediere
+"Shipping Including Tax",Expediere Cu Taxe
+"Shipping Method",Metodă Expediere
+"Shipping Tax",Taxe Expediere
+"State",Stare
+"Stock Availability",Disponibilitate Stoc
+"Stock ID",ID Stoc
+"Stock Item",Articol Stoc
+"Stock Status",Stare Stoc
+"Store Currency to Order Currency Rate",Raport Valută Magazin la Valută Comandă
+"Store Name",Nume Magazin
+"Street",Strada
+"Subtotal","Subtotal"
+"Subtotal Including Tax",Subtotal Cu Taxe
+"System",Sistem
+"Tax Amount",Sumă Taxă
+"Tax Name",Nume Taxă
+"Tax Percent",Procent Taxă
+"Tax Rate",Cotă Taxă
+"The ""enable_qty_increments"" field must be set to 0 or 1.",Câmpul "enable_qty_increments" trebuie să fie setat pe 0 sau 1.
+"The ""is_decimal_divided"" field must be set to 0 or 1.",Câmpul "is_decimal_divided" trebuie să fie setat pe 0 sau 1.
+"The ""is_in_stock"" field must be set to 0 or 1.",Câmpul "is_in_stock" trebuie să fie setat pe 0 sau 1.
+"The ""is_qty_decimal"" field must be set to 0 or 1.",Câmpul "is_qty_decimal" trebuie să fie setat pe 0 sau 1.
+"The ""is_qty_decimal"" field must be set to 0, 1, or 2.","Câmpul ""is_qty_decimal"" trebuie să fie setat pe 0, 1 sau 2."
+"The ""manage_stock"" field must be set to 0 or 1.",Câmpul "manage_stock" trebuie să fie setat pe 0 sau 1.
+"The ""stock_status_changed_auto"" field must be set to 0 or 1.",Câmpul "stock_status_changed_auto" trebuie să fie setat pe 0 sau 1.
+"The ""use_config_backorders"" field must be set to 0 or 1.",Câmpul "use_config_backorders" trebuie să fie setat pe 0 sau 1.
+"The ""use_config_enable_qty_inc"" field must be set to 0 or 1.",Câmpul "use_config_enable_qty_inc" trebuie să fie setat pe 0 sau 1.
+"The ""use_config_manage_stock"" field must be set to 0 or 1.",Câmpul "use_config_manage_stock" trebuie să fie setat pe 0 sau 1.
+"The ""use_config_max_sale_qty"" field must be set to 0 or 1.",Câmpul "use_config_max_sale_qty" trebuie să fie setat pe 0 sau 1.
+"The ""use_config_min_qty"" field must be set to 0 or 1.",Câmpul "use_config_min_qty" trebuie să fie setat pe 0 sau 1.
+"The ""use_config_min_sale_qty"" field must be set to 0 or 1.",Câmpul "use_config_min_sale_qty" trebuie să fie setat pe 0 sau 1.
+"The ""use_config_notify_stock_qty"" field must be set to 0 or 1.",Câmpul "use_config_notify_stock_qty" trebuie să fie setat pe 0 sau 1.
+"The ""use_config_qty_increments"" field must be set to 0 or 1.",Câmpul "use_config_qty_increments" trebuie să fie setat pe 0 sau 1.
+"The attribute rules were saved.",Regulile de atribut au fost salvate.
+"The role has been saved.",Rolul a fost salvat.
+"The role is a special one and not for assigning it to admin users.",Rolul este unul special și nu este pentru atribuirea la utilizatorii administratori.
+"Total Due",Total de Plată
+"Total Paid",Total Plătit
+"Total Refunded",Total Rambursat
+"Total Reviews Count",Total Număr Recenzii
+"Type",Tip
+"URL","URL"
+"Update",Actualizare
+"Use Config Settings for Allow Gift Message",Utilizare Setări Configurare pentru Permitere Mesaje de Cadou
+"Use Config Settings for Allow Gift Wrapping",Utilizare Setări Configurare pentru Permitere Ambalaje de Cadou
+"Use Config Settings for Backorders",Utilizare Setări Configurare pentru Precomenzi
+"Use Config Settings for Enable Qty Increments",Utilizare Setări Configurare pentru Activare Trepte Cant
+"Use Config Settings for Manage Stock",Utilizare Setări Configurare pentru Gestionare Stoc
+"Use Config Settings for Maximum Qty Allowed in Shopping Cart",Utilizare Setări Configurare pentru Cantitate Maximă Permisă în Coș Cumpărături
+"Use Config Settings for Minimum Qty Allowed in Shopping Cart",Utilizare Setări Configurare pentru Cantitate Minimă Permisă în Coș Cumpărături
+"Use Config Settings for Notify for Quantity Below",Utilizare Setări Configurare pentru Notificare la Cantități Sub
+"Use Config Settings for Qty Increments",Utilizare Setări Configurare pentru Trepte Cant
+"Use Config Settings for Qty for Item's Status to Become Out of Stock",Utilizare Setări Configurare pentru Cant Necesară Pentru ca Statusul Articolului să Devină Stoc Epuizat
+"User Type",Tip Utilizator
+"User type ""%s"" no longer exists",Tipul de utilizator "%s" nu mai există
+"User type ""%s"" not found.",Tipul de utilizator "%s" nu a fost găsit.
+"Web Services",Servicii Web
+"Web services",Servicii web
+"Write",Scriere
+"ZIP/Postal Code",Cod Poștal

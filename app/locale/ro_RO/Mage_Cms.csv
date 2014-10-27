@@ -1,65 +1,123 @@
-"(eg: domain.com/identifier)","(eg: domain.com/identificator)"
-"Action","Actiune"
-"Add New Block","Adauga bloc"
-"Add New Page","Adauga pagina"
-"All countries","Toate tarile"
-"Block Information","Informatii bloc"
-"Block Title","Titlu bloc"
-"Block was successfully deleted","Blocul a fost sters"
-"Block was successfully saved","Blocul a fost salvat"
+"A block identifier with the same properties already exists in the selected store.",Un identificator de bloc cu aceleași proprietăți există deja în magazinul selectat.
+"A directory with the same name already exists. Please try another folder name.",Un director cu același nume există deja. Încercați un alt nume de director.
+"A page URL key for specified store already exists.",O cheie URL de pagină pentru magazinul specificat există deja.
+"Action",Acțiune
+"Add New Block",Adăugare Bloc Nou
+"Add New Page",Adăugare Pagină Nouă
+"All Countries",Toate Țările
+"An error occurred while saving the page.",Eroare la salvarea paginii.
+"Anchor Custom Text",Text Personalizat Ancoră
+"Anchor Custom Title",Titlu Personalizat Ancoră
+"Are you sure you want to delete current folder?",Sunteți sigur că doriți să ștergeți directorul curent?
+"Are you sure you want to delete the selected file?",Sunteți sigur că doriți să ștergeți fișierul selectat?
+"Block",Bloc
+"Block Information",Informații Bloc
+"Block Title",Titlu Bloc
 "CMS","CMS"
-"CMS Home Page","CMS Home Page"
-"CMS No Route Page","CMS No Route Page"
-"Content","Continut"
-"Custom Design","Design personalizat"
-"Custom Theme","Tema personalizata"
-"Custom Theme From","Tema personalizata de la"
-"Custom Theme To","Tema personalizata catre"
-"Customer Tax Class Information","Informatii clasa de taxare client"
-"Date Created","Data crearii"
-"Delete Block","Sterge bloc"
-"Delete Page","Sterge pagina"
-"Description","Descriere"
-"Disabled","Dezactivat"
-"Edit Block","Modifica bloc"
-"Edit Block '%s'","Modifica bloc '%s'"
-"Edit Page","Modifica pagina"
-"Edit Page '%s'","Modifica pagina '%s'"
-"Enabled","Activat"
-"General Information","Informatii generale"
-"Go to Home Page","Mergi la pagina principala"
-"Home","Home"
-"Identifier","Identificator"
-"Keywords","Cuvinte cheie"
-"Last Modified","Ultima modificare"
-"Layout","Layout"
-"Layout Update XML"," Actualizare Layout XML"
-"Manage Pages","Gestioneaza pagini"
-"Meta Data","Meta Date"
-"Meta Description","Meta Descriere"
-"Meta Keywords","Meta Cuvinte Cheie"
-"New Block","Bloc nou"
-"New Page","Pagina noua"
-"Page Identifier cannot consist only of numbers.","Identificatorul de pagina nu poate avea doar numere."
-"Page Identifier for specified store already exist.","Identificatorul de pagina pentru magazinul selectat deja exista."
-"Page Information","Informatii pagina"
-"Page Status","Status pagina"
-"Page Title","Titlu pagina"
-"Page was successfully deleted","Pagina a fost stearsa"
-"Page was successfully saved","Pagina a fost salvata"
-"Poll Manager","Manager chestionare"
-"Product Tax Class Information","Informatii clasa taxare produs"
-"SEF URL Identifier","Identificator SEF URL"
-"Save Block","Salveaza bloc"
-"Save Page","Salveaza pagina"
-"Show breadcrumbs for CMS pages","Arata breadcrumbs pt pagini CMS"
-"Static Blocks","Blocuri statice"
-"Status","Stare"
-"Store View","Vitrina"
-"Such a block identifier in selected store already exist.","Identificatorul de bloc pentru magazinul selectat exista deja."
-"The page you are trying to save no longer exists","Pagina nu mai exista."
-"This block no longer exists","Blocul nu mai exista"
-"This page no longer exists","Pagina nu mai exista"
-"Title","Titlu"
-"Unable to find a block to delete","Nu s-a gasit nici un bloc de sters"
-"Unable to find a page to delete","Nu s-a gasit nici o pagina de sters"
+"CMS Content Wrapper",Wrapper Conținut CMS
+"CMS Home Page",Pagină Principală CMS
+"CMS No Cookies Page",Pagină CMS Fără Cookie-uri
+"CMS No Route Page",Pagină CMS fără rută
+"CMS No-Route Page",Pagină CMS fără-rută
+"CMS Page",Pagină CMS
+"CMS Page Link",Legătură Pagină CMS
+"CMS Page Link Block Template",Șablon Bloc Legătură Pagină CMS
+"CMS Page Link Inline Template",Șablon În-linie Legătură Pagină CMS
+"CMS Pages (All)",Pagini CMS (Toate)
+"CMS Static Block",Bloc Static CMS
+"CMS Static Block Default Template",Șablon Implicit Bloc Static CMS
+"Cannot create new directory.",Nu se poate crea directorul nou.
+"Cannot delete directory %s.",Nu se poate șterge directorul %s.
+"Cannot delete root directory %s.",Nu se poate șterge directorul rădăcină %s.
+"Cannot upload file.",Nu se poate încărca fișier.
+"Collapse All",Minimizare Toate
+"Content",Conținut
+"Content Heading",Antet Conținut
+"Content Management",Administrare Conținut
+"Contents of a Static Block",Conșinutul unui Bloc Static
+"Create Folder...",Creare Director...
+"Custom Design",Design personalizat
+"Custom Design From",Aspect Personalizat de la
+"Custom Design To",Aspect Personalizat până la
+"Custom Layout",Schemă Personalizată
+"Custom Layout Update XML",XML Actualizare Schemă Personalizată
+"Custom Theme",Temă personalizată
+"Customer Tax Class Information",Informații Clasă de Taxare Client
+"Date Created",Dată Creare
+"Delete Block",Ștergere Bloc
+"Delete File",Ștergere Fișier
+"Delete Folder",Ștergere Director
+"Delete Page",Ștergere Pagină
+"Description",Descriere
+"Design",Aspect
+"Disabled",Dezactivat
+"Disabled Completely",Dezactivat Complet
+"Disabled by Default",Dezactivat Implicit
+"Edit Block",Modificare Bloc
+"Edit Block '%s'",Modificare Bloc '%s'
+"Edit Page",Modificare Pagină
+"Edit Page '%s'",Modificare Pagina '%s'
+"Enable WYSIWYG Editor",Activare Editor WYSIWYG
+"Enabled",Activat
+"Enabled by Default",Activat Implicit
+"Expand All",Maximizare Toate
+"General Information",Informații Generale
+"Go to Home Page",Mergi la Pagina Principală
+"Home",Pagina Principală
+"ID","ID"
+"Identifier",Identificator
+"If empty, the Page Title will be used","Dacă e gol, Titlul Paginii va fi folosit"
+"Images (%s)",Imaginile (%s)
+"Insert File",Inserare Fișier
+"Invalid folder name. Please, use alphanumeric characters, underscores and dashes.","Nume director invalid. Folosiți caractere alfanumerice, underscore și liniuțe"
+"Keywords",Cuvinte Cheie
+"Last Modified",Ultima Modificare
+"Layout",Schemă
+"Layout Update XML",XML Actualizare Schemă
+"Link to a CMS Page",Legătură către o Pagină CMS
+"Manage Pages",Gestionare Pagini
+"Media Gallery",Galerie Media
+"Media Storage",Stocare Media
+"Meta Data",Meta Date
+"Meta Description",Meta Descriere
+"Meta Keywords",Meta Cuvinte Cheie
+"New Block",Bloc Nou
+"New Folder Name:",Nume Director Nou:
+"New Page",Pagină Nouă
+"No files found",Niciun fișier găsit
+"Page Information",Informații Pagină
+"Page Layout",Schemă Pagină
+"Page Status",Stare Pagină
+"Page Title",Titlu Pagină
+"Pages",Pagini
+"Product Tax Class Information",Informații Clasă Taxare Produs
+"Redirect to CMS-page if Cookies are Disabled",Redirecționare la pagina CMS dacă Cookie-urile sunt Dezactivate
+"Relative to Website Base URL",Relativă la Adresa de Bază URL a Site-ului
+"Save Block",Salvare Bloc
+"Save Page",Salvare Pagină
+"Save Process",Salvare Proces
+"Select Block...",Selectare Bloc...
+"Select Page...",Selectare Pagină...
+"Show Breadcrumbs for CMS Pages",Afișare Breadcrumbs pentru Paginile CMS
+"Show Notice if JavaScript is Disabled",Afișare Notificare dacă JavaScript este Dezactivat
+"Static Blocks",Blocuri Statice
+"Status","Status"
+"Storage Root",Rădăcină Depozitare
+"Store View",Vitrină
+"Template",Șablon
+"The block has been deleted.",Blocul a fost șters.
+"The block has been saved.",Blocul a fost salvat.
+"The directory %s is not writable by server.",Directorul %s nu poate fi scris de către server.
+"The page URL key cannot consist only of numbers.",Cheia URL a paginii nu poate fi formată numai din numere.
+"The page URL key contains capital letters or disallowed symbols.",Cheia URL a paginii conține majuscule sau simboluri nepermise.
+"The page has been deleted.",Pagina a fost ștearsă.
+"The page has been saved.",Pagina a fost salvată.
+"The static block content cannot contain  directive with its self.",Conținutul blocului static nu poate conține directive cu el însuși.
+"This block no longer exists.",Acest bloc nu mai există.
+"This page no longer exists.",Această pagină nu mai există.
+"Title",Titlu
+"URL Key",Cheie URL
+"Unable to find a block to delete.",Nu se poate găsi un bloc pentru ștergere.
+"Unable to find a page to delete.",Nu se poate găsi o pagină pentru ștergere.
+"WYSIWYG Options",Opțiuni WYSIWYG
+"px.","px."

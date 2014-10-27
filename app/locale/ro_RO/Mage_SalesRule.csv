@@ -1,89 +1,132 @@
-"Actions","Actiuni"
-"Active","Activ"
-"Add New Rule","Adauga regula noua"
-"Apply","Aplica"
-"Apply the rule only if the following conditions are met (leave blank for all products)","Apply the rule only if the following conditions are met (leave blank for all products)"
-"Apply the rule only to cart items matching the following conditions (leave blank for all items)","Apply the rule only to cart items matching the following conditions (leave blank for all items)"
-"Apply the rule to cart items matching the following conditions","Apply the rule to cart items matching the following conditions"
-"Apply to","Aplica la"
-"Buy X get Y free (discount amount is Y)","Cumpara X si primesti Y gratis (suma redusa e Y)"
-"By Fixed Amount","Dupa suma fixa"
-"By Fixed value","Dupa valoare fixa"
-"By Percentage","Dupa procent"
-"By Percentage of the original price","Ca procent din pretul initial"
-"Cart Attribute","Atribut cos"
+"%d Shopping Cart Price Rules based on ""%s"" attribute have been disabled.",%d Reguli Preț Coș Cumpărături bazate pe atributul "%s" au fost dezactivate.
+"%s Coupon(s) have been generated",%s Cupon(oane) a(u) fost generat(e)
+"Actions",Acțiuni
+"Active",Activ
+"Add New Rule",Adăugare Regulă Nouă
+"Alphabetical",Alfabetic
+"Alphanumeric",Alfanumeric
+"An error occurred while generating coupons. Please review the log and try again.",Eroare la generarea cupoanelor. Consultați registrul și încercați din nou.
+"Apply",Aplicare
+"Apply To",Aplicare La
+"Apply the rule only if the following conditions are met (leave blank for all products)",Aplicare regulă doar dacă următoarele condiții sunt satisfăcute (lăsați liber pentru toate produsele)
+"Apply the rule only to cart items matching the following conditions (leave blank for all items)",Aplicare regulă doar articolelor din coș pentru care următoarele condiții sunt satisfăcute (lăsați liber pentru toate produsele)
+"Apply the rule to cart items matching the following conditions",Aplicare regulă doar articolelor din coș pentru care următoarele condiții sunt satisfăcute
+"Apply to Shipping Amount",Aplicare la Sumă Expediere
+"Are you sure you want to delete the selected coupon(s)?",Sunteți sigur că doriți să ștergeți cupoanele selectate?
+"Auto",Automat
+"Auto Generated Specific Coupon Codes",Coduri Cupon Specifice Generate Automat
+"Buy X get Y free (discount amount is Y)",Cumpără X și primești Y gratis (suma redusă e Y)
+"By Fixed value",După valoare Fixă
+"By Percentage",După Procent
+"Can\'t acquire coupon.",Nu se poate obține opțiunea.
+"Cart Attribute",Atribut Coș
 "Catalog","Catalog"
-"Conditions","Conditii"
-"Conditions combination","Combinatie conditii"
-"Coupon Code","Cod cupon"
-"Coupon code","Cod cupon"
-"Customer Groups","Grupuri de clienti"
-"Customer is new buyer: %s","Este client nou: %s"
-"Customer registered: %s","Client inregistrat: %s"
-"Date Expire","Expira la"
-"Date Start","Incepe la"
-"Delete Rule","Sterge regula"
-"Description","Descriere"
-"Description: %s","Descriere: %s"
-"Discount Qty Step (Buy X)","Discount Qty Step (Buy X)"
-"Discount amount","Suma reducere"
-"Edit Rule","Modifica regula"
-"Edit Rule '%s'","Modifica regula '%s'"
-"Expire at: %s","Expira la: %s"
-"Fixed amount discount","Reducere in suma fixa"
-"Fixed amount discount for whole cart","Reducere in suma fixa pe tot cosul"
-"For matching items only","Doar pentru articole identice"
-"For shipment with matching items","Pentru livrare cu articole identice"
-"Free shipping","Transport gratuit"
-"From Date","De la data"
-"General Information","Informatii generale"
+"Code Format",Format Cod
+"Code Length",Lungime Cod
+"Code Prefix",Prefix Cod
+"Code Suffix",Sufix Cod
+"Conditions",Condiții
+"Conditions combination",Combinație condiții
+"Coupon",Cupon
+"Coupon Code",Cod Cupon
+"Coupon Qty",Cant Cupon
+"Coupon with the same code",Cupon cu același cod
+"Coupons Information",Informații Cupoane
+"Created On",Creat La
+"Customer Groups",Grupuri de Clienți
+"Dash Every X Characters",Liniuță La Fiecare X Caractere
+"Date Expire",Expiră La
+"Date Start",Începe La
+"Default Label",Eticheta Implicită
+"Default Rule Label for All Store Views",Etichetă Regulă Implicită pentru Toate Vitrinele
+"Description",Descriere
+"Discount Amount",Sumă Reducere
+"Discount Qty Step (Buy X)",Treaptă Reducere Cantitate (Cumpără X)
+"Edit Rule",Modificare Regula
+"Edit Rule '%s'",Modificare Regula '%s'
+"Excluding prefix, suffix and separators.","Fără prefix, sufix și separatori."
+"FOUND",GĂSIT
+"Fixed amount discount",Reducere în sumă fixă
+"Fixed amount discount for whole cart",Reducere în sumă fixă pe tot coșul
+"For matching items only",Doar pentru articole identice
+"For shipment with matching items",Pentru expediere cu articole identice
+"Free Shipping",Livrare Gratuită
+"From Date",De la Data
+"General Information",Informații Generale
+"Generate",Generare
 "ID","ID"
-"Inactive","Inactiv"
-"Maximum Qty Discount is Applied to","Maximum Qty Discount is Applied to"
-"NOT LOGGED IN","ne-logat"
-"Name: %s","Nume: %s"
-"New Rule","Regula noua"
-"No","Nu"
-"Payment Method","Metoda de plata"
-"Percent of product price discount","Reducere ca procent din pretul produsului"
-"Price in cart","Pretul in cos"
-"Priority","Prioritate"
-"Product attribute combination","Combinatie atribute produs"
-"Products subselection","Products subselection"
-"Promotions","Promotii"
-"Public In RSS Feed","Public In RSS Feed"
-"Quantity in cart","Cantitate in cos"
-"Row total in cart","Total randuri in cos"
-"Rule Information","Informatii regula"
-"Rule Name","Nume regula"
-"Rule was successfully deleted","Regula stearsa."
-"Rule was successfully saved","Regula salvata."
-"Save Rule","Salveaza regula"
-"Shipping Country","Tara de livrare"
-"Shipping Method","Metoda de livrare"
-"Shipping Postcode","Cod postal de livrare"
-"Shipping Region","Regiunea de livrare"
-"Shipping State/Province","Judetul de livrare"
-"Shopping Cart Price Rule","Regula de pret pt cos"
-"Shopping Cart Price Rules","Reguli de pret pt cos"
-"Special price","Pret special"
-"Start at: %s","De la: %s"
-"Status","Status"
-"Stop further rules processing","Opreste procesarea altor reguli"
+"If %s %s %s for a subselection of items in cart matching %s of these conditions:",Dacă %s %s %s pentru o subselecție de articole din coș care satisfac %s din aceste condiții:
+"If an item is %s in the cart with %s of these conditions true:",Dacă un articol e %s în coș cu %s din aceste condiții adevărate:
+"If empty no separation.",Dacă e gol nicio separare.
+"If you select and save the rule you will be able to generate multiple coupon codes.",Dacă selectați și salvați regula veți putea să generați multiple coduri cupon.
+"Inactive",Inactiv
+"Item totals are not set for rule.",Totaluri articol ne-setate pentru regulă.
+"Labels",Etichete
+"Manage Coupon Codes",Gestionare Coduri Cupon
+"Maximum Qty Discount is Applied To",Reducere Cant Maximă Aplicată La
+"NOT FOUND",NE-GĂSIT
+"NOT LOGGED IN",NE-LOGAT
+"New Rule",Regulă Nouă
+"No",Nu
+"No Coupon",Niciun Cupon
+"Not valid data provided",Date ne-valide furnizate
+"Number of Uses","Number of Uses"
+"Numeric","Numeric"
+"Payment Method",Metodă de Plată
+"Percent of product price discount",Reducere ca procent din prețul produsului
+"Period",Perioadă
+"Price in cart",Prețul în coș
+"Priority",Prioritate
+"Product attribute combination",Combinație atribute produs
+"Products subselection",Subselecție produse
+"Promotions",Promoții
+"Public In RSS Feed",Public în Feed RSS
+"Quantity in cart",Cantitate în coș
+"Row total in cart",Total rânduri în coș
+"Rule Information",Informații Regulă
+"Rule Name",Nume Regulă
+"Rule is not defined",Regula nu e definită
+"Sales Discount Amount",Sumă Reducere Vânzări
+"Sales Subtotal Amount",Sumă Subtotal Vânzări
+"Sales Total Amount",Sumă Total Vânzări
+"Save and Continue Edit",Salvare și Continuare Editare
+"Shipping Country",Țară de Expediere
+"Shipping Method",Metodă de Expediere
+"Shipping Postcode",Cod Poștal de Expediere
+"Shipping Region",Regiune de Expediere
+"Shipping State/Province",Județ de Expediere
+"Shopping Cart Price Rule",Regulă Preț Coș
+"Shopping Cart Price Rules",Reguli Preț Coș
+"Special Price",Preț Special
+"Specific Coupon",Cupon Specific
+"Status",Stare
+"Stop Further Rules Processing",Oprirea Procesării Altor Reguli
+"Store View Specific Labels",Etichete Specifice Vitrină
 "Subtotal","Subtotal"
-"The page you are trying to save no longer exists","Pagina nu mai exista"
-"This rule no longer exists","Regula nu mai exista"
-"To Date","Pina la data"
-"To Fixed Amount","La suma fixa"
-"To Fixed Value","La valoare fixa"
-"To Percentage","La procent"
-"To Percentage of the original price","la procent din pretul initial"
-"Total Items Quantity","Cantitate totala articole"
-"Total Weight","Greutate totala"
-"Unable to find a page to delete","Nu s-a gasit pagina"
-"Update prices using the following information","Actualizeaza preturile folosind urmatoarele informatii"
-"Update product's %s %s: %s","Actualizeaza info produs %s %s: %s"
-"Update the Product","Actualizeaza produs"
-"Uses per coupon","Utilizari per cupon"
-"Uses per customer","Utilizari per client"
-"Yes","Da"
+"Subtotal Amount",Sumă Subtotal
+"The rule has been deleted.",Regula a fost ștearsă.
+"The rule has been saved.",Regula a fost salvată.
+"This rule no longer exists.",Această regulă nu mai există.
+"Times Used",Număr Utilizări
+"To Date",Până la Data
+"To Fixed Value",La Valoare Fixă
+"To Percentage",La Procent
+"Total","Total"
+"Total Amount",Sumă Total
+"Total Items Quantity",Cantitate Totală Articole
+"Total Weight",Greutate Totală
+"Unable to create requested Coupon Qty. Please check settings and try again.",Nu se poate crea Cant Cupon cerută. Verficați setările și încercați din nou.
+"Unable to find a rule to delete.",Nu se poate găsi o regulă pentru ștergere.
+"Update prices using the following information",Actualizare prețuri folosind următoarele informații
+"Update product's %s %s: %s",Actualizare info. produs %s %s: %s
+"Update the Product",Actualizare Produs
+"Use Auto Generation",Utilizare Generare Automată
+"Used",Utilizat
+"Uses per Coupon",Utilizări per Cupon
+"Uses per Customer",Utilizări per Client
+"Website","Website"
+"Websites",Website-uri
+"Wrong rule specified.",Regulă specificată greșită.
+"Yes",Da
+"total amount",suma totală
+"total quantity",cantitatea totală

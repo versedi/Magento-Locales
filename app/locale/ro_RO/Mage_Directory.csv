@@ -1,43 +1,47 @@
-"-- Please select --","-- Alegeti --"
-"Allowed currencies","Valute acceptate"
-"Base currency","Base currency"
-"Cannot retrieve rate from %s","Cannot retrieve rate from %s"
-"Connection timeout in seconds","Connection timeout in seconds"
-"Continue &raquo;","Continua &raquo;"
-"Country","Country"
-"Country Api","Country Api"
-"Country and Format Type combination should be unique","Country and Format Type combination should be unique"
-"Currency","Valuta"
-"Currency Options","Optiuni valuta"
-"Currency Setup","Setari valuta"
-"Currency Update Warnings","Alerte actualizari valute"
-"Currency will be used for all online payment transactions","Currency will be used for all online payment transactions"
-"Default display currency","Valuta standard afisata"
-"Directory","Directory"
-"Enabled","Activat"
-"Error Email Recipient","Destinatar email erori"
-"Error Email Sender","Expeditor email erori"
-"Error Email Template","Template email erori"
-"FATAL ERROR:","EROARE FATALA. I-auzi:"
-"Frequency","Frecventa"
-"Installed Currencies","Valute instalate"
-"Invalid Import Service Specified","Invalid Import Service Specified"
-"Invalid country code: %s","Cod tara nevalid: %s"
-"Invalid rates received","Cursuri primite nevalide"
-"Invalid target currency","Invalid target currency"
-"List of countries","List of countries"
-"List of regions in specified country","List of regions in specified country"
-"Region","Region"
-"Region Api","Region Api"
-"Remove space from currency sign","Remove space from currency sign"
-"Scheduled Import Settings","Scheduled Import Settings"
-"Select Your Currency","Alege valuta"
-"Service","Service"
-"Start Time","Start Time"
-"State/Province","Judet"
-"Strikeiron Email Update Warnings","Strikeiron Email Update Warnings"
-"Unable to initialize import model","Unable to initialize import model"
-"Undefined rate from ""%s-%s""","Undefined rate from ""%s-%s"""
-"WARNING:","ATENTIE:"
+"-- Please select --",-- Selectați --
+"Allowed Currencies",Valute Permise
+"Base Currency",Valuta de Bază
+"Base currency is used for all online payment transactions. Scope is defined by the catalog price scope (""Catalog"" > ""Price"" > ""Catalog Price Scope"").",Valuta de bază e folosită pentru toate tranzacțiile de plată on-line. Acoperirea e definită de acoperirea prețului de catalog ("Catalog" > "Preț" > "Acoperire Preț Catalog").
+"Can\'t convert rate from ""%s-%s"".",Nu se poate converti cota de la "%s-%s".
+"Cannot retrieve rate from %s.",Nu se poate recupera cota de la %s.
+"Connection Timeout in Seconds",Timeout Conexiune în Secunde
+"Continue &raquo;",Continuare &raquo;
+"Country",Țara
+"Country API",API Țări
+"Country and Format Type combination should be unique",Combinația Țară și Tip Format trebuie să fie unică
+"Currency",Valuta
+"Currency Options",Opțiuni Valută
+"Currency Setup",Setări Valută
+"Currency Update Warnings",Alerte Actualizare Valută
+"Default Display Currency",Valuta Implicită de Afișare
+"Directory",Director
+"Display not required State",Afișare Stat ne-necesar
+"Enabled",Activat
+"Error Email Recipient",Destinatar E-mail Erori
+"Error Email Sender",Expeditor E-mail Erori
+"Error Email Template",Șablon E-mail Erori
+"FATAL ERROR:",EROARE FATALĂ:
+"Frequency",Frecvență
+"Installed Currencies",Valute Instalate
+"Invalid Import Service specified.",Serviciu Importare specificat Invalid.
+"Invalid country code: %s",Cod țară nevalid: %s
+"Invalid rates received",Cursuri primite nevalide
+"Invalid target currency.",Valuta țintă invalidă.
+"List of countries",Lista țărilor
+"List of regions in specified country",Lista regiunilor din țara specificată
+"Postal Code is Optional for the following countries",Cod Poștal Opțional pentru țările următoare
+"Region",Regiune
+"Region API",API Regiune
+"Scheduled Import Settings",Setări Importare Planificate
+"Select Your Currency",Selectați Valuta
+"Service",Serviciu
+"Start Time",Timp Pornire
+"State is required for",Statul e necesar pentru
+"State/Province",Județ
+"States Options",Opțiuni State
+"Strikeiron Email Update Warnings",Avertizări Actualizare E-mail Strikeiron
+"Unable to initialize the import model.",Imposibil de inițializat modelul de importare.
+"Undefined rate from ""%s-%s"".",Rată nedefinită de la "%s-%s".
+"WARNING:",ATENȚIE:
 "Webservicex","Webservicex"
-"Your current currency is: %s","Valuta ta preferata este: %s"
+"Your current currency is: %s",Valuta dvs. curentă este: %s

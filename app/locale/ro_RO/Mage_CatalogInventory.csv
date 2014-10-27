@@ -1,42 +1,59 @@
-"%s is not correct comparsion method.","%s nu este o metoda corecta de comparare."
-"<strong>Please note</strong>, that these Settings are applicable to cart line Items, not the whole Cart.","<strong>Atentie!</strong>Aceste setari nu se aplica intregului Cos in ansamblu, ci fiecarui element din Cos in parte."
-"Allow Qty Below 0","Accepta cantitate negativa"
-"Allow Qty Below 0 and Notify Customer","Accepta cantitate negativa si anunta clientul"
-"Backorders","Posibilitate de comanda"
-"By Fixed value","dupa valoare fixa"
-"By Percentage","dupa procent"
-"Can not specify product identifier for order item","Nu se poate specifica ID-ul produsului comandat"
-"Catalog Inventory","Inventar Catalog"
-"Decrease Stock When Order is Placed","Scade stocul cand se face o comanda"
-"In Stock","În stoc"
-"Inventory","Gestiune stocuri"
-"Inventory API","API Inventar"
-"Inventory Section","Secţiune Inventar"
-"Manage Stock","Administrare Stoc"
-"Maximum Qty Allowed in Shopping Cart","Cantitate maxima permisa in cos"
-"Minimum Qty Allowed in Shopping Cart","Cantitate minima permisa in cos"
-"No Backorders","Fara posibilitate de comanda"
-"Notify for Quantity Below","Anunta pentru cantitate mai mica de"
-"Out of Stock","Stoc epuizat"
-"Product Stock Options","Opţiuni Stoc Produs"
-"Qty for Items' Status to become Out of Stock","Cantitatea de la care statusul produselor devine stoc zero"
-"Retrieve stock data","Obţinere date stoc"
-"Retrieve stock data by product ids","Obţine datele de stoc după id produs"
-"Rule price","Reguli pret"
-"Set Items' Status to be In Stock When Order is Cancelled","Seteaza statusul produselor ca In Stoc daca comanda este anulata"
-"Some of the products are currently out of stock","Unele produse nu sunt in stoc"
-"Some of the products can not be ordered in requested quantity","Unele produse nu pot fi comandate în cantitatea solicitată"
-"Some of the products cannot be ordered in the requested quantity","Unele produse nu pot fi comandate în cantitatea solicitată"
-"Stock Options","Optiuni stocuri"
-"Stock item for Product in option is not valid","Stocul pentru produsul selectat nu este valid"
-"Stock item for Product is not valid","Stock item for Product is not valid"
-"The maximum quantity allowed for purchase is %s.","Cantitatea maxima care se poate cumpara este %s."
-"The minimum quantity allowed for purchase is %s.","Cantitatea minimă care poate fi cumpărată este %s."
-"The requested quantity for ""%s"" is not available.","Cantitatea solicitata de ""%s"" nu este disponibila."
-"The requested quantity is not available.","Cantitatea solicitata nu este disponibila."
+"""%s"" is not available in the requested quantity. %s of the items will be backordered.","%s" nu este disponibil în cantitatea cerută. %s din articole vor fi precomandate.
+"%s is available for purchase in increments of %s only.",%s e disponibil pentru achiziționare în trepte de %s numai.
+"%s is not a correct comparsion method.",%s nu e o metodă corectă de comparație.
+"<strong>Note</strong> that these settings are applicable to cart line items, not the whole cart.",<strong>Rețineți</strong> că aceste setări sunt aplicabile la linii de articole de coș de cumpărături și nu la întregul coș.
+"Add Minimum Qty",Adăugare Cant Minimă
+"Allow Qty Below 0",Acceptare Cantitate Negativă
+"Allow Qty Below 0 and Notify Customer",Acceptare Cantitate Negativă și Anunțare Client
+"Automatically Return Credit Memo Item to Stock",Retur Automat Articol Memo Credit în Stoc
+"Backorders",Posibilitate de Comandă
+"By Fixed value",După valoare fixă
+"By Percentage",După Procent
+"Cannot specify product identifier for the order item.",Nu se poate specifica identificatorul produsului pentru articolul de comandă.
+"Catalog Inventory",Inventar Catalog
+"Decrease Stock When Order is Placed",Scade Stocul la Plasarea unei Comenzi
+"Display Out of Stock Products",Afișare Produse cu Stoc Epuizat
+"Display products availability in stock in the frontend",Afișare disponibilitate stoc produse pe interfața client
+"Enable Qty Increments",Activare Trepte Cant
+"In Stock",În Stoc
+"Index Product Stock Status",Status Stoc Produs Indexat
+"Inventory",Inventar
+"Inventory API",API Inventar
+"Inventory Section",Secţiune Inventar
+"Manage Stock",Administrare Stoc
+"Maximum Qty Allowed in Shopping Cart",Cantitate Maximă Permisă în Coș
+"Minimum Qty",Cant Minimă
+"Minimum Qty Allowed in Shopping Cart",Cantitate Minima Permisă în Coș
+"Multi update product stock data",Actualizare multiplă date stoc produse
+"No Backorders",Fără Posibilitate de Precomandă
+"Not all products are available in the requested quantity",Nu toate produsele sunt disponibile în catitatea cerută
+"Notify for Quantity Below",Anunțare Pentru Cantitate Mai Mică decât
+"Only X left Threshold",Prag Doar X Rămase
+"Out of Stock",Stoc Epuizat
+"Product Stock Options",Opţiuni Stoc Produs
+"Products will still be shown by direct product URLs.","Products will still be shown by direct product URLs."
+"Qty Increments",Trepte Cant
+"Qty for Item's Status to Become Out of Stock",Cant necesară ca Statusul unui Articol să Devină Stoc Epuizat
+"Retrieve stock data",Obţinere Date Stoc
+"Retrieve stock data by product ids",Obţinere date de stoc după id-uri de produs
+"Rule price",Reguli preț
+"Set Items' Status to be In Stock When Order is Cancelled",Setare Stare Produse ca În Stoc dacă Comanda este Anulată
+"Some of the products are currently out of stock.",Unele din produse nu sunt momentan pe stoc.
+"Some of the products cannot be ordered in requested quantity.",Unele din produse nu pot fi comandate în cantitatea cerută.
+"Some of the products cannot be ordered in the requested quantity.",Unele din produse nu pot fi comandate în cantitatea cerută.
+"Stock Options",Opțiuni Stoc
+"Stock Status",Status Stoc
+"The maximum quantity allowed for purchase is %s.",Cantitatea maximă care poate fi cumpărată este %s.
+"The minimum quantity allowed for purchase is %s.",Cantitatea minimă care poate fi cumpărată este %s.
+"The requested quantity for ""%s"" is not available.",Cantitatea solicitată de "%s" nu este disponibilă.
+"The stock item for Product in option is not valid.",Stocul articolului pentru Produsul din opțiune nu e valid.
+"The stock item for Product is not valid.",Stocul articolului pentru Produs nu e valid.
+"This product is available for purchase in increments of %s only.",Acest produs e disponibil doar în trepte de %s.
 "This product is currently out of stock.","Momentan, acest produs nu este în stoc."
-"To Fixed Value","pina la valoare fixa"
-"To Percentage","pina la procent"
-"Update","Actualizare"
-"Update product stock data","Actualizează datele despre stocul produselor"
-"Update the Product","Actualizeaza produs"
+"This product is not available in the requested quantity. %s of the items will be backordered.",Acest produs nu e disponibil în cantitatea cerută. %s din articole vor fi precomandate.
+"To Fixed Value",Până la Valoare Fixă
+"To Percentage",Până la Procent
+"Undefined product type.",Tip produs nedefinit.
+"Update",Actualizare
+"Update product stock data",Actualizare date stoc produse
+"Update the Product",Actualizare Produs

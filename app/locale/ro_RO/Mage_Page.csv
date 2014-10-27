@@ -1,55 +1,74 @@
-"%s Item(s)","%s Articol(e)"
-"&copy; 2008 Magento Demo Store. All Rights Reserved.","&copy; 2008 Magento Demo Store. All Rights Reserved."
-"(Shift-)Click or drag to change value","(Shift-)Click or drag to change value"
+"%s Item(s)",%s Articol(e)
+"&copy; 2012 Magento Demo Store. All Rights Reserved.",&copy; 2012 Magento Magazin Demo. Toate drepturile rezervate.
+"&copy; 2013 Magento Demo Store. All Rights Reserved.",&copy; 2013 Magazin Demo Magento. Toate Drepturile Rezervate.
+"(Shift-)Click or drag to change value",Faceți (Shift-)Click sau trageți pentru a schimba valoarea
 "(ver. %s)","(ver. %s)"
-"- Click on any of the time parts to increase it","- Click on any of the time parts to increase it"
-"- Hold mouse button on any of the above buttons for faster selection.","- Hold mouse button on any of the above buttons for faster selection."
-"- Use the %s buttons to select month","- Use the %s buttons to select month"
-"- Use the %s, %s buttons to select year","- Use the %s, %s buttons to select year"
-"- or Shift-click to decrease it","- or Shift-click to decrease it"
-"- or click and drag for faster selection.","- or click and drag for faster selection."
-"About the calendar","About the calendar"
-"Click <a href=""%s"">here</a> if nothing has happened","Click <a href=""%s"">here</a> if nothing has happened"
-"Close","Close"
-"Close Window","Inchide fereastra"
-"DHTML Date/Time Selector","DHTML Date/Time Selector"
-"Date selection:","Date selection:"
-"Default Description","Descriere standard"
-"Default welcome msg!","Default welcome msg!"
-"Display %s first","Display %s first"
-"Distributed under GNU LGPL. See %s for details.","Distributed under GNU LGPL. See %s for details."
-"Drag to move","Drag to move"
-"For latest version visit: %s","For latest version visit: %s"
-"Go Today","Go Today"
-"Help Us to Keep Magento Healthy","Ajutati-ne daca descoperiti erori"
-"Interface Language","Limba interfetei"
-"Items %s to %s of %s total","Articolele de la %s la %s din %s in total"
-"Next Page","Pagina urmatoare"
-"Next month (hold for menu)","Next month (hold for menu)"
-"Next year (hold for menu)","Next year (hold for menu)"
-"Page:","Pagina:"
-"Prev. month (hold for menu)","Prev. month (hold for menu)"
-"Prev. year (hold for menu)","Prev. year (hold for menu)"
-"Previous Page","Pagina precedenta"
-"Redirecting...","Redirecting..."
-"Report All Bugs","Raporteaza erorile"
-"Select Store","Alege magazinul"
-"Select date","Select date"
-"Show","Arata"
-"Skip to Footer","Skip to Footer"
-"Skip to Left Column","Skip to Left Column"
-"Skip to Main Content","Mergi la pagina principala"
-"Skip to Right Column","Skip to Right Column"
-"This is a demo store. Any orders placed through this store will not be honored or fulfilled.","Acesta este un magazin demo. Comenzile nu vor fi onorate."
-"Time selection:","Time selection:"
-"Time:","Time:"
-"Welcome, %s!","Bine ai venit, %s!"
-"You're currently on:","Sunteti pe :"
-"Your Language","Limba ta"
-"Your Language:","Your Language:"
-"per page","pe pagina"
-"Your Language:","Your Language:"
-"(ver. %s)","(ver. %s)"
-"Help Us to Keep Magento Healthy","Help Us to Keep Magento Healthy"
-"Report All Bugs","Report All Bugs"
-"Your Language","Your Language"
+"- Click on any of the time parts to increase it",- Faceți click pe oricare din părțile de timp pentru a le incrementa
+"- Hold mouse button on any of the above buttons for faster selection.",- Țineți butonul mouse-ului pe oricare din butoanele de mai sus pentru selecție mai rapidă.
+"- Use the %s buttons to select month",- Folosiți butoanele %s pentru a selecta luna
+"- Use the %s, %s buttons to select year",- Folosiți butoanele %s și %s pentru a selecta anul
+"- or Shift-click to decrease it",- sau faceți Shift-click pentru a decrementa
+"- or click and drag for faster selection.",- sau faceți click și tragere pentru selecție mai rapidă.
+"-- Please Select --",-- Selectați --
+"1 column",1 coloană
+"2 columns with left bar",2 coloane cu bară stânga
+"2 columns with right bar",2 coloane cu bară dreapta
+"3 columns",3 coloane
+"About the calendar",Despre calendar
+"All Empty Layout Pages",Toate Paginile cu Schemă Goală
+"All One-Column Layout Pages",Toate Paginile cu Schemă O Coloană
+"All Pages",Toate Paginile
+"All Pages (Print Version)",Toate Paginile (Versiune Imprimare)
+"All Three-Column Layout Pages",Toate Paginile cu Schemă Trei Coloane
+"All Two-Column Layout Pages (Left Column)",Toate Paginile cu Schemă Două Coloane (Coloană Stânga)
+"All Two-Column Layout Pages (Right Column)",Toate Paginile cu Schemă Două Coloane (Coloană Dreapta)
+"Allow",Permitere
+"Breadcrumbs","Breadcrumbs"
+"Click <a href=""%s"">here</a> if nothing has happened",Faceți click <a href="%s">aici</a> dacă nu s-a întâmplat nimic
+"Close",Închidere
+"Close Window",Inchidere Fereastră
+"DHTML Date/Time Selector",Selector DHTML Dată/Timp
+"Date selection:",Selecție dată:
+"Default Description",Descriere Implicită
+"Default welcome msg!",Mesaj standard de bun venit!
+"Display %s first",Afișare %s prima dată
+"Distributed under GNU LGPL. See %s for details.",Distribuit sub licența GNU LGPL. Vedeți %s pentru detalii.
+"Drag to move",Trageți pentru a muta
+"Empty",Gol
+"For latest version visit: %s",Pentru ultima versiune vizitați: %s
+"Free Shipping on orders over 50$",Expediere Gratuită pentru comenzi peste 50$
+"Go Today",Mergeți Astăzi
+"Help Us to Keep Magento Healthy",Ajutați-ne dacă descoperiți erori
+"Interface Language",Limbă Interfață
+"Items %s to %s of %s total",Articolele de la %s la %s dintr-un total de %s
+"JavaScript seems to be disabled in your browser.",JavaScript pare să fie dezactivat în browserul dvs.
+"Left Column",Coloană Stânga
+"Main Content Area",Suprafață Conținut Principal
+"Navigation Bar",Bară Navigație
+"Next",Următorul
+"Next month (hold for menu)",Luna Următoare (apăsați pentru meniu)
+"Next year (hold for menu)",Anul Următor (apăsați pentru meniu)
+"Page Bottom",Josul Paginii
+"Page Footer",Footer-ul Paginii
+"Page Header",Antetul Paginii
+"Page Top",Susul Paginii
+"Page:",Pagina:
+"Prev. month (hold for menu)",Luna Precedentă (apăsați pentru meniu)
+"Prev. year (hold for menu)",Anul Precedentă (apăsați pentru meniu)
+"Previous",Anterior
+"Redirecting...",Redirecționare...
+"Report All Bugs",Raportați Toate Erorile
+"Right Column",Coloana Dreaptă
+"Select Store",Selectare Magazin
+"Select Store:",Selectare Magazin:
+"Select date",Selectare dată
+"Show",Afișare
+"This is a demo store. Any orders placed through this store will not be honored or fulfilled.",Acesta este un magazin demo. Comenzile nu vor fi onorate.
+"This website requires cookies to provide all of its features. For more information on what data is contained in the cookies, please see our <a href=""%s"">Privacy Policy page</a>. To accept cookies from this site, please click the Allow button below.","Acest website necesită cookie-uri pentru a putea oferi toate funcționalitățile. Pentru mai multe informații despre datele stocare în cookie-uri, vizitați <a href=""%s"">pagina Politică Intimitate</a>. Pentru a accepta cookie-uri de la acest site, faceți click pe butonul Permitere de mai jos."
+"Time selection:",Selecție timp:
+"Time:",Timp:
+"Welcome, %s!","Bine ați venit, %s!"
+"You must have JavaScript enabled in your browser to utilize the functionality of this website.",Trebuie să aveți JavaScript Activat în browserul dvs. pentru a utiliza funcționalitatea acestui website.
+"Your Language",Limba Dvs.
+"Your Language:",Limba Dvs.:
+"per page",pe pagină

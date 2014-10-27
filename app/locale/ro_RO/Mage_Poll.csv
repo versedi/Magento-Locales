@@ -1,41 +1,42 @@
-"Actions","Actiuni"
-"Add Answer","Adauga raspuns"
-"Add New Answer","Adauga raspuns nou"
-"Add New Poll","Adauga chestionar nou"
-"Answer Title","Titlu raspuns"
-"Answer Title:","Titlu raspuns:"
-"Answer was successfully saved","Raspuns salvat."
-"Answer with the same title in this poll","Raspuns cu acelasi titlu in chestionar"
-"Are you sure you want to delete it?","Sigur vrei sa-l stergi?"
-"Assigned Answers","Raspunsuri alocate"
-"Closed","Inchis"
-"Community Poll","Chestionar"
-"Date Closed","Data inchiderii"
-"Date Posted","Data postarii"
-"Delete","Sterge"
-"Delete Answer","Sterge raspuns"
-"Delete Poll","Sterge chestionar"
-"Disallow voting in a poll multiple times from same IP-address","Disallow voting in a poll multiple times from same IP-address"
-"Edit Answer '%s'","Modifica raspuns '%s'"
-"Edit Poll '%s'","Modifica chestionar '%s'"
-"Edit Poll Answer","Modifica raspuns chestionar"
+"Actions",Acțiuni
+"Add Answer",Adăugare Răspuns
+"Add New Answer",Adăugare Răspuns Nou
+"Add New Poll",Adăugare Chestionar Nou
+"Answer Title",Titlu Răspuns
+"Answer Title:",Titlu Răspuns:
+"Answer with the same title in this poll",Răspuns cu același titlu în chestionar
+"Are you sure you want to delete it?",Sigur doriți să-l ștergeți?
+"Assigned Answers",Răspunsuri Alocate
+"Closed",Închis
+"Community Poll",Sondaj Comunitate
+"Date Closed",Data Închiderii
+"Date Posted",Data Postării
+"Delete",Ștergere
+"Delete Answer",Ștergere Răspuns
+"Delete Poll",Ștergere Chestionar
+"Disallow Voting in a Poll Multiple Times from Same IP-address",Interzicere Votare Multiplă într-un Sondaj de la Aceeași Adresă IP
+"Edit Answer '%s'",Modificare Răspuns '%s'
+"Edit Poll '%s'",Modificare Chestionar '%s'
+"Edit Poll Answer",Modificare Răspuns Chestionar
 "ID","ID"
-"Invalid Answer","Raspuns nevalid"
-"New Poll","Chestionar nou"
-"Number of Responses","Numar raspunsuri"
-"Open","Deschis"
-"Poll Answers","Raspunsuri chestionar"
-"Poll Information","Informatii chestionar"
-"Poll Manager","Manager chestionar"
-"Poll Question","Intrebare chestionar"
-"Poll information","Informatii chestionar"
-"Poll not exists","Chestionarul nu exista"
-"Poll with the same question","Chestionar cu aceeasi intrebare"
-"Save Answer","Salveaza raspuns"
-"Save Poll","Salveaza chestionar"
-"Status","Status"
-"Unable to find answer to delete.","Nu s-a gasit raspuns."
-"Visible In","Vizibil In"
-"Vote","Voteaza"
-"Votes Count","Numar voturi"
-"Votes Count:","Numar voturi:"
+"Invalid Answer.",Răspuns Invalid.
+"New Poll",Chestionar Nou
+"Number of Responses",Număr Răspunsuri
+"Open",Deschidere
+"Poll Answers",Răspunsuri Chestionar
+"Poll Information",Informații Chestionar
+"Poll Manager",Administrare Sondaje
+"Poll Question",Întrebare Chestionar
+"Poll information",Informații chestionar
+"Poll with the same question",Chestionar cu aceeași întrebare
+"Polls",Sondaje
+"Save Answer",Salvare Răspuns
+"Save Poll",Salvare Chestionar
+"Status",Stare
+"The answer has been saved.",Răspunsul a fost salvat.
+"The poll does not exist.",Sondajul nu există.
+"Unable to find an answer to delete.",Nu se poate găsi un răspuns pentru ștergere.
+"Visible In",Vizibil În
+"Vote",Votare
+"Votes Count",Număr voturi
+"Votes Count:",Număr voturi:

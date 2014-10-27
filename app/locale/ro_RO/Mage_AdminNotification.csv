@@ -1,29 +1,31 @@
-"Actions","Actions"
-"Are you sure?","Are you sure?"
-"Date Added","Date Added"
-"Error while marking as read. Please try again later.","Error while marking as read. Please try again later."
-"Error while marking. Please try again later.","Error while marking. Please try again later."
-"Error while removing. Please try again later.","Error while removing. Please try again later."
-"Last update","Last update"
-"Mark as Read","Mark as Read"
-"Mark as read","Mark as read"
-"Message","Message"
-"Message was successfully marked as read","Message was successfully marked as read"
-"Message was successfully removed","Message was successfully removed"
-"Messages Inbox","Messages Inbox"
-"Notifications","Notifications"
-"Please select messages","Please select messages"
-"Read Details","Read Details"
-"Remove","Remove"
-"Severity","Severity"
-"Show List","Show List"
-"Show Toolbar","Show Toolbar"
-"Total of %d record(s) were successfully marked as read","Total of %d record(s) were successfully marked as read"
-"Total of %d record(s) were successfully removed","Total of %d record(s) were successfully removed"
-"Unable to proceed. Please, try again","Unable to proceed. Please, try again"
-"Update frequency","Update frequency"
-"Use HTTPS to get feed","Use HTTPS to get feed"
-"critical","critical"
+"Actions",Acțiuni
+"An error occurred while marking notification as read.",Eroare la marcarea notificării ca citită.
+"An error occurred while marking the messages as read.",Eroare la marcarea mesajelor ca citite.
+"An error occurred while removing messages.",Eroare la eliminarea mesajelor.
+"An error occurred while removing the message.",Eroare la eliminarea mesajului.
+"Are you sure?",Sunteți sigur?
+"Date Added",Data Adăugării
+"Last Update",Ultima actualizare
+"Mark as Read",Marcare ca Citit
+"Mark as read",Marcare ca citit
+"Message",Mesaj
+"Messages Inbox",Căsuță Intrări
+"Notifications",Notificări
+"Please select messages.",Selectați mesajele.
+"Read Details",Citire Detalii
+"Remove",Eliminare
+"Severity",Severitate
+"Show List",Afișare Listă
+"Show Toolbar",Afișare Bară de Unelte
+"The message has been marked as read.",Mesajul a fost marcat ca citit.
+"The message has been removed.",Mesajul a fost eliminat.
+"Total of %d record(s) have been marked as read.",Un total de %d înregistrări au fost marcate ca citite.
+"Total of %d record(s) have been removed.",Un total de %d înregistrări au fost eliminate.
+"Unable to proceed. Please, try again.",Imposibil de continuat. Vă rugăm încercați din nou.
+"Update Frequency",Actualizare Frecvență
+"Use HTTPS to Get Feed",Utilizare HTTPS pentru Obținere Feed
+"Wrong message type",Tip mesaj greșit
+"critical",critic
 "major","major"
 "minor","minor"
-"notice","notice"
+"notice",notificare

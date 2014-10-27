@@ -1,84 +1,97 @@
-"%d Review(s)","%d Parere(i)"
-"%s Review(s)","%s Parere(i)"
-"(Posted on %s)","(Pus la data %s)"
-"1 star","1 stea"
-"2 stars","2 stele"
-"3 stars","3 stele"
-"4 stars","4 stele"
-"5 stars","5 stele"
-"Add New Review","Adauga parere"
-"Add Your Review","Spune-ti parerea"
+"%d Review(s)",%d Recenzie(i)
+"%s Review(s)",%s Recenzie(i)
+"(Posted on %s)",(Postat la data %s)
+"1 star",1 stea
+"2 stars",2 stele
+"3 stars",3 stele
+"4 stars",4 stele
+"5 stars",5 stele
+"<a href=""%1$s"" onclick=""this.target=\'blank\'"">%2$s %3$s</a> <a href=""mailto:%4$s"">(%4$s)</a>","<a href=""%1$s"" onclick=""this.target=\'blank\'"">%2$s %3$s</a> <a href=""mailto:%4$s"">(%4$s)</a>"
+"Add New Review",Adăugare Recenzie Nouă
+"Add Your Review",Adăugare Recenzie Proprie
 "Administrator","Administrator"
-"All Reviews","Toate parerile"
-"All reviews of customer `%s`","All reviews of customer `%s`"
-"Allow guests to write reviews","Allow guests to write reviews"
-"Are you sure you want to do this?","Esti sigur ca vrei sa faci acest lucru?"
-"Are you sure?","Esti sigur?"
-"Average Customer Rating","Evaluare medie"
-"Average Customer Rating:","Evaluare medie:"
-"Back","Inapoi"
-"Back to Main Product Info","Inapoi la Informatii produs"
-"Back to My Reviews","Inapoi la Parerile mele"
-"Back to Product Reviews","Inapoi la Pareri produs"
-"Be the first to review this product","Fii primul care evalueaza acest produs."
-"Created On","Creat la"
-"Customer","Client"
-"Customer Reviews","Pareri clienti"
-"Delete","Sterge"
-"Delete Review","Sterge parere"
-"Detailed Rating","Evaluare detaliata"
-"Edit Review '%s'","Modifica parere '%s'"
-"Guest","Vizitator"
-"How do you rate this product?","Cum evaluezi acest produs?"
+"All Reviews",Toate Recenziile
+"All Reviews of Customer `%s`",Toate Recenziile Clientului `%s`
+"All Reviews of Product `%s`",Toate Recenziile Produsului `%s`
+"Allow Guests to Write Reviews",Permitere Vizitatori să Scrie Recenzii
+"Approved",Aprobat
+"Are you sure you want to do this?",Sunteți sigur că vreți să faceți acest lucru?
+"Are you sure?",Sunteți sigur?
+"Average Customer Rating",Medie Evaluare Clienți
+"Average Customer Rating:",Medie Evaluare Clienți:
+"Back",Înapoi
+"Back to Main Product Info",Înapoi la Informații Principale Produs
+"Back to My Reviews",Înapoi la Recenziile Mele
+"Back to Product Reviews",Înapoi la Recenzii Produs
+"Be the first to review this product",Fiți primul care evaluează acest produs.
+"Catalog Product Review View",Vizualizare Recenzie Produs Catalog
+"Catalog Product Reviews List",Listă Recenzii Produs Catalog
+"Created On",Creat La
+"Customer",Client
+"Customer My Account Product Reviews",Recenzii Produs Contul Meu Client
+"Customer My Account Review Details",Detalii Recenzie Contul Meu Client
+"Customer Reviews",Recenzii Client
+"Customers Reviews",Recenzii Clienți
+"Delete",Ștergere
+"Delete Review",Ștergere Recenzie
+"Detailed Rating",Evaluare Detaliată
+"Edit Review '%s'",Modificare Recenzie '%s'
+"Guest",Vizitator
+"How do you rate this product?",Cum evaluați acest produs?
 "ID","ID"
-"Manage Ratings","Manage Ratings"
-"My Product Reviews","Parerile mele"
-"My Recent Reviews","Parerile mele recente"
-"Name","Nume"
-"Name In Store","Nume in magazin"
-"New Review","Parere noua"
-"Nickname","Nume"
-"Pending Reviews","Pareri in asteptare"
-"Pending reviews","Pending reviews"
-"Pending reviews of customer `%s`","Pending reviews of customer `%s`"
-"Please select a product","Alege un produs"
-"Please select one of each of the ratings above","Alege dintre evaluarile de mai sus"
-"Posted By","Pus de"
-"Price","Pret"
-"Product","Produs"
-"Product Name","Nume produs"
-"Product Rating","Evaluare produs"
-"Product Rating:","Evaluare produs:"
-"Product Review (submitted on %s):","Produs comentat (pe data %s):"
-"Product Reviews","Pareri produs"
-"Product SKU","Cod produs"
-"Qty","Cantitate"
-"Rating:","Evaluare:"
-"Review","Parere"
-"Review Details","Detalii parere"
-"Review by %s","Parerea lui %s"
-"Reviews and Ratings","Reviews and Ratings"
-"SKU","Cod produs"
-"Save Review","Salveaza parere"
-"Status","Status"
-"Submit Review","Trimite parere"
-"Summary Rating","Titlu evaluare"
-"Summary of Review","Titlu parere"
-"Summary of Your Review","Titlu parere"
-"Summary of review","Titlul parerii"
-"Title","Titlu"
-"Type","Tip"
-"Unable to post review. Please, try again later.","Nu s-a putut adauga parerea. Incearca mai tarziu."
-"Update status","Actualizeaza status"
-"View All Reviews","Vezi toate parerile"
-"View Details","Vezi detalii"
-"Visible In","Vizibil In"
-"Websites","Websites"
-"Write Your Own Review","Spune parerea ta"
-"You have submitted no reviews.","Nu ai adaugat nici o parere."
-"You're reviewing: %s","Iti spui parerea despre: %s"
-"Your Rating:","Evaluare ta:"
-"Your Review (submitted on %s):","Parerea ta (din %s):"
-"Your review has been accepted for moderation","Parerea ta a fost acceptata pentru moderare."
-"OR","OR"
-"My Product Reviews","My Product Reviews"
+"Manage Ratings",Administrare Evaluări
+"My Product Reviews",Recenziile Mele de Produs
+"My Recent Reviews",Recenziile Mele Recente
+"Name",Nume
+"Name in Store",Nume în Magazin
+"New Review",Recenzie Nouă
+"Nickname",Porecla
+"Nickname can\'t be empty",Porecla nu poate fi goală
+"Not Approved",Nu e Aprobat
+"Only registered users can write reviews. Please, <a href=""%s"">log in</a> or <a href=""%s"">register</a>","Numai utilizatorii înregistrați pot scrie recenzii. Vă rugăm, <a href=""%s"">autentificați-vă</a> sau <a href=""%s"">înregistrați-vă</a>"
+"Pending",În Așteptare
+"Pending Reviews",Păreri în Așteptare
+"Pending Reviews of Customer `%s`",Recenziile în Așteptare ale Clientului `%s`
+"Please select a product",Alegeți un produs
+"Please select one of each of the ratings above",Alegeți una din fiecare dintre evaluările de mai sus
+"Posted By",Postat De
+"Price",Preț
+"Product",Produs
+"Product Name",Nume Produs
+"Product Rating",Evaluare Produs
+"Product Rating:",Evaluare Produs:
+"Product Review (submitted on %s):",Recenzie Produs (trimisă pe data %s):
+"Product Reviews",Recenzii Produs
+"Product SKU",Cod Produs
+"Products Reviews",Recenzii Produse
+"Qty",Cant
+"Rating:",Evaluare:
+"Review",Recenzie
+"Review (submitted on %s):",Recenzie (trimisă pe data %s):
+"Review Details",Detalii Recenzie
+"Review Form Fields Before",Câmpuri Formular Recenzie Înainte
+"Review by <span>%s</span>",Recenzie de <span>%s</span>
+"Review can\'t be empty",Recenzia nu poate fi goală
+"Review summary can\'t be empty",Sumarul recenziei nu poate fi gol
+"Reviews and Ratings",Recenzii și Evaluări
+"SKU",COD
+"Save Review",Salvare Recenzie
+"Status",Stare
+"Submit Review",Trimitere Recenzie
+"Summary Rating",Sumar Evaluare
+"Summary of Review",Sumarul Recenziei
+"Summary of Your Review",Sumarul Recenziei Dvs.
+"Title",Titlu
+"Type",Tip
+"Unable to post the review.",Nu s-a putut posta recenzia.
+"Update Status",Actualizare Status
+"View All Reviews",Vizualizare Toate Recenziile
+"View Details",Vizualizare Detalii
+"Visible In",Vizibil În
+"Websites",Site-uri
+"Write Your Own Review",Scrieți Propria Recenzie
+"You have submitted no reviews.",Nu ați adăugat nici o recenzie.
+"You're reviewing:",Momentan revizuiți:
+"Your Rating:",Evaluarea Dvs.:
+"Your Review (submitted on %s):",Recenzia Dvs. (trimisă pe %s):
+"Your review has been accepted for moderation.",Recenzia dvs. a fost acceptată pentru moderare.

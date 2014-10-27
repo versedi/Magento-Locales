@@ -1,203 +1,381 @@
-" was not delivered nor scanned"," was not delivered nor scanned"
-"1 Day Freight","1 Day Freight"
-"2 Day Freight","2 Day Freight"
-"2Day","2Day"
-"2nd Day Air","2nd Day Air"
-"2nd Day Air AM","2nd Day Air AM"
-"2nd Day Air AM Letter","2nd Day Air AM Letter"
-"2nd Day Air Letter","2nd Day Air Letter"
-"3 Day Freight","3 Day Freight"
-"3 Day Select","3 Day Select"
-"Access ID","Access ID"
-"Access license number","Access license number"
-"Account ID","Account ID"
-"Account number","Account number"
-"Additional Protection Configuration Value","Additional Protection Configuration Value"
-"Additional Protection Enabled","Additional Protection Enabled"
-"Additional Protection Min Subtotal","Additional Protection Min Subtotal"
-"Additional Protection Value","Additional Protection Value"
-"Additional Protection Value Rounding Method","Additional Protection Value Rounding Method"
-"All Services","All Services"
-"Allowed methods","Allowed methods"
-"Bound Printed Matter","Bound Printed Matter"
-"Business Service Center","Business Service Center"
-"Calculate Handling Fee","Calculate Handling Fee"
+" was not delivered nor scanned"," nu a fost nici livrat nici scanat"
+"""Per Order"" allows single handling fee for entire order. ""Per Package"" allows individual  handling fee for each package.","""Per Comandă"" permite o singură taxă de manipulare pentru întreaga comandă. ""Per Pachet"" permite taxe individuale de manipulare pentru fiecare pachet."
+"1 Day Freight",Transport Terestru o Zi
+"2 Day",2 Zile
+"2 Day AM",2 Zile AM
+"2 Day Freight",Transport Terestru 2 Zile
+"2Day",2Zile
+"2nd Day Air",Aer a2-a Zi
+"2nd Day Air AM",Aer a2-a Zi AM
+"2nd Day Air AM Letter",Aer a2-a Zi AM Scrisoare
+"2nd Day Air Letter",Aer a2-a Zi Scrisoare
+"3 Day Freight",Transport Terestru 3 Zile
+"3 Day Select",Transport Select 3 Zile
+"Access ID",ID Acces
+"Access License Number",Număr Licență Acces
+"Account ID",ID Cont
+"Account Number",Număr Cont
+"Additional Protection Configuration Value",Valoare Configurare Protecție Suplimentară
+"Additional Protection Enabled",Protecție Suplimentară Activată
+"Additional Protection Min Subtotal",Subtotal Minim Protecție Suplimentară
+"Additional Protection Value",Valoare Protecție Suplimentară
+"Additional Protection Value Rounding Method",Metodă Rotunjire Valoare Protecție Suplimentară
+"Adult","Adult"
+"Adult Signature Required",Semnătură Adult Obligatorie
+"Allowed Methods",Metode Permise
+"Allows breaking total order weight into smaller pieces if it exeeds %s %s to ensure accurate calculation of shipping charges.",Permite împărțirea greutății totale a comenzii în bucăți mai mici dacă depășește %s %s pentru a asigura calcularea corectă a costurilor de expediere.
+"Allows breaking total order weight into smaller pieces if it exeeds 70 kg to ensure accurate calculation of shipping charges.",Permite împărțirea greutății totale a comenzii în bucăți mai mici dacă depășește 70 kg pentru a asigura calcularea corectă a costurilor de expediere.
+"Bound Printed Matter",Legare Materie Imprimată
+"Break bulk economy",Împărțire volum economic
+"Break bulk express",Împărțire volum expres
+"Business Service Center",Centru Service Firme
+"Calculate Handling Fee",Calculare Taxe Manipulare
 "Canada Standard","Canada Standard"
-"Cannot retrieve shipping rates","Cannot retrieve shipping rates"
-"Commercial","Commercial"
-"Configuration","Configuration"
+"Cannot identify measure unit for %s",Nu se poate identifica unitatea de măsură pentru %s
+"Cannot identify weight unit for %s",Nu se poate identifica unitatea de greutate pentru %s
+"Cannot retrieve shipping rates",Nu se pot recupera cotele de expediere
+"Centimeters",Centimetrii
+"Commercial",Comercial
+"Configuration",Configurație
 "Container","Container"
-"Customer Packaging","Customer Packaging"
+"Content Type",Tip Conținut
+"Customer Packaging",Împachetare Client
+"Customer Supplied Package",Pachet Furnizat Client
+"Customer services",Servicii client
 "DHL","DHL"
-"Default Package Height","Default Package Height"
-"Default Package Length","Default Package Length"
-"Default Package Width","Default Package Width"
-"Delivered","Delivered"
-"Destination type","Destination type"
-"Displayed Error Message","Displayed Error Message"
-"Domestic Shipment Days","Domestic Shipment Days"
-"Drop Box","Drop Box"
-"Dropoff","Dropoff"
-"Empty response","Empty response"
-"Enable Negotiated Rates","Enable Negotiated Rates"
-"Enabled","Enabled"
-"Error #%s : %s (%s)","Error #%s : %s (%s)"
-"Error #%s: %s","Error #%s: %s"
-"Europe First Priority","Europe First Priority"
-"Express","Express"
-"Express 10:30 AM","Express 10:30 AM"
-"Express Mail","Express Mail"
-"Express Saturday","Express Saturday"
-"Express Saver","Express Saver"
+"DHL (Deprecated)",DHL (Învechit)
+"DHL service is not available at %s date",Serviciul DHL nu e disponibil la data %s
+"Debug",Depanare
+"Default Package Height",Înălțime Implicită Pachet
+"Default Package Length",Lungime Implicită Pachet
+"Default Package Width",Lățime Implicită Pachet
+"Delivered",Livrat
+"Delivery Confirmation",Confirmare Livrare
+"Depth",Adâncime
+"Destination Type",Tip Destinație
+"Destination facility code is empty",Codul facilitate destinație e gol
+"Development",Dezvoltare
+"Direct","Direct"
+"Displayed Error Message",Mesaj Eroare Afișat
+"Divide Order Weight",Împărțire Greutate Comandă
+"Documents",Documente
+"Domestic Shipment Days",Zile Expediere Internă
+"Domestic economy select",Intern economic select
+"Domestic express",Intern expres
+"Drop Box",Căsuță Livrare
+"Dropoff",Livrare
+"Easy shop",Cumpărare facilă
+"Economy select",Economic select
+"Empty response",Răspuns gol
+"Enable Negotiated Rates",Activează Cotele Negociate
+"Enabled for Checkout",Activat pentru Finalizare Comandă
+"Enables/Disables SSL verification of Magento server by UPS.",Activează/Dezactivează verificarea SSL a serverului Magento de către UPS.
+"Error #%s : %s",Eroare #%s : %s
+"Error #%s : %s (%s)",Eroare #%s : %s (%s)
+"Error #%s: %s",Eroare #%s: %s
+"Europack","Europack"
+"Europe First Priority",Europa Prioritate Întâi
+"Exchange rate %s (Base Currency) -> %s not found. DHL method %s skipped",Rata de schimb %s (Valuta de Bază) -> %s nu a fost găsită. Metoda DHL %s a fost sărită
+"Express",Expres
+"Express 10:30",Expres 10:30
+"Express 10:30 AM",Expres 10:30 AM
+"Express 12:00",Expres 12:00
+"Express 9:00",Expres 9:00
+"Express Mail",Poșta Expres
+"Express Saturday",Expres Sâmbătă
+"Express Saver",Expres Economic
+"Express easy",Expres ușor
+"Express envelope",Expres plic
+"Express worldwide",Expres global
+"Failed to parse xml document: %s",Eșec la parcurgerea documentului xml: %s
 "FedEx","FedEx"
-"FedEx 10kg Box","FedEx 10kg Box"
-"FedEx 25kg Box","FedEx 25kg Box"
-"FedEx Box","FedEx Box"
-"FedEx Envelope","FedEx Envelope"
-"FedEx Pak","FedEx Pak"
-"FedEx Tube","FedEx Tube"
-"First Overnight","First Overnight"
-"First-Class","First-Class"
-"Flat","Flat"
-"Flat-Rate Box","Flat-Rate Box"
-"Flat-Rate Envelope","Flat-Rate Envelope"
-"Free method","Free method"
-"Free shipping with minimum order amount","Free shipping with minimum order amount"
-"Gateway URL","Gateway URL"
-"Gateway XML URL","Gateway XML URL"
-"Ground","Ground"
-"Ground Commercial","Ground Commercial"
-"Ground Residential","Ground Residential"
-"Handling Applied","Handling Applied"
-"Handling fee","Handling fee"
-"Home Delivery","Home Delivery"
-"International Economy","International Economy"
-"International Express","International Express"
-"International First","International First"
-"International Priority","International Priority"
-"International Shipment Days","International Shipment Days"
-"Intl Economy Freight","Intl Economy Freight"
-"Intl Priority Freight","Intl Priority Freight"
-"Invalid DHL XML code for type %s: %s","Invalid DHL XML code for type %s: %s"
-"Invalid DHL XML code type: %s","Invalid DHL XML code type: %s"
-"Invalid FedEx XML code for type %s: %s","Invalid FedEx XML code for type %s: %s"
-"Invalid FedEx XML code type: %s","Invalid FedEx XML code type: %s"
-"Invalid UPS CGI code for type %s: %s","Invalid UPS CGI code for type %s: %s"
-"Invalid UPS CGI code type: %s","Invalid UPS CGI code type: %s"
-"Invalid USPS XML code for type %s: %s","Invalid USPS XML code for type %s: %s"
-"Invalid USPS XML code type: %s","Invalid USPS XML code type: %s"
-"Kilograms","Kilograms"
-"Large","Large"
-"Letter","Letter"
-"Library","Library"
-"Machinable","Machinable"
-"Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)","Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)"
-"Media Mail","Media Mail"
-"Minimum order amount for free shipping","Minimum order amount for free shipping"
-"Next Afternoon","Next Afternoon"
-"Next Day Air","Next Day Air"
-"Next Day Air Early AM","Next Day Air Early AM"
-"Next Day Air Early AM Letter","Next Day Air Early AM Letter"
-"Next Day Air Intra (Puerto Rico)","Next Day Air Intra (Puerto Rico)"
-"Next Day Air Letter","Next Day Air Letter"
-"Next Day Air Saver","Next Day Air Saver"
-"Next Day Air Saver Letter","Next Day Air Saver Letter"
-"No","No"
+"FedEx 10kg Box",FedEx Cutie 10kg
+"FedEx 25kg Box",FedEx Cutie 25kg
+"FedEx Box",Cutie FedEx
+"FedEx Envelope",Plic FedEx
+"FedEx Pak",Pachet FedEx
+"FedEx Tube",Tub FedEx
+"First Overnight",Întâi Peste Noapte
+"First-Class",Clasa Întâi
+"First-Class Mail International Large Envelope",Plic Mare Corespondență Internațională Clasa Întâi
+"First-Class Mail International Letter",Scrisoare Corespondență Internațională Clasa Întâi
+"First-Class Mail International Postcard",Carte Poștală Corespondență Internațională Clasa Întâi
+"First-Class Mail Large Envelope",Plic Mare Corespondență Clasa Întâi
+"First-Class Mail Large Postcards","Cărți Poștale Mari Corespondență Clasa Întâi "
+"First-Class Mail Letter",Scrisoare Corespondență Clasa Întâi
+"First-Class Mail Parcel",Colet Corespondență Clasa Întâi
+"First-Class Mail Postcards",Cărți Poștale Corespondență Clasa Întâi
+"First-Class Package International Service",Serviciul Internațional Pachete Clasa Întâi
+"First-Class Package Service",Serviciul Pachete Clasa Întâi
+"First-Class Package Service Hold For Pickup",Serviciul Pachete Reținute Pentru Ridicare Clasa Întâi
+"Flat",Fix
+"Flat-Rate Box",Cutie Rată Fixă
+"Flat-Rate Envelope",Plic Rată Fixă
+"Free Method",Metoda Gratuit
+"Free Shipping with Minimum Order Amount",Expediere Gratuită pentru Sumă Minimă Comandă
+"Freight",Naval
+"Freight worldwide",Naval global
+"Gateway URL",URL Portal
+"Gateway XML URL",URL XML Portal
+"Gift",Cadou
+"Girth",Circumferință
+"Global Express Guaranteed (GXG)",Global Expres Garantat (GXG)
+"Global Express Guaranteed Document",Global Expres Garantat Document
+"Global Express Guaranteed Non-Document Non-Rectangular",Global Expres Garantat Non-Document Non-Rectangular
+"Global Express Guaranteed Non-Document Rectangular",Global Expres Garantat Non-Document Rectangular
+"Globalmail business","Globalmail business"
+"Ground",Terestru
+"Ground Commercial",Terestru Comercial
+"Ground Residential",Terestru Rezidențial
+"Handling Applied",Manipulare Aplicată
+"Handling Fee",Taxă Manipulare
+"Height",Înălțime
+"Height, width and length should be equal or greater than %s","Înălțimea, lățimea și lungimea trebuie să fie mai mari sau egale cu %s"
+"Home Delivery",Livrare Domiciliu
+"Hub ID",ID Hub
+"Inches",Inchi
+"Indirect","Indirect"
+"International Economy",Internațional Economic
+"International Express",Internațional Expres
+"International First",Internațional Întâi
+"International Ground","International Ground"
+"International Priority",Internațional Prioritar
+"International Shipment Days",Internațional Zile Expediere
+"Intl Economy Freight",Intl Terestru Economic
+"Intl Priority Freight",Intl Terestru Prioritar
+"Jetline","Jetline"
+"Jumbo box",Cutie jumbo
+"Key",Cheie
+"Kilograms",Kilograme
+"Large",Mare
+"Large Express Box",Cutie Expres Mare
+"Length",Lungime
+"Letter",Scrisoare
+"Library",Editură
+"Library Mail",Corespondență Bibliotecă
+"Live","Live"
+"Machinable",Prelucrabil
+"Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)",Greutate Maximă Pachet (Consultați firma de curierat pentru greutatea maximă acceptată per expediere)
+"Media Mail",Poșta Media
+"Medical express",Medical expres
+"Medium Express Box",Cutie Expres Medie
+"Merchandise",Marfă
+"Meter Number",Număr Metri
+"Minimum Order Amount for Free Shipping",Sumă Minimă Comandă pentru Expediere Gratuită
+"Minimum Package Weight (Please consult your shipping carrier for minimum supported shipping weight)",Greutate Minimă Pachet (Consultați firma de curierat pentru greutatea minimă acceptată per expediere)
+"Mode",Mod
+"National Freight",Național Naval
+"Next Afternoon",Dupămasa Următoare
+"Next Day Air",Ziua Următoare Aer
+"Next Day Air Early AM",Ziua Următoare AM Devreme Aer
+"Next Day Air Early AM Letter",Ziua Următoare AM Devreme Aer Scrisoare
+"Next Day Air Intra (Puerto Rico)",Ziua Următoare Aer Intra (Puerto Rico)
+"Next Day Air Letter",Ziua Următoare Aer Scrisoare
+"Next Day Air Saver",Ziua Următoare Aer Economic
+"Next Day Air Saver Letter",Ziua Următoare Aer Economic Scrisoare
+"No",Nu
+"No packages for request",Niciun pachet pentru solicitare
+"Non Documents",Non Documente
+"Non documents",Non documente
 "Non-rectangular","Non-rectangular"
-"Order","Order"
-"Origin of the shipment","Origin of the shipment"
-"Oversize","Oversize"
-"Package","Package"
-"Package Description","Package Description"
-"Packaging","Packaging"
-"Parcel","Parcel"
-"Parcel Post","Parcel Post"
-"Password","Password"
-"Pickup method","Pickup method"
-"Please enter the package weight","Please enter the package weight"
-"Please make sure to use only digits here. No dashes are allowed.","Please make sure to use only digits here. No dashes are allowed."
-"Pounds","Pounds"
-"Priority Mail","Priority Mail"
-"Priority Overnight","Priority Overnight"
-"Receiver","Receiver"
+"None",Nimic
+"Not Required",Neobligatoriu
+"Order",Comandă
+"Order #%s",Comanda #%s
+"Origin of the Shipment",Originea Expedierii
+"Origin serviceAreaCode is missing",codArieServiciu lipsește pentru origine
+"Other",Altul
+"Others",Alții
+"PAK","PAK"
+"Package",Pachet
+"Package Description",Descriere Pachet
+"Package content is missing",Conținut pachet lipsă
+"Packages Request Type",Tip Solicitare Pachete
+"Packaging",Împachetare
+"Pallet",Palet
+"Parcel",Colet
+"Parcel Post",Poștă Colete
+"Password",Parolă
+"Pickup Method",Metodă Ridicare
+"Piece Id barcode is missing",Cod bare Id bucată lipsă
+"Piece number information is missing",Informații număr bucată lipsă
+"Please make sure to use only digits here. No dashes are allowed.",Asigurați-vă că folosiți numai cifre aici. Liniuțele nu sunt acceptate.
+"Please, specify origin country","Vă rugăm, specificați țara de origine"
+"Pounds",Livre
+"Priority Mail",Poșta Prioritară
+"Priority Mail Express",Poșta Prioritară Expres
+"Priority Mail Express Flat Rate Boxes",Poșta Prioritară Expres Cutii Rată Forfetară
+"Priority Mail Express Flat Rate Boxes Hold For Pickup",Poșta Prioritară Expres Cutii Reținute Pentru Ridicare Rată Forfetară
+"Priority Mail Express Flat Rate Envelope",Poșta Prioritară Expres Plic Rată Forfetară
+"Priority Mail Express Flat Rate Envelope Hold For Pickup",Poșta Prioritară Expres Plic Reținut Pentru Ridicare Rată Forfetară
+"Priority Mail Express Hold For Pickup",Poșta Prioritară Expres Reținut Pentru Ridicare
+"Priority Mail Express International",Poșta Prioritară Expres Internațional
+"Priority Mail Express International Flat Rate Boxes",Poșta Prioritară Expres Internațional Cutii Rată Forfetară
+"Priority Mail Express International Flat Rate Envelope",Poșta Prioritară Expres Internațional Plic Rată Forfetară
+"Priority Mail Express International Legal Flat Rate Envelope",Poșta Prioritară Expres Internațional Plic Legal Rată Forfetară
+"Priority Mail Express International Padded Flat Rate Envelope",Poșta Prioritară Expres Internațional Plic Căptușit Rată Forfetară
+"Priority Mail Express Legal Flat Rate Envelope",Poșta Prioritară Expres Plic Legal Rată Forfetară
+"Priority Mail Express Legal Flat Rate Envelope Hold For Pickup",Poșta Prioritară Expres Plic Legal Reținut Pentru Ridicare Rată Forfetară
+"Priority Mail Express Padded Flat Rate Envelope",Poșta Prioritară Expres Plic Căptușit Rată Forfetară
+"Priority Mail Express Padded Flat Rate Envelope Hold For Pickup",Poșta Prioritară Expres Plic Căptușit Reținut Pentru Ridicare Rată Forfetară
+"Priority Mail Express Sunday/Holiday Delivery",Poșta Prioritară Expres Livrare Duminica/Sărbători
+"Priority Mail Express Sunday/Holiday Delivery Flat Rate Boxes",Poșta Prioritară Expres Cutii Livrare Duminica/Sărbător Rată Forfetară
+"Priority Mail Express Sunday/Holiday Delivery Flat Rate Envelope",Poșta Prioritară Expres Plic Livrare Duminica/Sărbători Rată Forfetară
+"Priority Mail Express Sunday/Holiday Delivery Legal Flat Rate Envelope",Poșta Prioritară Expres Plic Legal Livrare Duminica/Sărbători Rată Forfetară
+"Priority Mail Express Sunday/Holiday Delivery Padded Flat Rate Envelope",Poșta Prioritară Expres Plic Căptușit Livrare Duminica/Sărbători Rată Forfetară
+"Priority Mail Flat Rate Envelope",Poșta Prioritară Plic Rată Forfetară
+"Priority Mail Flat Rate Envelope Hold For Pickup",Poșta Prioritară Plic Reținut Pentru Ridicare Rată Forfetară
+"Priority Mail Gift Card Flat Rate Envelope",Poșta Prioritară Plic Carte Cadou Rată Forfetară
+"Priority Mail Gift Card Flat Rate Envelope Hold For Pickup",Poșta Prioritară Plic Carte Cadou Reținut Pentru Ridicare Rată Forfetară
+"Priority Mail Hold For Pickup",Poșta Prioritară Reținut Pentru Ridicare
+"Priority Mail International",Poșta Prioritară Internațional
+"Priority Mail International DVD Flat Rate priced box",Poșta Prioritară Internațional DVD cutie taxată Rată Forfetară
+"Priority Mail International Flat Rate Envelope",Poșta Prioritară Internațional Plic Rată Forfetară
+"Priority Mail International Gift Card Flat Rate Envelope",Poșta Prioritară Internațional Plic Carte Cadou Rată Forfetară
+"Priority Mail International Large Flat Rate Box",Poșta Prioritară Internațional Cutie Mare Rată Forfetară
+"Priority Mail International Large Video Flat Rate priced box",Poșta Prioritară Internațional cutie Video Mare taxată Rată Forfetară
+"Priority Mail International Legal Flat Rate Envelope",Poșta Prioritară Internațional Plic Legal Rată Forfetară
+"Priority Mail International Medium Flat Rate Box",Poșta Prioritară Internațional Cutie Medie Rată Forfetară
+"Priority Mail International Padded Flat Rate Envelope",Poșta Prioritară Internațional Plic Căptușit Rată Forfetară
+"Priority Mail International Small Flat Rate Box",Poșta Prioritară Internațional Cutie Mică Rată Forfetară
+"Priority Mail International Small Flat Rate Envelope",Poșta Prioritară Internațional Plic Mic Rată Forfetară
+"Priority Mail International Window Flat Rate Envelope",Poșta Prioritară Internațional Plic Fereastră Rată Forfetară
+"Priority Mail Large Flat Rate Box",Poșta Prioritară Cutie Mare Rată Forfetară
+"Priority Mail Large Flat Rate Box Hold For Pickup",Poșta Prioritară Cutie Mare Reținută Pentru Ridicare Rată Forfetară
+"Priority Mail Legal Flat Rate Envelope",Poșta Prioritară Plic Legal Rată Forfetară
+"Priority Mail Legal Flat Rate Envelope Hold For Pickup",Poșta Prioritară Plic Legal Reținut Pentru Ridicare Rată Forfetară
+"Priority Mail Medium Flat Rate Box",Poșta Prioritară Cutie Medie Rată Forfetară
+"Priority Mail Medium Flat Rate Box Hold For Pickup",Poșta Prioritară Cutie Medie Reținută Pentru Ridicare Rată Forfetară
+"Priority Mail Padded Flat Rate Envelope",Poșta Prioritară Plic Căptușit Rată Forfetară
+"Priority Mail Padded Flat Rate Envelope Hold For Pickup",Poșta Prioritară Plic Căptușit Reținut Pentru Ridicare Rată Forfetară
+"Priority Mail Regional Rate Box A",Poșta Prioritară Cutie A Rată Regională
+"Priority Mail Regional Rate Box A Hold For Pickup",Poșta Prioritară Cutie A Reținută Pentru Ridicare Rată Regională
+"Priority Mail Regional Rate Box B",Poșta Prioritară Cutie B Rată Regională
+"Priority Mail Regional Rate Box B Hold For Pickup",Poșta Prioritară Cutie B Reținută Pentru Ridicare Rată Regională
+"Priority Mail Regional Rate Box C",Poșta Prioritară Cutie C Rată Regională
+"Priority Mail Regional Rate Box C Hold For Pickup",Poșta Prioritară Cutie C Reținută Pentru Ridicare Rată Regională
+"Priority Mail Small Flat Rate Box",Poșta Prioritară Cutie Mică Rată Forfetară
+"Priority Mail Small Flat Rate Box Hold For Pickup",Poșta Prioritară Cutie Mică Reținută Pentru Ridicare Rată Forfetară
+"Priority Mail Small Flat Rate Envelope",Poșta Prioritară Plic Mic Rată Forfetară
+"Priority Mail Small Flat Rate Envelope Hold For Pickup",Poșta Prioritară Plic Mic Reținut Pentru Ridicare Rată Forfetară
+"Priority Mail Window Flat Rate Envelope",Poșta Prioritară Plic Fereastră Rată Forfetară
+"Priority Mail Window Flat Rate Envelope Hold For Pickup",Poșta Prioritară Plic Fereastră Reținut Pentru Ridicare Rată Forfetară
+"Priority Overnight",Prioritar Peste Noapte
+"Product content code is invalid",Cod conținut produs invalid
+"Product name is missing",Nume produs lipsă
+"Receiver",Destinatar
 "Rectangular","Rectangular"
-"Regular","Regular"
-"Regular Pickup","Regular Pickup"
-"Request Courier","Request Courier"
-"Residential","Residential"
-"Residential Delivery","Residential Delivery"
-"Response is in the wrong format","Response is in the wrong format"
-"Round","Round"
-"Second Day Service","Second Day Service"
-"Sender","Sender"
-"Ship to Specific countries","Ship to Specific countries"
-"Ship to applicable countries","Ship to applicable countries"
-"Shipment Contains Hazardous Materials","Shipment Contains Hazardous Materials"
-"Shipment Dutiable","Shipment Dutiable"
-"Shipment Duty Payment Type","Shipment Duty Payment Type"
-"Shipment is not available.","Shipment is not available."
-"Shipment picked up","Shipment picked up"
-"Shipment type","Shipment type"
-"Shipper Number","Shipper Number"
-"Shipping key","Shipping key"
-"Shipping key (International)","Shipping key (International)"
-"Show method if not applicable","Show method if not applicable"
-"Size","Size"
-"Sort order","Sort order"
-"Standard Overnight","Standard Overnight"
-"Station","Station"
+"Reference code is missing",Cod referință lipsă
+"Regular",Obișnuit
+"Regular Pickup",Ridicare Obișnuită
+"Request Courier",Solicitare Curier
+"Required",Obligatoriu
+"Required for negotiated rates; 6-character UPS.",Obligatoriu pentru cotele negociate; UPS 6 caractere.
+"Residential",Rezidențial
+"Residential Delivery",Livrare Rezidențială
+"Response is in the wrong format",Răspunsul e într-un format greșit
+"Return",Retur
+"Round",Rotund
+"Routing barcode is missing",Cod bare rutare lipsă
+"Same day",Aceeași zi
+"Sample",Mostră
+"Sandbox Mode",Mod Testare
+"Second Day Service",Service A Doua Zi
+"Secure Gateway URL",URL Portal Securizat
+"Secureline",Liniesecurizată
+"Sender",Expeditor
+"Sender city info is missing",Informație oraș expeditor lipsă
+"Sender contact name is missing",Nume contact expeditor lipsă
+"Sender country info is missing",Informații țară expeditor lipsă
+"Service type does not match",Tipul serviciului nu se potrivește
+"Ship to Applicable Countries",Expediere către Țări Aplicabile
+"Ship to Specific Countries",Expediere către Țări Specifice
+"Shipment Contains Hazardous Materials",Expedierea Conține Materiale Periculoase
+"Shipment Dutiable",Expediere Impozabilă
+"Shipment Duty Payment Type",Tip Plată Impozit Expediere
+"Shipment Type",Tip Expediere
+"Shipment is not available.",Expediere indisponibilă.
+"Shipment picked up",Expediere ridicată
+"Shipper Number",Număr Exppeditor
+"Shipping Accept XML URL",URL XML Accept Expediere
+"Shipping Confirm XML URL",URL XML Confirmare Expediere
+"Shipping Key",Cheie Expediere
+"Shipping Key (International)",Cheie Expediere (Internațional)
+"Show Method if Not Applicable",Afișare Metodă dacă Nu e Aplicabilă
+"Signature Required",Semnătura Obligatorie
+"Size",Dimensiune
+"Small Express Box",Cutie Expres Mică
+"Smart Post",Poșta Inteligentă
+"Sort Order",Ordine Sortare
+"Specific","Specific"
+"Sprintline",Liniesprint
+"Standard Overnight",Standard Peste Noapte
+"Standard Post",Poșta Standard
+"Station",Stație
 "Subtotal","Subtotal"
-"Subtotal With Discount","Subtotal With Discount"
-"There is no available method for selected shipping address.","There is no available method for selected shipping address."
-"Third Party","Third Party"
-"Title","Title"
-"To lower","To lower"
-"To upper","To upper"
-"Tracking XML URL","Tracking XML URL"
+"Subtotal With Discount",Subtotal Cu Discount
+"The field is applicable if the Smart Post method is selected.",Câmpul este aplicabil dacă metoda Poștă Inteligentă e selectată.
+"The response is in wrong format.",Răspunsul e într-un format greșit.
+"There is no available method for selected shipping address.",Nu există metode disponibile pentru adresa de expediere selectată.
+"There is no items in this order",Nu există articole în această comandă
+"Third Party",Terț
+"Title",Titlu
+"To Lower",La Minuscule
+"To Upper",La Majuscule
+"Tracking XML URL",URL XML Urmărire
 "UPS","UPS"
-"UPS Expedited","UPS Expedited"
-"UPS Express","UPS Express"
-"UPS Express Box","UPS Express Box"
-"UPS Express Early A.M.","UPS Express Early A.M."
-"UPS Express Plus","UPS Express Plus"
-"UPS Ground","UPS Ground"
-"UPS Letter Envelope","UPS Letter Envelope"
-"UPS Next Day Air","UPS Next Day Air"
-"UPS Next Day Air Early A.M.","UPS Next Day Air Early A.M."
-"UPS Next Day Air Saver","UPS Next Day Air Saver"
-"UPS Saver","UPS Saver"
-"UPS Second Day Air","UPS Second Day Air"
-"UPS Second Day Air A.M.","UPS Second Day Air A.M."
+"UPS Expedited",UPS Urgent
+"UPS Express",UPS Expres
+"UPS Express Box",UPS Cutie Expres
+"UPS Express Early A.M.",UPS Expres Devreme A.M.
+"UPS Express Plus",UPS Expres Plus
+"UPS Ground",UPS Terestru
+"UPS Letter Envelope",UPS Plic Scrisoare
+"UPS Next Day Air",UPS A Doua Zi Aer
+"UPS Next Day Air Early A.M.",UPS A Doua Zi Aer Devreme A.M.
+"UPS Next Day Air Saver",UPS A Doua Zi Aer Economic
+"UPS Saver",UPS Economic
+"UPS Second Day Air",UPS A Doua Zi Aer
+"UPS Second Day Air A.M.",UPS A Doua Zi Aer A.M.
 "UPS Standard","UPS Standard"
-"UPS Three-Day Select","UPS Three-Day Select"
-"UPS Today Dedicated Courrier","UPS Today Dedicated Courrier"
-"UPS Today Express","UPS Today Express"
-"UPS Today Express Saver","UPS Today Express Saver"
-"UPS Today Intercity","UPS Today Intercity"
-"UPS Today Standard","UPS Today Standard"
-"UPS Tube","UPS Tube"
-"UPS Worldwide 10 kilo","UPS Worldwide 10 kilo"
-"UPS Worldwide 25 kilo","UPS Worldwide 25 kilo"
-"UPS Worldwide Expedited","UPS Worldwide Expedited"
-"UPS Worldwide Express","UPS Worldwide Express"
-"UPS Worldwide Express Plus","UPS Worldwide Express Plus"
-"UPS Worldwide Express PlusSM","UPS Worldwide Express PlusSM"
-"UPS type","UPS type"
+"UPS Three-Day Select",UPS Trei Zile Select
+"UPS Today Dedicated Courrier",UPS Astăzi Curier Dedicat
+"UPS Today Express",UPS Astăzi Expres
+"UPS Today Express Saver",UPS Astăzi Expres Economic
+"UPS Today Intercity",UPS Astăzi Intercity
+"UPS Today Standard",UPS Astăzi Standard
+"UPS Tube",UPS Tub
+"UPS Type",Tip UPS
+"UPS Worldwide 10 kilo",UPS Global 10 kg
+"UPS Worldwide 25 kilo",UPS Global 25 kg
+"UPS Worldwide Expedited",UPS Global Urgent
+"UPS Worldwide Express",UPS Global Expres
+"UPS Worldwide Express Plus",UPS Global Expres Plus
+"UPS Worldwide Express PlusSM",UPS Global Expres PlusSM
+"UPS Worldwide Saver",UPS Global Economic
 "USPS","USPS"
-"Unable to retrieve tracking","Unable to retrieve tracking"
+"USPS GXG Envelopes","USPS GXG Envelopes"
+"Unable to retrieve tracking",Imposibil de recuperat urmărirea
 "United Parcel Service","United Parcel Service"
-"United Parcel Service XML","United Parcel Service XML"
-"Unknown error","Unknown error"
-"Used only when 'Additional Protection Value' is set to 'Configuration'. Can contain only numeric amount.","Used only when 'Additional Protection Value' is set to 'Configuration'. Can contain only numeric amount."
-"User ID","User ID"
-"UserId","UserId"
-"Variable","Variable"
-"Weight Unit","Weight Unit"
-"Worldwide Expedited","Worldwide Expedited"
-"Worldwide Express","Worldwide Express"
-"Worldwide Express Letter","Worldwide Express Letter"
-"Worldwide Express Plus","Worldwide Express Plus"
-"Worldwide Express Plus Letter","Worldwide Express Plus Letter"
-"Worldwide Express Saver","Worldwide Express Saver"
-"Yes","Yes"
-"Your Packaging","Your Packaging"
+"United Parcel Service XML",XML United Parcel Service
+"Unknown error",Eroare necunoscută
+"Used only when ""Additional Protection Value"" is set to ""Configuration"". Can contain only numeric amount.",Utilizat numai când "Valoare Protecție Suplimentară" e setat la "Configurație". Poate conține numai sumă numerică.
+"User ID",ID Utilizator
+"Variable",Variabilă
+"Waybill barcode information is missing",Informații cod bare scrisoare de transport lipsă
+"Weight Unit",Unitate Greutate
+"Weight unit is invalid",Unitate greutate invalidă
+"Width",Lățime
+"Worldwide Expedited",Urgent Global
+"Worldwide Express",Expres Global
+"Worldwide Express Letter",Expres Global Scrisoare
+"Worldwide Express Plus",Expres Plus Global
+"Worldwide Express Plus Letter",Expres Plus Global Scrisoare
+"Worldwide Express Saver",Expres Global Economic
+"Wrong Content Type.",Tip Conținut Greșit.
+"Wrong Region.",Regiune Greșită.
+"Yes",Da
+"Your Packaging",Ambalarea Dvs.
+"Zero shipping charge for '%s'",Cost expediere zero pentru '%s'
+"cm","cm"
+"inch",inci

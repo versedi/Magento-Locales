@@ -1,118 +1,161 @@
-"-- Please Select --","-- Alege --"
-"Add New Class","Adauga clasa noua"
-"Add New Tax Rate","Adauga cota tva"
-"Add New Tax Rule","Adauga regula de taxare"
-"Apply Discount On Prices Including Tax","Apply Discount On Prices Including Tax"
-"Apply Tax After Discount","Apply Tax After Discount"
-"Apply Tax On","Apply Tax On"
-"Are you sure you want to do this?","Esti sigur ca vrei asta?"
-"Back","Inapoi"
+"'*' - matches any; 'xyz*' - matches any that begins on 'xyz' and not longer than %d.",'*' - se potrivește cu orice; 'xyz*' - se potrivește cu orice începe cu 'xyz' și nu e mai lung decât %d.
+"-- Please Select --",-- Selectați --
+"Add New Class",Adăugare Clasă Nouă
+"Add New Tax Rate",Adăugare Cotă Taxare Nouă
+"Add New Tax Rule",Adăugare Regulă Taxare Nouă
+"After Discount",După Reducere
+"An error occurred while deleting this rate.",Eroare la ștergerea acestei cote.
+"An error occurred while deleting this rate. Incorrect rate ID.",Eroare la ștergerea acestei cote. ID cotă incorect.
+"An error occurred while deleting this tax class.",Eroare la ștergerea acestei clase de taxare.
+"An error occurred while deleting this tax rule.",Eroare la ștergerea acestei reguli de taxare.
+"An error occurred while saving this tax class.",Eroare la salvarea acestei clase de taxare.
+"An error occurred while saving this tax class. A class with the same name",Eroare la salvarea acestei clase de taxare. O clasă cu același nume
+"Apply Customer Tax",Aplicare Taxă Client
+"Apply Discount On Prices",Aplicare Reducere la Prețuri
+"Apply Tax On",Aplicare Taxe La
+"Apply discount on price including tax is calculated based on store tax, if ""Apply Tax after Discount"" is selected.","Aplicarea reducerii la prețul cu taxe e calculată pe baza taxei magazinului, dacă e selectat ""Aplicare Taxe după Reducere""."
+"Are you sure you want to do this?",Sunteți sigur că vreți să faceți asta?
+"Back",înapoi
+"Before Discount",Înainte de Reducere
 "CSV","CSV"
-"Calculation","Calculation"
-"Catalog prices include tax","Catalog prices include tax"
-"Class Name","Nume clasa"
-"Code","Code"
-"Country","Tara"
-"Country/Region/Postal code combination","Country/Region/Postal code combination"
-"County","Judet"
-"Custom price if available","Custom price if available"
-"Customer Tax Class","Clasa de taxare client"
-"Customer Tax Class Information","Informatii clasa de taxare client"
-"Customer Tax Classes","Clase de taxare client"
-"Default Country","Default Country"
-"Default Post Code","Default Post Code"
-"Default State","Default State"
-"Default Tax Origin Calculation","Default Tax Origin Calculation"
-"Delete Class","Sterge clasa"
-"Delete Rate","Sterge cota"
-"Delete Rule","Sterge regula"
-"Display","Display"
-"Display Cart/Order Prices","Display Cart/Order Prices"
-"Display Product Prices","Display Product Prices"
-"Display Shipping Prices","Display Shipping Prices"
-"Display Zero Tax Subtotal","Display Zero Tax Subtotal"
-"Display full tax summary","Display full tax summary"
-"Edit Class","Modifica clasa"
-"Edit Class '%s'","Modifica clasa '%s'"
-"Edit Rule","Modifica regula"
-"Edit Tax Rate","Modifica cota de taxare"
-"Error while deleting this class. Please try again later.","Eroare la stergerea clasei. Incearca mai tarziu."
-"Error while deleting this rate. Incorrect rate ID","Eroare la stergerea cotei. ID incorect"
-"Error while deleting this rate. Please try again later.","Eroare la stergerea cotei. Incearca mai tarziu."
-"Error while deleting this tax rule. Please try again later.","Eroare la stergerea regulii. Incearca mai tarziu."
-"Error while saving this rate. Please try again later.","Eroare la salvarea cotei. Incearca mai tarziu."
-"Error while saving this tax class. Class with the same name ","Eroare la salvarea clasei de taxare. Clasa are acelasi nume "
-"Error while saving this tax class. Please try again later.","Eroare la salvarea clasei de taxare. Incearca mai tarziu."
-"Error while saving this tax rule. Please try again later.","Eroare la salvarea regulii de taxare. Incearca mai tarziu."
-"Error while saving this tax rule. This product tax class, customer tax class and tax rate combination","Error while saving this tax rule. This product tax class, customer tax class and tax rate combination"
-"Excl. Tax","Fara TVA"
-"Excl. Tax:","Excl. Tax:"
-"Excluding tax","Excluding tax"
-"Export Tax Rates","Exporta cota TVA"
-"Ignored when 'Apply Tax After Discount' option is enabled","Ignored when 'Apply Tax After Discount' option is enabled"
-"Import / Export Tax Rates","Importa / Exporta cote TVA"
-"Import Tax Rates","Importa cote TVA"
-"Inc. Tax","Cu TVA"
-"Incl. Tax","Cu TVA"
-"Incl. Tax:","Incl. Tax:"
-"Including and excluding tax","Including and excluding tax"
-"Including tax","Including tax"
-"Incorrect rate Data","Incorrect rate Data"
-"Invalid data for tax rate calculation","Invalid data for tax rate calculation"
-"Invalid file format upload attempt","Invalid file format upload attempt"
-"Invalid file upload attempt","Invalid file upload attempt"
-"Manage Customer Tax Classes","Gestioneaza clasele de taxare client"
-"Manage Product Tax Classes","Gestioneaza clasele de taxare produs"
-"Manage Tax Rates","Gestioneaza cote de taxare"
-"Manage Tax Rules","Gestioneaza reguli de taxare"
-"Manage Tax Zones & Rates","Manage Tax Zones & Rates"
-"Name","Name"
-"New Class","Clasa noua"
-"New Rule","Regula noua"
-"New Tax Rate","Cota noua"
-"None","None"
-"One of the country has invalid code.","One of the country has invalid code."
-"Original price only","Original price only"
-"Please select Country","Alege tara"
-"Please select County","Alege judetul"
-"Please select State","Alege judetul"
-"Priority","Priority"
-"Product Tax Class","Clasa de taxare produs"
-"Product Tax Class Information","Informatii clasa de taxare produs"
-"Product Tax Classes","Clase taxare produs"
-"Rate","Rate"
-"Reset","Reseteaza"
-"Sales","Vanzari"
-"Save Class","Salveaza clasa"
-"Save Rate","Salveaza cota"
-"Save Rule","Salveaza regula"
-"Shipping prices include tax","Shipping prices include tax"
-"Sort Order","Sort Order"
-"State","Judet"
-"State/Region","Judet"
-"Tax","TVA"
-"Tax Based On","Tax Based On"
-"Tax Class for Shipping","Tax Class for Shipping"
-"Tax Classes","Tax Classes"
-"Tax Identifier","Tax Identifier"
-"Tax Rate","Cota TVA"
-"Tax Rate Information","Informatii cota taxare"
-"Tax Rule Information","Informatii regula taxare"
-"Tax Rules","Reguli taxare"
-"Tax Section","Tax Section"
-"Tax Titles","Tax Titles"
-"Tax class was successfully deleted","Clasa de taxare a fost stearsa"
-"Tax class was successfully saved","Clasa de taxare a fost salvata"
-"Tax rate was successfully deleted","Cota de taxare a fost stearsa"
-"Tax rate was successfully imported","Cota de taxare a fost importata"
-"Tax rate was successfully saved","Cota de taxare a fost salvata"
-"Tax rates at the same priority are added, others are compounded.","Tax rates at the same priority are added, others are compounded."
-"Tax rule was successfully deleted","Regula de taxare a fost stearsa"
-"Tax rule was successfully saved","Regula de taxare a fost salvata"
-"This class no longer exists","Clasa inexistenta"
-"This rule no longer exists","Regula inexistenta"
-"XML","XML"
-"You cannot delete this tax class as it is used for %d customer groups.","Nu se poate sterge clasa, deoarece este folosita pentru grupul de clienti %d."
-"You cannot delete this tax class as it is used for %d products.","Nu se poate sterge clasa, deoarece este folosita pentru produsele %d."
-"You cannot delete this tax class as it is used in Tax Rules. You have to delete the rules it is used in first.","Nu se poate sterge clasa, deoarece este folosita in reguli de taxare. Trebuie stearsa mai intai regula unde e folosita."
-"Zip/Post Code","Cod postal"
+"Calculate off subtotal only",Calculare din subtotal numai
+"Calculation Settings",Setări Calcul
+"Catalog Prices",Prețuri Catalog
+"Class Name",Nume Clasă
+"Click here to go to <a href=""%s"">Tax configuration</a> and change your settings.",Click aici pentru a naviga la <a href="%s">Configurare taxe</a> și a schimba setările dvs.
+"Code",Cod
+"Country",Țară
+"Custom price if available",Preț personalizat dacă e disponibil
+"Customer Tax Class",Clasă Taxare Client
+"Customer Tax Class Information",Informații Clasă Taxare Client
+"Customer Tax Classes",Clase Taxare Client
+"Default Country",Țară Implicită
+"Default Post Code",Cod Poștal Implicit
+"Default State",Județ Implicit
+"Default Tax Destination Calculation",Calcul Implicit Destinație Taxe
+"Delete Class",Ștergere Clasă
+"Delete Rate",Ștergere Cotă
+"Delete Rule",Ștergere Regulă
+"Display Full Tax Summary",Afișare Sumar Complet Taxe
+"Display Prices",Afișare Prețuri
+"Display Product Prices In Catalog",Afișare Prețuri Produse în Catalog
+"Display Shipping Amount",Afișare Sumă Expediere
+"Display Shipping Prices",Afișare Prețuri Expediere
+"Display Subtotal",Afișare Subtotal
+"Display Zero Tax Subtotal",Afișare Subtotal Taxe Zero
+"Edit Class",Modificare Clasă
+"Edit Class '%s'",Modificare Clasă '%s'
+"Edit Rule",Modificare Regulă
+"Edit Tax Rate",Modificare Cotă Taxare
+"Excel XML",XML Excel
+"Excl. Tax",Fără Taxe
+"Excl. Tax:",Fără Taxe:
+"Excluding Tax",Fără Taxe
+"Export Tax Rates",Exportare Cote Taxare
+"Grand Total (Excl. Tax)",Total General (Fără Taxe)
+"Grand Total (Excl.Tax)",Total General (Fără Taxe)
+"Grand Total (Incl. Tax)",Total General (Cu Taxe)
+"Grand Total (Incl.Tax)",Total General (Cu Taxe)
+"Grand Total Excl. Tax",Total General Fără Taxe
+"Grand Total Incl. Tax",Total General Cu Taxe
+"Ignore this notification",Ignorare notificare
+"Import / Export Tax Rates",Importare / Exportare Cote Taxare
+"Import Tax Rates",Importare Cote Taxare
+"Inc. Tax",Cu Taxe
+"Incl. Tax",Cu Taxe
+"Incl. Tax:",Cu Taxe:
+"Include Tax In Grand Total",Includere Taxe În Total General
+"Including Tax",Cu Taxe
+"Including and Excluding Tax",Cu și Fără Taxe
+"Invalid file format upload attempt",Încercare de încărcare a unui format invalid de fișier
+"Invalid file upload attempt",Încercare de încărcare a unui fișier invalid
+"Manage Customer Tax Classes",Gestionare Clase Taxare Client
+"Manage Product Tax Classes",Gestionare Clase Taxare Produs
+"Manage Tax Rates",Gestionare Cote Taxare
+"Manage Tax Rules",Gestionare Reguli Taxare
+"Manage Tax Zones & Rates",Gestionare Zone & Cote Taxare
+"Maximum zip code length is 9.",Lungimea maximă a codului poștal este 9.
+"Name",Nume
+"New Class",Clasă Nouă
+"New Rule",Regulă Nouă
+"New Tax Rate",Cotă Nouă
+"No","No"
+"None",Nimic
+"One of the country has invalid code.",Una dintre țări are codul invalid.
+"Orders, Invoices, Credit Memos Display Settings","Setări Afișare Comenzi, Facturi și Memo-uri de Credit"
+"Original price only",Doar prețul inițial
+"Please fill all required fields with valid information.",Completați toate câmpurile obligatorii cu informații valide.
+"Please see <a href=""%s"">source</a> for more details.",Consultați <a href="%s">sursa</a> pentru mai multe detalii.
+"Price Display Settings",Setări Afișare Preț
+"Priority",Prioritate
+"Product Tax Class",Clasă Taxare Produs
+"Product Tax Class Information",Informații Clasă Taxare Produs
+"Product Tax Classes",Clase Taxare Produs
+"Range From",Interval De La
+"Range To",Interval Până La
+"Range To should be equal or greater than Range From.",Interval Până La ar trebui să fie mai mare sau egal cu Interval De La.
+"Rate",Cotă
+"Rate Percent",Procent Cotă
+"Rate Percent should be a positive number.",Procent Cotă trebuie să fie număr pozitiv.
+"Reset",Resetare
+"Row Total",Total Rând
+"Sales",Vânzări
+"Save Class",Salvare Clasă
+"Save Rate",Salvare Cotă
+"Save Rule",Salvare Regulă
+"Save and Continue Edit",Salvare și Continuare Editare
+"Shipping & Handling (Excl.Tax)",Expediere & Manipulare (Fără Taxe)
+"Shipping & Handling (Incl.Tax)",Expediere & Manipulare (Cu Taxe)
+"Shipping & Handling Tax",Taxă Expediere & Manipulare
+"Shipping (Excl. Tax)",Expediere (Fără Taxe)
+"Shipping (Incl. Tax)",Expediere (Cu Taxe)
+"Shipping Excl. Tax (%s)",Expediere Fără Taxe (%s)
+"Shipping Incl. Tax (%s)",Expediere Cu Taxe (%s)
+"Shipping Prices",Prețuri Expediere
+"Shopping Cart Display Settings",Setări Afișare Coș Cumpărături
+"Sort Order",Sortare Comandă
+"State",Județ
+"State/Region",Regiune
+"Subtotal (Excl. Tax)",Subtotal (Fără Taxe)
+"Subtotal (Excl.Tax)",Subtotal (Fără Taxe)
+"Subtotal (Incl. Tax)",Subtotal (Cu Taxe)
+"Subtotal (Incl.Tax)",Subtotal (Cu Taxe)
+"Subtotal only",Subtotal numai
+"Tax",Taxe
+"Tax Calculation Based On",Calcul Taxe Bazat Pe
+"Tax Calculation Method Based On",Metodă Calcul Taxe Bazată Pe
+"Tax Class for Shipping",Clasă Taxare pentru Expediere
+"Tax Classes",Clase Taxare
+"Tax Identifier",Identificator Taxă
+"Tax Rate",Cotă Taxă
+"Tax Rate Information",Informații Cotă Taxare
+"Tax Rule Information",Informații Regulă Taxare
+"Tax Rules",Reguli Taxare
+"Tax Section",Secțiune Taxe
+"Tax Titles",Titluri Taxe
+"Tax rate cannot be removed. It exists in tax rule",Cota de taxare nu poate fi eliminată. Există într-o regulă de taxare
+"Tax rates at the same priority are added, others are compounded.","Cotele de taxare cu aceeași prioritate sunt adunate, celelalte sunt compuse."
+"The tax class has been deleted.",Clasa de taxare a fost ștearsă.
+"The tax class has been saved.",Clasa de taxare a fost salvată.
+"The tax rate has been deleted.",Cota de taxare a fost ștearsă.
+"The tax rate has been imported.",Cota de taxare a fost importată.
+"The tax rate has been saved.",Cota de taxare a fost salvată.
+"The tax rule has been deleted.",Regula de taxare a fost ștearsă.
+"This class no longer exists",Clasă inexistentă
+"This rule no longer exists",Regulă inexistentă
+"This rule no longer exists.",Această regulă nu mai există.
+"Total","Total"
+"Unit Price",Preț Unitar
+"Warning tax configuration can result in rounding errors","Atenție, configurația taxelor poate cauza erori de rotunjire"
+"Warning tax configuration can result in unexpected FPT prices on applicable devices","Atenție, configurația taxelor poate cauza prețuri TFP neașteptate pe dispozitivele aplicabile"
+"Warning tax discount configuration might result in different discounts than a customer might expect","Atenție, configurația reducerilor de taxe poate cauza reduceri diferite de cele așteptate de către client"
+"Whether catalog prices entered by admin include tax.",Dacă prețurile de catalog introduse de administrator includ taxe.
+"Whether shipping amounts entered by admin or obtained from gateways include tax.",Dacă sumele de expediere introduse de administrator sau obținute de la portaluri includ taxe.
+"Yes",Da
+"You cannot delete this tax class as it is used for %d customer groups.","Nu se poate șterge clasa, deoarece este folosită pentru grupurile de clienți %d."
+"You cannot delete this tax class as it is used for %d products.","Nu se poate șterge clasa, deoarece este folosită pentru produsele %d."
+"You cannot delete this tax class as it is used in Tax Rules. You have to delete the rules it is used in first.","Nu se poate șterge clasa, deoarece este folosită în Reguli de Taxare. Trebuie șterse mai întâi regulile unde e folosită."
+"Zip code should not contain characters other than digits.",Codul poștal nu ar trebui să conțină alte caractere înafara de cifre.
+"Zip/Post Code",Cod Poștal
+"Zip/Post is Range",Codul Poștal e Intervalul
+"for store(s)",pentru magazinul(ele)

@@ -1,58 +1,56 @@
-"%s - Discounts and Coupons","%s - Reduceri si cupoane"
-"%s - Special Discounts","%s - Reduceri speciale"
-"%s RSS Feed","%s RSS Feed"
-"%s has reached a quantity of %s.","%s a atins cantitatea de %s."
-"%s's Wishlist"," Favoritele lui %s""
-Cannot retrieve the wishlist"""
-"Cannot retrieve the wishlist","Cannot retrieve the wishlist"
+"%s - Discounts and Coupons",%s - Reduceri și Cupoane
+"%s - Special Products",%s - Produse Speciale
+"%s RSS Feed",%s Feed RSS
+"%s has reached a quantity of %s.",%s a atins cantitatea de %s.
+"%s\'s Wishlist",Lista de Dorințe pentru %s
+"Cannot retrieve the wishlist",Imposibil de recuperat lista de dorințe
 "Catalog","Catalog"
-"Category Feeds","Category Feeds"
-"Comment: %s<br/>","Comentariu: %s<br/>"
-"Coupons/Discounts","Cupoane/Reduceri"
-"Current Status: %s<br/>","Status actual: %s<br/>"
-"Customer Name: %s","Nume client: %s"
-"Customer Order Status Notification","Notificarea starii comenzii clientului"
-"Details for %s #%s","Detalii pentru %s #%s"
-"Discount ","Reducere "
-"Enable RSS","Activeaza RSS"
-"Error in processing xml. %s","Error in processing xml. %s"
-"From:","De la:"
-"Get Feed","Primeste Feed"
-"Gift Message","Mesaj pentru cadouri"
-"Grand Total","Total general"
-"Low Stock Products","Produse cu stoc limitat"
-"Message:","Mesaj:"
-"Miscellaneous Feeds","Miscellaneous Feeds"
-"New Orders","Comenzi noi"
-"New Products","Produse noi"
-"New Products from %s","Produse noi de la %s"
-"Notified Date: %s<br/>","Data notificarii: %s<br/>"
-"Order # %s Notification(s)","Notificare(i) Comanda # %s"
-"Order #%s created at %s","Comanda #%s creata la %s"
-"Pending product review(s)","Parere(i) produs in asteptare"
-"Product: ""%s"" review By: %s","Produs: ""%s"" evaluat de: %s"
-"Product: <a href=""%s"">%s</a> <br/>","Produs: <a href=""%s"">%s</a> <br/>"
-"Products tagged with %s","Produs cu tag %s"
-"Purchased From: %s","Cumparat de la: %s"
+"Category Feeds",Feed-uri Categorie
+"Click for price",Click pentru preț
+"Comment: %s<br/>",Comentariu: %s<br/>
+"Coupons/Discounts",Cupoane/Reduceri
+"Current Status: %s<br/>",Stare Actuală: %s<br/>
+"Customer Name: %s",Nume Client: %s
+"Customer Order Status Notification",Notificare Stare Comandă Client
+"Details for %s #%s",Detalii pentru %s #%s
+"Discount",Reducere
+"Discount (%s)",Reducere (%s)
+"Enable RSS",Activare RSS
+"Error in processing xml. %s",Eroare la procesarea xml. %s
+"From:",De la:
+"Get Feed",Primire Feed
+"Gift Message",Mesaj de Cadouri
+"Grand Total",Total General
+"Low Stock Products",Produse cu Stoc Limitat
+"Message:",Mesaj:
+"Miscellaneous Feeds",Feed-uri diverse
+"New Orders",Comenzi Noi
+"New Products",Produse Noi
+"New Products from %s",Produse Noi de la %s
+"Notified Date: %s<br/>",Data Notificării: %s<br/>
+"Order # %s Notification(s)",Notificare(i) Comanda # %s
+"Order #%s created at %s",Comanda #%s creată la %s
+"Pending product review(s)",Recenzie(i) produs în așteptare
+"Product: ""%s"" review By: %s",Produs: "%s" evaluat de: %s
+"Product: <a href=""%s"">%s</a> <br/>",Produs: <a href="%s">%s</a> <br/>
+"Products tagged with %s",Produs etichetat ca %s
+"Purchased From: %s",Cumpărat De La: %s
 "RSS","RSS"
-"RSS Feeds","RSS Feeds"
-"RSS testing","RSS testing"
-"Review: %s <br/>","Parere: %s <br/>"
-"Rss Config","Rss Config"
-"Rss Feeds Section","Rss Feeds Section"
-"Shipping & Handling","Transport si manipulare"
-"Special Products","Produse speciale"
-"Special/Discount Products","Produse speciale/cu pret redus"
-"Store: %s <br/>","Magazin: %s <br/>"
+"RSS Feeds",Feed-uri RSS
+"RSS Feeds List",Listă Feed-uri RSS
+"RSS Feeds Section",Secțiune Feed-uri RSS
+"Review: %s <br/>",Recenzie: %s <br/>
+"Rss Config",Configurare Rss
+"Shipping &amp; Handling",Expediere &amp; Manipulare
+"Special Products",Produse Speciale
+"Store: %s <br/>",Magazin: %s <br/>
 "Subtotal","Subtotal"
-"Summary of review: %s <br/>","Titlu parere: %s <br/>"
-"Tags Products","Tag-uri produse"
-"Tax","Taxa"
-"There are no Rss Feeds","There are no Rss Feeds"
-"There are no Rss Feeds.","There are no Rss Feeds."
-"To:","La:"
-"Top Level Category","Top Level Category"
-"Total Products: %s","Total Products: %s"
+"Summary of review: %s <br/>",Titlu Recenzie: %s <br/>
+"Tags Products",Etichete Produse
+"Tax",Taxe
+"There are no Rss Feeds",Nu există feed-uri Rss
+"To:",La:
+"Top Level Category",Categorie Nivel Înalt
 "Total: %s<br/>","Total: %s<br/>"
-"Wishlist","Favorite"
-"click <a href=""%s"">here</a> to view the review","click <a href=""%s"">aici</a> pentru a vedea parerea"
+"Wishlist",Listă Dorințe
+"click <a href=""%s"">here</a> to view the review",Faceți click <a href="%s">aici</a> pentru a vedea recenzia

@@ -1,0 +1,41 @@
+"--Please Select--",--Selectați--
+"API Login ID",ID Logare API
+"Accepted Currency",Valuta Acceptată
+"Amount of %s approved by payment gateway. Transaction ID: ""%s"".",Suma de %s aprobată de portalul de plată. ID Tranzacție: "%s".
+"Authorize.net Direct Post",Postare Directă Authorize.net
+"Card Verification Number",Număr Verificare Card
+"Card Verification Number Visual Reference",Referință Vizuală Număr Verificare Card
+"Close",Închidere
+"Credit Card Information",Informații Card Credit
+"Credit Card Number",Număr Card Credit
+"Credit Card Type",Tip Card Credit
+"Credit Card Types",Tipuri Card Credit
+"Credit Card Verification",Verificare Card Credit
+"Debug",Depanare
+"Email Customer",E-mail Client
+"Enabled",Activat
+"Expiration Date",Dată Expirare
+"Gateway URL",URL Portal
+"Maximum Order Total",Total Maxim Comandă
+"Merchant MD5",MD5 Comerciant
+"Merchant's Email",E-mail Comerciant
+"Minimum Order Total",Total Minim Comandă
+"New Order Status",Status Comandă Nouă
+"Order saving error: %s",Eroare salvare comandă: %s
+"Payment Action",Acțiune Plată
+"Payment authorization error.",Eroare autorizare plată.
+"Payment authorization error. Transacion id is empty.",Eroare autorizare plată. Id-ul tranzacției e gol.
+"Payment error. Order was not found.",Eroare plată. Comanda nu a fost găsită.
+"Payment error. Paid amount doesn\'t match the order amount.",Eroare plată. Suma plătită nu corespunde cu suma comenzii.
+"Payment from Applicable Countries",Plata din Țări Aplicabile
+"Payment from Specific Countries",Plata din Anumite Țări
+"Please, choose payment method","Vă rugăm, selectați metoda de plată"
+"Response hash validation failed. Transaction declined.",Eșec la validarea hash-ului răspunsului. Tranzacție refuzată.
+"Sort Order",Ordine Sortare
+"Test Mode",Mod Test
+"The order has been created.",Comanda a fost creată.
+"There was an error processing your order. Please contact us or try again later.",Eroare la procesare comenzii dvs. Vă rugăm să ne contactați sau să încercați mai târziu.
+"Title",Titlu
+"Transaction Key",Cheie Tranzacție
+"What is this?",Ce este asta?
+"You will be required to enter your payment details before you place an order.",Va fi necesar să introduceți detaliile plății dvs. înainte de a plasa o comandă.

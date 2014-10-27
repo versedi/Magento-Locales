@@ -1,66 +1,64 @@
-"Actions","Actiuni"
-"Active","Activ"
-"Add New Rule","Adauga regula noua"
-"Apply Rules","Aplica reguli"
-"Attribute Set","Set de atribute"
+"%d Catalog Price Rules based on ""%s"" attribute have been disabled.",%d Reguli Preț de Catalog bazate pe atributul "%s" nu au fost dezactivate.
+"Actions",Acțiuni
+"Active",Activ
+"Add New Rule",Adăugare Regulă Nouă
+"An error occurred while deleting the rule. Please review the log and try again.",Eroare la ștergerea regulii. Consultați registrul și încercați din nou.
+"An error occurred while saving the rule data. Please review the log and try again.",Eroare la salvarea datelor regulii. Consultați registrul și încercați din nou.
+"Apply",Aplicare
+"Apply Rules",Aplicare Reguli
+"Attribute Set",Set de Atribute
+"By Fixed Amount",După Sumă Fixă
+"By Percentage of the Original Price",După Procentul din Prețul Original
 "Catalog","Catalog"
-"Catalog Price Rule","Regula pret de catalog"
-"Catalog Price Rules","Reguli pret de catalog"
-"Category","Categorie"
-"Comments History","Istoric comentarii"
-"Conditions","Conditii"
-"Conditions (leave blank for all products)","Conditii (ramane gol pentru toate produsele)"
-"Conditions Combination","Combinatie conditii"
-"Credit Memos","Rambursari"
-"Customer Groups","Grupuri de clienti"
-"Customer is new buyer: %s","Clientul este cumparator nou: %s"
-"Customer registered: %s","Client inregistrat: %s"
-"Date Expire","Data expirarii"
-"Date From","De la data"
-"Date Start","Data de incepere"
-"Date To","Pina la data"
-"Delete Rule","Sterge regula"
-"Description","Descriere"
-"Description: %s","Descriere: %s"
-"Edit Rule","Modifica regula"
-"Edit Rule '%s'","Modifica regula '%s'"
-"Expire at: %s","Expira la: %s"
-"From Date","De la data"
-"General Information","Informatii generale"
-"Gift Messages","Mesaje pentru cadouri"
+"Catalog Price Rule",Regulă Preț de Catalog
+"Catalog Price Rules",Reguli Preț de Catalog
+"Category",Categorie
+"Conditions",Condiții
+"Conditions (leave blank for all products)",Condiții (rămâne gol pentru toate produsele)
+"Conditions Combination",Combinație Condiții
+"Customer Groups",Grupuri Clienți
+"Date Expire",Dată Expirare
+"Date From",De la Data
+"Date Start",Dată Începere
+"Date To",Până la Data
+"Description",Descriere
+"Discount Amount",Sumă Reducere
+"Edit Rule",Modificare Regulă
+"Edit Rule '%s'",Modificare Regula '%s'
+"Enable Discount to Subproducts",Activare Reducere pentru Subproduse
+"Expiration Date",Dată Expirare
+"From Date",De la Data
+"General Information",Informații Generale
 "ID","ID"
-"Inactive","Inactiv"
-"Invoices","Facturi"
-"NOT LOGGED IN","ne-logat"
-"Name: %s","Nume: %s"
-"New Rule","Regula noua"
-"No","Nu"
-"Options","Optiuni"
-"Order Credit Memos","Stornari"
-"Order Gift Messages","Mesaje pentru cadouri"
-"Order History","Istoric comenzi"
-"Order Invoices","Confirmari facturare"
-"Order Shipments","Livrari"
-"Priority","Prioritate"
-"Product Attribute","Atribut produs"
-"Promotions","Promotii"
-"Rule Information","Informatii regula"
-"Rule Name","Nume regula"
-"Rule was successfully deleted","Regula salvata."
-"Rule was successfully saved","Regula salvata."
-"Rules were successfully applied","Regulile au fost aplicate."
-"Save Rule","Salveaza regula"
-"Save and Apply","Salveaza si aplica"
-"Shipments","Livrari"
-"Start at: %s","Porneste la: %s"
-"Status","Status"
-"Stop further rules processing","Opreste procesarea altor reguli"
-"The page you are trying to save no longer exists","Nu mai exista pagina pe care doriti sa o salvati."
-"There are rules that have been changed but not applied. Please, click Apply Rules in order to see immediate effect in catalog.","There are rules that have been changed but not applied. Please, click Apply Rules in order to see immediate effect in catalog."
-"This rule no longer exists","Nu mai exista regula"
-"To Date","Pina la data"
-"Unable to apply rules","Imposibil de aplicat regulile"
-"Unable to find a page to delete","Nu s-a gasit pagina pe care vreti sa o stergeti"
-"Update product's %s %s: %s","Actualizeaza - %s %s: %s"
-"Websites","Site-uri"
-"Yes","Da"
+"Inactive",Inactiv
+"New Rule",Regulă Nouă
+"No",Nu
+"Options",Opțiuni
+"Priority",Prioritate
+"Product Attribute",Atribut Produs
+"Promotions",Promoții
+"Rule Information",Informații Regulă
+"Rule Name",Nume Regulă
+"Save and Apply",Salvare și Aplicare
+"Save and Continue Edit",Salvare și Continuare Editare
+"Start Date",Dată Începere
+"Status",Stare
+"Stop Further Rules Processing",Oprire Procesare Alte Reguli
+"The rule has been deleted.",Regula a fost ștearsă.
+"The rule has been saved.",Regula a fost salvată.
+"The rules have been applied.",Regulile au fost aplicate.
+"There are rules that have been changed but were not applied. Only users with exclusive access can apply rules.",Există reguli care s-au schimbat însă nu au fost aplicate. Numai utilizatorii cu acces exclusiv pot aplica reguli
+"There are rules that have been changed but were not applied. Please, click Apply Rules in order to see immediate effect in the catalog.",Există reguli care s-au schimbat dar nu au fost aplicate. Faceți click pe Aplicare Reguli pentru a vedea imediat efectul în catalog.
+"This rule no longer exists.",Această regulă nu mai există.
+"To Date",Până la Data
+"To Fixed Amount",Până la Sumă Fixă
+"To Percentage of the Original Price",Până la Procent din Prețul Original
+"Type",Tip
+"Unable to apply rules.",Imposibil de aplicat reguli.
+"Unable to find a rule to delete.",Imposibil de găsit o regulă de șters.
+"Update Prices Using the Following Information",Actualizare Prețuri Utilizând Următoarele Informații
+"Update product's %s %s: %s",Actualizare pentru produs %s %s: %s
+"Website","Website"
+"Websites",Site-uri
+"Wrong rule specified.",Regulă greșită specificată.
+"Yes",Da

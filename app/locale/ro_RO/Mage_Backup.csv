@@ -1,20 +1,55 @@
-"Action","Actiune"
-"All types","Toate tipurile"
-"Backup file ""%s"" can't read or write","Backup file ""%s"" can't read or write"
-"Backup file ""%s"" doesn't exist","Backup file ""%s"" doesn't exist"
-"Backup file doesn't exist","Backup file doesn't exist"
-"Backup file handler don't specify","Backup file handler don't specify"
-"Backup file path don't specify","Backup file path don't specify"
-"Backups","Backups"
-"Cannot read backup file","Cannot read backup file"
-"Create Backup","Creaza Backup"
-"DB","DB"
-"Database was successfuly backed up.","Database was successfuly backed up."
-"Download","Download"
-"Error write to Backup file ""%s""","Error write to Backup file ""%s"""
-"File compressed with Zlib, but this extension is not installed on server","File compressed with Zlib, but this extension is not installed on server"
-"Size, byte","Size, byte"
-"Time","Time"
-"Type","Type"
-"Unable to create backup. Please, try again later.","Unable to create backup. Please, try again later."
-"Wrong order of creation for new backup","Wrong order of creation for new backup"
+"Action",Acțiune
+"An error occurred while creating the backup.",Eroare la crearea back-up-ului.
+"An error occurred while writing to the backup file ""%s"".",Eroare la scrierea în fișierul de back-up "%s".
+"Are you sure you want to delete the selected backup(s)?",Sunteți sigur că doriți să ștergeți back-up-ul(urile) selectat(e)?
+"Backup Type",Tip Back-up
+"Backup file ""%s"" cannot be read from or written to.",Fișierul de back-up "%s" nu poate fi citit sau scris.
+"Backup file ""%s"" does not exist.",Fișierul de back-up "%s" nu există.
+"Backup file does not exist.",Fișierul de back-up nu există.
+"Backup file handler was unspecified.",Handlerul pentru fișiere back-up nu a fost specificat.
+"Backup file not found",Fișier back-up ne-găsit
+"Backup file path was not specified.",Cale fișier back-up nespecificată.
+"Backups",Back-up-uri
+"Cannot read backup file.",Nu se poate citi fișierul back-up.
+"Create Backup",Creare Back-up
+"Database",Bază de date
+"Database Backup",Back-up Bază de Date
+"Database and Media",Baza de date și Media
+"Database and Media Backup",Back-up Bază de Date și Media
+"Database was successfuly backed up.",Back-up la baza de date făcut cu succes.
+"Download",Descărcare
+"Enable Scheduled Backup",Activare Back-up Programat
+"Failed to connect to FTP",Conectare la FTP eșuată
+"Failed to delete one or several backups.",Ștergerea unui sau mai multor back-up-uri a eșuat.
+"Failed to rollback",Inversare eșuată
+"Failed to validate FTP",Validare FTP eșuată
+"Frequency",Frecvență
+"Invalid Password.",Parolă Invalidă.
+"Maintenance Mode",Mod Mentenanță
+"Name",Nume
+"Not enough free space to create backup.",Nu există spațiu suficient pentru a crea back-up-ul.
+"Not enough permissions to create backup.",Nu există permisiuni suficiente pentru a crea back-up-ul.
+"Not enough permissions to perform rollback",Nu există permisiuni suficiente pentru a rula inversarea
+"Please either unselect the ""Put store on the maintenance mode"" checkbox or update your permissions to proceed with the backup.""",Vă rugăm deselectați caseta "Plasare magazin pe mod mentenanță sau actualizați-vă permisiunile pentru a continua cu back-up-ul."
+"Please either unselect the ""Put store on the maintenance mode"" checkbox or update your permissions to proceed with the rollback.""",Vă rugăm deselectați caseta "Plasare magazin pe mod mentenanță sau actualizați-vă permisiunile pentru a continua cu inversarea."
+"Put store on the maintenance mode while backup's creation",Plasare magazin pe mod mentenanță pe parcursul creării back-up-ului
+"Rollback",Restaurare
+"Scheduled Backup Settings",Setări Back-up Programat
+"Size, Bytes","Mărime, Bytes"
+"Start Time",Timp Pornire
+"System",Sistem
+"System (excluding Media)",Sistem (fără Media)
+"System Backup",Back-up Sistem
+"System couldn't put store on the maintenance mode",Sistemul nu a putut plasa magazinul pe mod mentenanță
+"The database and media backup has been created.",Back-up-ul bazei de date și media a fost creat.
+"The database backup has been created.",Back-up-ul bazei de date a fost creat.
+"The file was compressed with Zlib, but this extension is not installed on server.","Fișierul a fost comprimat cu Zlib, însă această extensie nu este instalată pe server."
+"The selected backup(s) has been deleted.",Back-up-urile selectate au fost șterse.
+"The system (excluding Media) backup has been created.",Back-up-ul de sistem (cu excepția Media) a fost creat.
+"The system backup has been created.",Back-up-ul de sistem a fost creat.
+"Time",Timp
+"Type",Tip
+"Unable to create backup. Please, try again later.",Imposibil de creat back-up. Încercați mai târziu.
+"Unable to save the cron expression.",Nu se poate salva expresia cron.
+"Wrong order of creation for new backup.",Ordine creare back-up nou greșită.
+"You do not have sufficient permissions to enable Maintenance Mode during this operation.",Nu aveți suficiente permisiuni pentru a activa Modul Mentenanță în timpul acestei operațiuni.

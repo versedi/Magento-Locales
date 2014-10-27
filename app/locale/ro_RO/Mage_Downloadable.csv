@@ -1,68 +1,91 @@
-"Add New Row","Add New Row"
-"An error occurred while saving the file(s).","An error occurred while saving the file(s)."
-"Availability: In stock.","Availability: In stock."
-"Availability: Out of stock.","Availability: Out of stock."
-"Back","Back"
-"Can't connect to remote host, error: %s","Can't connect to remote host, error: %s"
-"Canceled","Canceled"
-"Date","Date"
-"Default Link Title","Default Link Title"
-"Default Maximum Number of Downloads","Default Maximum Number of Downloads"
-"Default Sample Title","Default Sample Title"
-"Disable Guest Checkout if cart contains downloadable items","Disable Guest Checkout if cart contains downloadable items"
-"Downloadable Information","Downloadable Information"
-"Downloadable Product","Downloadable Product"
-"Downloadable Product Options","Downloadable Product Options"
-"Downloadable product Section","Downloadable product Section"
-"Excl. Tax","Excl. Tax"
-"File","File"
-"File does not exists","File does not exists"
-"From:","From:"
-"Gift Message","Gift Message"
-"Go to <a href=""%s"">My Downloadable Products</a>","Go to <a href=""%s"">My Downloadable Products</a>"
-"Guest checkout will only work with shareable","Guest checkout will only work with shareable"
-"Incl. Tax","Incl. Tax"
-"Invalid download URL host","Invalid download URL host"
-"Invalid download URL scheme","Invalid download URL scheme"
-"Invalid download link type","Invalid download link type"
-"Invoiced","Invoiced"
-"Link has expired.","Link has expired."
-"Link is not available.","Link is not available."
-"Links can be purchased separately","Links can be purchased separately"
-"Max. Downloads","Max. Downloads"
-"Message:","Message:"
-"My Downloadable Products","My Downloadable Products"
-"Open Links in New Window","Open Links in New Window"
-"Order #","Order #"
-"Order Item Status to enable Downloads","Order Item Status to enable Downloads"
-"Ordered","Ordered"
-"Pending","Pending"
-"Please log in to download your product.","Please log in to download your product."
-"Please set resource file and link type","Please set resource file and link type"
-"Please specify product link(s).","Please specify product link(s)."
-"Price","Price"
-"Refunded","Refunded"
-"Remaining Downloads","Remaining Downloads"
-"Remove item","Remove item"
-"Requested link doesn't exist.","Requested link doesn't exist."
-"Sample","Sample"
-"Shareable","Shareable"
-"Shipped","Shipped"
-"Sorry, the was an error getting requested content. Please contact store owner.","Sorry, the was an error getting requested content. Please contact store owner."
-"Sorry, there was an error getting requested content","Sorry, there was an error getting requested content"
-"Sorry, there was an error getting requested content. Please contact store owner.","Sorry, there was an error getting requested content. Please contact store owner."
-"Sort Order","Sort Order"
-"Start Download","Start Download"
-"Status","Status"
-"Title","Title"
-"To:","To:"
+"Add",Adăugare
+"Add New Row",Adăugare Rând Nou
+"Add links and samples to downloadable product",Adăugare legături și mostre la produs descărcabil
+"Alphanumeric, dash and underscore characters are recommended for filenames. Improper characters are replaced with \'_\'.","Caractere alfanumerice, liniuțe și underscore sunt recomandate pentru numele de fișiere. Caracterele nepotrivite sunt înlocuite cu \'_\'."
+"An error occurred while getting the requested content.",Eroare la obținerea conținutului cerut.
+"An error occurred while getting the requested content. Please contact the store owner.",Eroare la obținerea conținutului cerut. Contactați proprietarul magazinului.
+"An error occurred while saving the file(s).",Eroare la salvarea fișierului(fișierelor).
+"Availability:","Availability:"
+"Back",Înapoi
+"Canceled",Anulat
+"Cannot connect to remote host, error: %s.","Nu se poate conecta la gazda remote, eroare: %s."
+"Catalog Product View (Downloadable)",Vizualizare Produs Catalog (Descărcabil)
+"Category API",API Categorie
+"Customer My Account Downloadable Items",Articole Descărcabile Contul Meu Client
+"Date",Data
+"Default Link Title",Titlu Implicit Legătură
+"Default Maximum Number of Downloads",Număr Maxim Implicit de Descărcări
+"Default Sample Title",Titlu Implicit Mostră
+"Delete",Ștergere
+"Disable Guest Checkout if Cart Contains Downloadable Items",Dezactivare Finalizare Comandă Vizitator dacă Coșul Conține Articole Descărcabile
+"Downloadable Information",Informație Descărcabilă
+"Downloadable Product",Produs Descărcabil
+"Downloadable Product Options",Opțiuni Produs Descărcabil
+"Downloadable Product Section",Secțiune Produse Descărcabile
+"Edit",Editare
+"Edit item parameters",Editare parametrii articol
+"Excl. Tax",Fără Taxe
+"File",Fișier
+"From:",De la:
+"Gift Message",Mesaj pentru Cadouri
+"Go to <a href=""%s"">My Downloadable Products</a>",Mergeți la <a href="%s">Produsele mele Descărcabile</a>
+"Guest checkout will only work with shareable.",Finalizarea comenzii pentru vizitatori va funcționa doar pentru produse partajabile.
+"In stock",În stoc
+"Incl. Tax",Cu Taxe
+"Invalid download URL host.",Gazdă URL descărcare invalidă.
+"Invalid download URL scheme.",Schemă URL descărcare invalidă.
+"Invalid download link type.",Tip legătură descărcare invalidă.
+"Invoiced",Facturat
+"Links can be purchased separately",Legătura poate fi achiziționată separat
+"List",Listă
+"Max. Downloads",Nr. max. Descărcări
+"Message:",Mesaj:
+"Move",Mutare
+"My Downloadable Products",Produsele Mele Descărcabile
+"Open Links in New Window",Deschidere Legături în Fereastră Nouă
+"Order #",Comanda #
+"Order Item Status to Enable Downloads",Status Articol Comandă pentru Activarea Descărcării
+"Order id cannot be null",Id-ul comenzii nu poate fi nul
+"Order item id cannot be null",Id-ul articolului de comandă nu poate fi nul
+"Ordered",Comandat
+"Out of stock",Stoc epuizat
+"Pending",În așteptare
+"Please log in to download your product or purchase <a href=""%s"">%s</a>.",Logați-vă pentru a vă descărca produsul sau achiziția <a href="%s">%s</a>.
+"Please log in to download your product.",Logați-vă pentru a descărca produsul.
+"Please set resource file and link type.",Vă rugăm setați fișierul resursă și tipul legăturii.
+"Please specify product link(s).",Specificați legătura(ile) produsului.
+"Price",Preț
+"Product downloadable links",Legături produs descărcabil
+"Qty",Cant
+"Refunded",Rambursat
+"Remaining Downloads",Descărcări Rămase
+"Remove",Eliminare
+"Remove Item",Eliminare Articol
+"Remove links and samples from downloadable product",Eliminare legături și mostre de la produsul descărcabil
+"Requested link does not exist.",Legătura solicitată nu există.
+"Retrieve links and samples list from downloadable product",Recuperare listă legături și mostre pentru produsul descărcabil
+"Sample",Mostră
+"See price before order confirmation.",Vizualizare preț înainte de confirmarea comenzii.
+"Shareable",Partajabil
+"Shipped",Expediat
+"Sorry, there was an error getting requested content. Please contact the store owner.","Ne pare rău, a existat o eroare la obținerea conținutului solicitat. Vă rugăm contactați proprietarul magazinului."
+"Sort Order",Sortare Comenzi
+"Start Download",Pornire Descărcare
+"Status",Stare
+"The file does not exist.",Fișierul nu există.
+"The link has expired.",Legătura a expirat.
+"The link is not available.",Legătura nu este disponibilă.
+"There are files that were selected but not uploaded yet. Please upload or remove them first",Există fișiere care au fost selectate dar nu au fost încărcate încă. Vă rugăm întâi să le încărcați sau sa le eliminați
+"Title",Titlu
+"To:",Pentru:
 "U","U"
-"Unlimited","Unlimited"
-"View Order","View Order"
-"You have not purchased any downloadable products yet.","You have not purchased any downloadable products yet."
-"attachment","attachment"
-"download","download"
-"inline","inline"
-"sample","sample"
-"My Downloadable Products","My Downloadable Products"
-"You have not purchased any downloadable products yet.","You have not purchased any downloadable products yet."
+"Unlimited",Nelimitat
+"Use Content-Disposition",Utilizare Dispunere-Conținut
+"Use Default Value",Utilizare Valoare Implicită
+"View Order",Vizualizare Comandă
+"What's this?",Ce este asta?
+"You have not purchased any downloadable products yet.",Nu ați achiziționat niciun produs descărcabil încă.
+"attachment",atașament
+"download",descărcare
+"inline",în linie
+"sample",mostră

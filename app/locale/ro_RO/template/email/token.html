@@ -1,0 +1,9 @@
+<!--@subject Bine ați venit, {{var name}} @-->
+<!--@vars
+{"htmlescape var=$userName":"User name",
+"var $applicationName":"Application name",
+"var $status":"Token new status"}
+@-->
+
+Bună, {{htmlescape var=$userName}}<br /><br />
+Autorizarea dvs de a <b>{{htmlescape var=$applicationName}}</b> a fost schimbată cu <b>{{htmlescape var=$status}}</b> de către administratorii website-ului.<br /><br />

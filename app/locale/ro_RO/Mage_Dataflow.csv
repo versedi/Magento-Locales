@@ -1,30 +1,32 @@
-"<a href=""%s"" target=""_blank"">Link</a>","<a href=""%s"" target=""_blank"">Link</a>"
-"Access denied to destination folder ""%s""","Access denied to destination folder ""%s"""
-"Could not load file: ""%s""","Could not load file: ""%s"""
-"Could not save file: %s","Could not save file: %s"
-"Declared adapter %s not found","Declared adapter %s not found"
-"Destination folder ""%s"" does not exist or not access to create","Destination folder ""%s"" does not exist or not access to create"
-"Destination folder ""%s"" is not a directory","Destination folder ""%s"" is not a directory"
-"Destination folder ""%s"" is not a writeable","Destination folder ""%s"" is not a writeable"
-"Done","Done"
-"Dry run set, stopping execution","Dry run set, stopping execution"
-"ETA: %s","ETA: %s"
-"Error field mapping! Fields list for mapping is not defined","Error field mapping! Fields list for mapping is not defined"
-"Error occured during file opening: ""%s""","Error occured during file opening: ""%s"""
-"File ""%s"" don't exist","File ""%s"" don't exist"
-"Found %d rows","Found %d rows"
-"Less than a minute","Mai putin de 1 minut"
-"Loaded successfully: ""%s""","S-a incarcat cu succes: ""%s"""
-"Memory Used: %s","Memory Used: %s"
-"Method ""%s"" not defined in adapter %s","Method ""%s"" not defined in adapter %s"
-"Please declare ""adapter"" and ""method"" node first","Please declare ""adapter"" and ""method"" node first"
-"Processed records: %s","Processed records: %s"
-"Saved successfully: ""%s"" [%d byte(s)]","Saved successfully: ""%s"" [%d byte(s)]"
-"Sheet 1","Sheet 1"
-"Skip undefined row","Skip undefined row"
-"Starting %s :: %s","Starting %s :: %s"
-"Total records: %s","Total records: %s"
-"hour","hour"
-"hours","hours"
-"minute","minute"
-"minutes","minutes"
+"<a href=""%s"" target=""_blank"">Link</a>",<a href="%s" target="_blank">Legătură</a>
+"Actions XML is not valid.",XML-ul de acțiuni nu e valid.
+"An error occurred while opening file: ""%s"".",Eroare la deschiderea fișierului: "%s".
+"Could not load file: ""%s"".",Nu s-a putut încărca fișierul: "%s".
+"Could not save file: %s.",Nu s-a putut salva fișierul: %s.
+"Declared adapter %s was not found.",Adaptorul declarat %s nu a fost găsit.
+"Destination folder ""%s"" is not a directory.",Directorul destinație "%s" nu e defapt director.
+"Destination folder ""%s"" is not writable.",Directorul destinație "%s" nu e inscriptibil.
+"Done",Terminat
+"Dry run set, stopping execution.","Testare setată, oprire execuție."
+"ETA: %s",Timp rămas estimat: %s
+"Error in field mapping: field list for mapping is not defined.",Eroare la maparea câmpurilor: lista de câmpuri pentru mapare nu e definită.
+"File ""%s"" does not exist.",Fișierul "%s" nu există.
+"Found %d rows.",Găsite %d rânduri.
+"Less than a minute",Mai puțin de 1 minut
+"Loaded successfully: ""%s"".",Încărcat cu succes: "%s".
+"Memory Used: %s",Memorie Utilizată: %s
+"Method ""%s"" not defined in adapter %s.",Metoda "%s" nedefinită în adaptorul %s.
+"Method ""%s"" was not defined in adapter %s.",Metoda "%s" nu a fost definită în adaptorul %s.
+"Please declare ""adapter"" and ""method"" nodes first.",Declarați nodurile "adaptor" și "metodă" mai întâi.
+"Processed records: %s",Înregistrări procesate: %s
+"Profile with the same name already exists.",Un profil cu același nume există deja.
+"Saved successfully: ""%s"" [%d byte(s)].",Salvat cu succes: "%s" [%d byte(s)].
+"Sheet 1",Foaie 1
+"Skip undefined row.",Sărire rând nedefinit.
+"Starting %s :: %s",Începere %s :: %s
+"The destination folder ""%s"" does not exist or there is no access to create it.",Directorul destinație "%s" nu există sau nu există acces pentru a-l crea.
+"Total records: %s",Total înregistrări: %s
+"hour",oră
+"hours",ore
+"minute",minut
+"minutes",minute

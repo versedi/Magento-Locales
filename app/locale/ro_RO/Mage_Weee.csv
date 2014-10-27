@@ -1,18 +1,25 @@
-"All Websites","All Websites"
-"Apply Percent Discounts To FPT","Apply Percent Discounts To FPT"
-"Apply Tax To FPT","Apply Tax To FPT"
-"Display Prices In Emails","Display Prices In Emails"
-"Display Prices In Product Lists","Display Prices In Product Lists"
-"Display Prices In Sales Modules","Display Prices In Sales Modules"
-"Display Prices On Product View Page","Display Prices On Product View Page"
-"Enable FPT","Enable FPT"
-"Excluding FPT","Excluding FPT"
-"Excluding FPT, FPT description, final price","Excluding FPT, FPT description, final price"
-"Fixed Product Tax","Fixed Product Tax"
-"Fixed Product Taxes","Fixed Product Taxes"
-"Include FPT In Subtotal","Include FPT In Subtotal"
-"Including FPT and FPT description [excl. FPT VAT]","Including FPT and FPT description [excl. FPT VAT]"
-"Including FPT and FPT description [incl. FPT VAT]","Including FPT and FPT description [incl. FPT VAT]"
-"Including FPT only","Including FPT only"
+"All Websites",Toate Site-urile
+"Apply Discounts To FPT",Aplicare Reduceri La TFP
+"Apply Tax To FPT",Aplicare Taxă la TFP
+"Display Prices In Emails",Afișare Prețuri în E-mail-uri
+"Display Prices In Product Lists",Afișare Prețuri în Liste Produs
+"Display Prices In Sales Modules",Afișare Prețuri în Module Vânzări
+"Display Prices On Product View Page",Afișare Prețuri pe Pagina Vizualizare Produs
+"Enable FPT",Activare TFP
+"Excluding FPT",Excludere TFP
+"Excluding FPT, FPT description, final price","Excludere TFP, descriere TFP, preț final"
+"FPT Tax Configuration",Configurație Taxă TFP
+"Fixed Product Tax",Taxă Fixă Produs
+"Fixed Product Taxes",Taxe Fixe Produs
+"Include FPT In Subtotal",Includere TFP în Subtotal
+"Including FPT and FPT description",Includere TFP și descriere TFP
+"Including FPT and FPT description [incl. FPT VAT]",Includere TFP și descriere TFP [incl. TVA TFP]
+"Including FPT only",Includere numai TFP
+"Loaded and Displayed with Tax",Încărcat și Afișat cu Taxe
+"Not Taxed",Ne-Taxat
+"Taxed",Taxat
 "Total","Total"
-"Total incl. tax","Total incl. tax"
+"Total Incl. Tax",Total Cu Taxe
+"Total excl. tax",Total fără taxe
+"Total incl. tax",Total cu taxe
+"Total:","Total:"

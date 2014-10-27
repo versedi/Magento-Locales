@@ -1,47 +1,46 @@
-"Action","Action"
-"Add Sitemap","Adauga harta site"
-"Always","intotdeauna"
-"CMS Pages Options","Optiuni pagini CMS"
-"Categories Options","Optiuni categorii"
-"Daily","Zilnic"
-"Edit Sitemap","Modifica harta site"
-"Enabled","Activat"
-"Error Email Recipient","Destinatar email erori"
-"Error Email Sender","Expeditor email erori"
-"Error Email Template","Template email erori"
-"File ""%s"" cannot be saved. Please, make sure the directory ""%s"" is writeable by web server.","File ""%s"" cannot be saved. Please, make sure the directory ""%s"" is writeable by web server."
-"Filename","Nume fisier"
-"Frequency","Frecventa"
-"Generate","Generate"
-"Generation Settings","Setari de generare"
-"Google Sitemap","Google Sitemap"
-"Google Sitemap Section","Google Sitemap Section"
-"Hourly","la ora"
+"Action",Acțiune
+"Add Sitemap",Adăugare Hartă Site
+"Always",Întotdeauna
+"CMS Pages Options",Opțiuni Pagini CMS
+"Categories Options",Opțiuni Categorii
+"Daily",Zilnic
+"Edit Sitemap",Modificare Hartă Site
+"Enabled",Activat
+"Error Email Recipient",Eroare Destinatar E-mail
+"Error Email Sender",Eroare Expeditor E-mail
+"Error Email Template",Eroare Șablon E-mail
+"File ""%s"" cannot be saved. Please, make sure the directory ""%s"" is writeable by web server.",Fișierul "%s" nu poate fi salvat. Asigurați-vă că directorul "%s" poate fi scris de serverul web.
+"Filename",Nume Fișier
+"Frequency",Frecvența
+"Generate",Generare
+"Generation Settings",Setări de Generare
+"Google Sitemap",Hartă Site Google
+"Hourly",la ora
 "ID","ID"
-"Last Time Generated","Ultima generare"
-"Link for Google","Link pentru Google"
-"Monthly","Lunar"
-"Never","Niciodata"
-"New Sitemap","Harta site noua"
-"Path","Cale"
-"Please create the specified folder ""%s"" before saving the sitemap.","Please create the specified folder ""%s"" before saving the sitemap."
-"Please define correct path","Please define correct path"
-"Please make sure that ""%s"" is writable by web-server.","Please make sure that ""%s"" is writable by web-server."
-"Please use only letters (a-z or A-Z), numbers (0-9) or underscore (_) in the filename. No spaces or other characters are allowed.","Please use only letters (a-z or A-Z), numbers (0-9) or underscore (_) in the filename. No spaces or other characters are allowed."
-"Priority","Prioritate"
-"Priority must be between 0 and 1","Prioritatea trebuie sa fie intre 0 si 1"
-"Products Options","Optiuni produse"
-"Sitemap","Harta site"
-"Sitemap ""%s"" has been successfully generated","Sitemap ""%s"" has been successfully generated"
-"Sitemap generate Warnings","Alerte generare harta site"
-"Sitemap was successfully deleted","Harta site stearsa"
-"Sitemap was successfully saved","Harta site salvata"
-"Start Time","Incepe la"
-"Store View","Vitrina"
-"This sitemap no longer exists","Harta site-ului nu mai exista"
-"Unable to find a sitemap to delete","Nu s-a gasit nimic de sters"
-"Unable to find a sitemap to generate","Unable to find a sitemap to generate"
-"Unable to generate a sitemap","Unable to generate a sitemap"
-"Valid values range from 0.0 to 1.0","Valid values range from 0.0 to 1.0"
-"Weekly","Saptamanal"
-"Yearly","Anual"
+"Last Time Generated",Ultima Generare
+"Link for Google",Legătură pentru Google
+"Monthly",Lunar
+"Never",Niciodată
+"New Sitemap",Hartă Site Nouă
+"Path",Cale
+"Please create the specified folder ""%s"" before saving the sitemap.",Creați directorul specificat "%s" înainte de a salva harta site-ului.
+"Please define correct path",Definiți calea corectă
+"Please make sure that ""%s"" is writable by web-server.",Asigurați-vă că "%s" poate fi scris de serverul web.
+"Please use only letters (a-z or A-Z), numbers (0-9) or underscore (_) in the filename. No spaces or other characters are allowed.","Folosiți doar litere (a-z sau A-Z), numere (0-9) sau underscore (_) în numele fișierului. Spațiile sau alte caractere nu sunt permise."
+"Priority",Prioritate
+"Products Options",Opțiuni Produse
+"Sitemap",Hartă Site
+"Sitemap generate Warnings",Alerte generare hartă site
+"Start Time",Începe La
+"Store View",Vitrina
+"The priority must be between 0 and 1.",Prioritatea trebuie să fie între 0 și 1.
+"The sitemap ""%s"" has been generated.",Harta site "%s" a fost generată.
+"The sitemap has been deleted.",Harta site a fost ștearsă.
+"The sitemap has been saved.",Harta site a fost salvată.
+"This sitemap no longer exists.",Această hartă site nu mai există.
+"Unable to find a sitemap to delete.",Imposibil de găsit o hartă site de șters.
+"Unable to find a sitemap to generate.",Imposibil de găsit o hartă site de generat.
+"Unable to generate the sitemap.",Imposibil de generat harta site.
+"Valid values range: from 0.0 to 1.0.",Interval valori valide: de la 0.0 la 1.0.
+"Weekly",Săptămânal
+"Yearly",Anual

@@ -1,137 +1,137 @@
 " Copy"," Copie"
-"Action","Actiune"
-"Add New Template","Adauga template nou"
-"Add to Queue","Adauga la Queue"
-"Are you sure that you want to delete this template?","Esti sigur ca vrei sa stergi template-ul?"
-"Are you sure that you want to strip all tags?","Are you sure that you want to strip all tags?"
-"Back","Inapoi"
-"Cancel","Anuleaza"
-"Cancelled","Anulat"
-"Cannot delete subscriber","Nu se poate sterge abonatul"
-"Cannot delete template","Nu se poate sterge template"
-"Cannot mark as received subscriber","Cannot mark as received subscriber"
-"Cannot save your subscription: %s","Nu s-a putut salva abonarea ta: %s"
-"Confirmation Email Sender","Expeditor email de confirmare"
-"Confirmation Email Template","Template email de confirmare"
-"Confirmation request has been sent","Cererea de confirmare a fost trimisa"
-"Convert to Plain Text","Schimba in Plain Text"
-"Create Newsletter Template","Creaza template pt newsletter"
-"Customer","Client"
-"Customer Firstname","Prenume client"
-"Customer Lastname","Nume client"
-"Date Added","Adaugat la data"
-"Date Updated","Actualizat la data"
-"Delete Selected Problems","Sterge problemele selectate"
-"Delete Template","Sterge Template"
-"Do you really want to cancel the queue?","Sigur anulezi lista de queue?"
-"Duplicate of template code","Cod template duplicat"
-"Edit Newsletter","Modifica newsletter"
-"Edit Newsletter Template","Modifica template newsletter"
-"Edit Queue","Modifica queue"
-"Edit Template","Modifica template"
-"Email","Email"
-"Enter your email address","Introduceti adresa de email..."
-"Error Code","Cod eroare"
-"Error Text","Text eroare"
-"Form was filled incorrectly","Formular completat gresit"
-"Guest","Guest"
+"Action",Acțiune
+"Add New Template",Adăugare Șablon Nou
+"Add to Queue",Adăugare la Coadă
+"Allow Guest Subscription",Permitere Abonare Vizitatori
+"An error occurred while saving your subscription.",Eroare la salvarea abonării dvs.
+"Are you sure that you want to delete this template?",Sunteți sigur că vreți să stergeți șablonul?
+"Are you sure that you want to strip all tags?",Sunteți sigur că vreți să scoateți toate etichetele?
+"Back",Înapoi
+"Cancel",Anulare
+"Cancelled",Anulat
+"Cannot mark as received subscriber.",Nu se poate nota ca abonat recepționat.
+"Confirmation Email Sender",Expeditor E-mail Confirmare
+"Confirmation Email Template",Șablon E-mail Confirmare
+"Confirmation request has been sent.",Cererea de confirmare a fost trimisă.
+"Convert to Plain Text",Schimbare în Text Simplu
+"Create Newsletter Template",Creare Șablon Buletin
+"Customer",Client
+"Customer First Name",Prenume Client
+"Customer Last Name",Nume Familie Client
+"Customer My Account Newsletter Subscriptions",Abonamente Buletine Contul Meu Client
+"Date Added",Adăugat la Data
+"Date Updated",Actualizat la Data
+"Delete",Ștergere
+"Delete Selected Problems",Ștergere Probleme Selectate
+"Delete Template",Stergere Șablon
+"Do you really want to cancel the queue?",Sunteți sigur că doriți să anulați coada?
+"Duplicate template code.",Duplicat cod șablon.
+"Edit Newsletter",Modificare Buletin
+"Edit Newsletter Template",Modificare Șablon Buletin
+"Edit Queue",Modificare Coadă
+"Edit Template",Modificare Șablon
+"Email",E-mail
+"Enter your email address",Introduceți-vă adresa de e-mail...
+"Error Code",Cod Eroare
+"Error Text",Text Eroare
+"Follow this link to unsubscribe <!-- This tag is for unsubscribe link  --><a href=""{{var subscriber.getUnsubscriptionLink()}}"">{{var subscriber.getUnsubscriptionLink()}}</a>",Urmăriți această legătură pentru a va dezabona <!-- Această etichetă e pentru legătura de dezabonare  --><a href="{{var subscriber.getUnsubscriptionLink()}}">{{var subscriber.getUnsubscriptionLink()}}</a>
+"Guest",Vizitator
 "ID","ID"
-"Invalid queue selected","Queue selectat este nevalid "
-"Invalid subscriber ID","ID abonat nevalid"
-"Invalid subscription ID","ID abonare nevalid"
-"Invalid subscription confirmation code","Cod de confirmare abonare nevalid"
-"Message","Mesaj"
-"Need to Confirm","Necesita confirmare"
-"New Newsletter Template","Template nou de newsletter"
-"New Template","Template nou"
-"Newsletter","Newsletter"
-"Newsletter Message Preview","Previzualizare mesaj newsletter"
-"Newsletter Problem Reports","Rapoarte probleme newsletter"
-"Newsletter Queue","Newsletter Queue"
-"Newsletter Section","Newsletter Section"
-"Newsletter Sign-up","Newsletter Sign-up"
-"Newsletter Subscribers","Abonati"
-"Newsletter Subscription","Newsletter Subscription"
-"Newsletter Subscriptions","Newsletter Subscriptions"
-"Newsletter Templates","Template-uri"
-"Newsletter subscription confirmation","Confirmarea abonarii la newsletter"
-"Newsletter subscription success","Abonare la newsletter reusita"
-"Newsletter unsubscription success","Dezabonare de la newsletter reusita"
-"No Templates Found","Nici un template"
-"No problems found","Nici o problema"
-"No subscribers selected","Nici un abonat selectat"
-"Not Sent","Netrimis"
-"Not activated","Neactivat"
-"Pause","Pauza"
-"Paused","In pauza"
-"Please enter a valid email address","Please enter a valid email address"
-"Please enter new template name","Introdu numele noului template"
-"Please select subscriber(s)","Alege abonat(i)"
-"Preview","Previzualizeaza"
-"Preview Template","Previualizeaza template"
-"Processed","Procesat"
-"Queue Date Start","Data de inceput Queue"
-"Queue Finish","Final Queue"
-"Queue Information","Informatii Queue"
-"Queue Newsletter","Queue Newsletter"
-"Queue Start","Porneste Queue"
-"Queue Subject","Subiect Queue"
-"Recipients","Destinatari"
-"Reset","Reset"
-"Resume","Resume"
-"Return Html Version","Return Html Version"
-"Save And Resume","Salveaza si continua"
-"Save As","Salveaza ca"
-"Save Newsletter","Salveaza newsletter"
-"Save Template","Salveaza template"
-"Selected problem subscribers successfully unsubscribed","Abonatii cu probleme selectati au fost dezabonati"
-"Selected problems successfully deleted","Problemele selectate au fost sterse"
-"Sender","Expeditor"
-"Sender Email","E-mail expeditor"
-"Sender Name","Nume expeditor"
-"Sending","Se trimite"
-"Sending Options","Sending Options"
-"Sent","Trimis"
-"Set Return-Path","Set Return-Path"
-"Sign me up","Sign me up"
-"Sign up for our newsletter:","Aboneaza-te la newsletter:"
+"Invalid queue selected.",Coadă selectată selectată.
+"Invalid subscription ID.",ID abonare invalid.
+"Invalid subscription confirmation code.",Cod confirmare abonare invalid.
+"Message",Mesaj
+"Need to Confirm",Necesită Confirmare
+"New Newsletter Template",Șablon Buletin Nou
+"New Template",Șablon Nou
+"Newsletter",Buletin
+"Newsletter Message Preview",Previzualizare Mesaj Buletin
+"Newsletter Problem Reports",Rapoarte Probleme Buletin
+"Newsletter Queue",Coadă Buletin
+"Newsletter Section",Secțiune Buletin
+"Newsletter Sign-up:",Abonare Buletin:
+"Newsletter Styles",Stiluri Buletin
+"Newsletter Subscribers",Abonați
+"Newsletter Subscription",Abonament Buletin
+"Newsletter Subscription Form Before",Formular Abonare Buletin Înainte
+"Newsletter Subscriptions",Abonamente Buletine
+"Newsletter Templates",Șabloane
+"Newsletter subscription confirmation",Confirmarea abonării la buletin
+"Newsletter subscription success",Abonare buletin reușită
+"Newsletter unsubscription success",Dezabonare buletin reușită
+"No Templates Found",Niciun Șablon Găsit
+"No problems found.",Nicio problemă găsită.
+"No subscribers selected.",Niciun abonat selectat.
+"Not Activated",Ne-activat
+"Not Sent",Ne-trimis
+"Pause",Pauză
+"Paused",În pauză
+"Please enter a valid email address.",Introduceți o adresă e-mail validă.
+"Please enter new template name",Introduceți numele noului șablon
+"Please refer to exeption.log",Consultați exeption.log
+"Please select subscriber(s)",Alegeți abonatul(ții)
+"Preview",Previzualizare
+"Preview Template",Previualizare șablon
+"Processed",Procesat
+"Queue Date Start",Dată Începere Coadă
+"Queue Finish",Final Coadă
+"Queue Information",Informații Coadă
+"Queue Newsletter...",Coadă Buletin...
+"Queue Start",Start Coadă
+"Queue Subject",Subiect Coadă
+"Recipients",Destinatari
+"Reset",Resetare
+"Resume",Reluare
+"Return HTML Version",Returnare Versiune HTML
+"Save As",Salvare Ca
+"Save Newsletter",Salvare Buletin
+"Save Template",Salvare Șablon
+"Save and Resume",Salvare și Continuare
+"Selected problem subscribers have been unsubscribed.",Abonații cu probleme selectați au fost dezabonați.
+"Selected problems have been deleted.",Problemele selectate au fost șterse.
+"Sender",Expeditor
+"Sender Email",E-mail Expeditor
+"Sender Name",Nume Expeditor
+"Sending",Se trimite
+"Sent",Trimis
+"Sign Up for Our Newsletter:",Abonați-vă la Buletinul Nostru:
+"Sign up for our newsletter",Abonați-vă la buletinul nostru
+"Sorry, but administrator denied subscription for guests. Please <a href=""%s"">register</a>.","Ne pare rău, însă administratorul a blocat abonarea pentru vizitatori. Vă rugăm <a href=""%s"">să vă înregistrați</a>."
 "Start","Start"
-"Status","Status"
-"Store","Magazin"
-"Store View","Vitrina"
-"Subject","Subiect"
-"Subscribe","Aboneaza-te"
-"Subscribed","Subscribed"
-"Subscriber","Abonat"
-"Subscribers","Abonati"
-"Subscribers From","Abonati de la"
-"Subscription Options","Optiuni abonare"
-"Success Email Sender","Expeditor email succes"
-"Success Email Template","Template email succes"
-"Template Content","Continut template"
-"Template Information","Informatii template"
-"Template Name","Nume template"
-"Template Subject","Subiect template"
-"Template Type","Tip template"
-"Thank you for your subscription","Iti multumim pentru abonare"
-"The subscription was successfully saved","Abonarea a fost salvata cu succes."
-"There was a problem with the subscription","Eroare. Exista o problema cu abonarea."
-"There was a problem with the subscription: %s","Exista o problema cu abonarea: %s"
-"There was a problem with the un-subscription.","Exista o problema cu dezabonarea."
-"There was an error while saving your subscription","Eroare. Exista o problema cu salvarea abonarii la newsletter."
-"Toggle Editor","Schimba editor"
-"Type","Tip"
-"Unsubscribe","Dezaboneaza"
-"Unsubscribe Selected","Dezaboneaza pe selectati"
-"Unsubscribed","Unsubscribed"
-"Unsubscription Email Sender","Expeditor mail dezabonare"
-"Unsubscription Email Template","Template mail dezabonare"
-"View Newsletter","Vezi newsletter"
-"Website","Site"
-"You have been successfully unsubscribed.","Ai fost dezabonat cu succes."
-"Your subscription was successfully confirmed","Abonarea ta a fost confirmata."
-"Sign up for our newsletter:","Sign up for our newsletter:"
-"Subscribe","Subscribe"
-"Newsletter","Newsletter"
-"Sign up for our newsletter","Sign up for our newsletter"
-"Newsletter Subscriptions","Newsletter Subscriptions"
+"Status",Stare
+"Store",Magazin
+"Store View",Vitrină
+"Subject",Subiect
+"Submit",Trimitere
+"Subscribe",Abonați-vă
+"Subscribed",Abonat
+"Subscriber",Abonat
+"Subscribers",Abonați
+"Subscribers From",Abonați De La
+"Subscription Options",Opțiuni Abonament
+"Success Email Sender",Expeditor E-mail Succes
+"Success Email Template",Șablon E-mail Succes
+"Template Content",Conținut Șablon
+"Template Information",Informații Șablon
+"Template Name",Nume Șablon
+"Template Styles",Stiluri Șablon
+"Template Subject",Subiect Șablon
+"Template Type",Tip Șablon
+"Thank you for your subscription.",Vă mulțumim pentru abonare.
+"The subscription has been removed.",Abonarea a fost eliminată.
+"The subscription has been saved.",Abonarea a fost salvată.
+"There was a problem with the subscription.",A existat o problemă cu abonarea.
+"There was a problem with the subscription: %s",Există o problemă cu abonarea: %s
+"There was a problem with the un-subscription.",Există o problemă cu dezabonarea.
+"This email address is already assigned to another user.",Această adresă de e-mail este deja atribuită unui alt utilizator.
+"Type",Tip
+"Unconfirmed",Neconfirmat
+"Unsubscribe",Dezabonare
+"Unsubscribe Selected",Dezabonare Selectați
+"Unsubscribed",Dezabonat
+"Unsubscription Email Sender",Expeditor E-mail Dezabonare
+"Unsubscription Email Template",Șablon E-mail Dezabonare
+"View Newsletter",Vizualizare Buletin
+"Website",Site
+"You have been unsubscribed.",Ați fost dezabonat.
+"Your subscription has been confirmed.",Abonarea dvs. a fost confirmată.

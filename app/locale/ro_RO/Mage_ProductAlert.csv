@@ -1,32 +1,35 @@
-"Alert Email Sender","Expeditor emailuri alerte"
-"Alert subscription was deleted successfully","Abonarea la alerte a fost stearsa."
-"Alert subscription was saved successfully","Abonarea la alerte a fost salvata."
-"Allow alert when product comes back in stock","Accepta alerta cand reintra produsul in stoc"
-"Allow alert when product price changes","Accepta alerte cand se schimba pretul produsului"
-"Click here not to receive alerts for this product","Click aici sa nu primesti alerte pentru acest produs"
-"Error Email Recipient","Destinatar e-mail erori"
-"Error Email Sender","Expeditor e-mail erori"
-"Error Email Template","Template e-mail erori"
-"Frequency","Frecventa"
-"Not enough parameters","Parametri insuficienti"
-"Please try again later","Te rugam sa reincerci mai tarziu"
-"Price alert Email Template","Template de e-mail alerte pret"
-"Price:","Pret:"
-"Product Alerts","Alerte produs"
-"Product Alerts Run Settings","Product Alerts Run Settings"
-"Product alerts Cron error","Product alerts Cron error"
-"Product not found","Produsul nu a fost gasit."
-"Product price alert","Alerte de pret pentru produs"
-"Product stock alert","Alerte de stoc pentru produs"
-"Sign up for price alert","Aboneaza-te la alerte de pret"
-"Sign up to get notified when this product is back in stock","Aboneaza-te pentru a fi anuntat cand reintra produsul in stoc."
-"Special price:","Pret special:"
-"Start Time","Start Time"
-"Stock alert Email Template","Template de e-mail alerte stoc"
-"Unsubscribe from all price alerts","Dezaboneaza-te de la toate alertele de pret."
-"Unsubscribe from all stock alerts","Dezaboneaza-te de la toate alertele de stoc."
-"You are receiving this notification because you subscribed to receive alerts when the following products are back in stock:","Primesti acest anunt deoarece te-ai abonat sa primesti notificari cand urmatoarele produse reintra in stoc:"
-"You are receiving this notification because you subscribed to receive alerts when the prices for the following products changed:","Primesti acest anunt deoarece te-ai abonat sa primesti notificari cand urmatoarele produse isi schimba pretul:"
-"You will no longer receive price alerts for this product","Nu vei mai primi alerte de pret pentru acest produs."
-"You will no longer receive stock alerts","Nu vei mai primi alerte de stoc."
-"You will no longer receive stock alerts for this product","Nu vei mai primi alerte de stoc pentru acest produs."
+"Alert Email Sender",Expeditor E-mail-uri Alertă
+"Alert subscription has been saved.",Abonarea la alerte a fost salvată.
+"Allow Alert When Product Comes Back in Stock",Permitere Alertă la Revenirea Produsului În Stoc
+"Allow Alert When Product Price Changes",Permitere Alertă la Schimbarea Prețului Produsului
+"Click here not to receive alerts for this product",Click aici pentru a nu mai primi alerte despre acest produs
+"Error Email Recipient",Destinatar E-mai-uri Eroare
+"Error Email Sender",Expeditor E-mail-uri Eroare
+"Error Email Template",Șablon E-mail-uri Eroare
+"Frequency",Frecvența
+"Not enough parameters.",Parametrii insuficienți.
+"Price Alert Email Template",Șablon E-mail Alertă Preț
+"Price:",Preț:
+"Product Alerts",Alerte Produs
+"Product Alerts Run Settings",Setări Rulare Alerte Produs
+"Product alerts Cron error",Eroare Cron alerte produs
+"Product price alert",Alerte de preț pentru produs
+"Product stock alert",Alerte de stoc pentru produs
+"Regular Price:",Preț Obișnuit:
+"Sign up for price alert",Abonați-vă la alertă de preț
+"Sign up to get notified when this product is back in stock",Abonați-vă pentru a fi anunțat când reintră produsul în stoc.
+"Special price:",Preț special:
+"Start Time",Timp Începere
+"Stock Alert Email Template",Șablon E-mail Alertă Stoc
+"The alert subscription has been deleted.",Abonarea la alerte a fost ștearsă.
+"The alert subscription has been saved.",Abonarea la alerte a fost salvată.
+"The product is not found.",Produsul nu e găsit.
+"The product was not found.",Produsul nu a fost găsit.
+"Unable to update the alert subscription.",Nu se poate actualiza abonarea la alerte.
+"Unsubscribe from all price alerts",Dezabonați-vă de la toate alertele de preț.
+"Unsubscribe from all stock alerts",Dezabonați-vă de la toate alertele de stoc.
+"You are receiving this notification because you subscribed to receive alerts when the following products are back in stock:",Ați primit această notificare deoarece v-ați înscris pentru a primi alerte când produsele următoare revin în stoc:
+"You are receiving this notification because you subscribed to receive alerts when the prices for the following products changed:",Ați primit această notificare deoarece v-ați înscris pentru a primi alerte când se schimbă prețurile pentru următoarele produse:
+"You will no longer receive price alerts for this product.",Nu veți mai primi alerte de preț pentru acest produs.
+"You will no longer receive stock alerts for this product.",Nu veți mai primi alerte de stoc pentru acest produs.
+"You will no longer receive stock alerts.",Nu veți mai primi alerte de stoc.

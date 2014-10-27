@@ -1,141 +1,174 @@
-"Abandoned carts","Abandonuri"
-"Action","Action"
-"Add to Cart","Adauga in cos"
-"Add to Compare","Adauga la comparatie"
-"Add to Wishlist","Adauga la favorite"
-"Applied Coupon","Cupon folosit"
-"Avg. approved rating","Avg. approved rating"
-"Avg. rating","Avg. rating"
-"Bestsellers","Cele mai vandute"
-"Bought from wishlists","Cumparat din favorite"
+"Abandoned Carts",Coșuri Abandonate
+"Abandoned carts",Coșuri abandonate
+"Action",Acțiune
+"Add to Cart",Adăugare în Coș
+"Add to Compare",Adăugare la Comparare
+"Add to Wishlist",Adăugare Listă Dorințe
+"Any",Oricare
+"Applied Coupon",Cupon Aplicat
+"Applies to Any of the Specified Order Statuses",Se aplică la Oricare dintre Statusurile de Comandă Specificate
+"Are you sure you want to refresh lifetime statistics? There can be performance impact during this operation.",Sunteți sigur că doriți să reîmprospătați statisticile generale? Poate apărea un impact de performanță pe parcursul acestei operații.
+"Are you sure?",Sunteți sigur?
+"Avg. Approved Rating",Medie Note Aprobate
+"Avg. Rating",Medie Note
+"Bestsellers",Cele mai vândute
+"Bought from wishlists",Cumpărat din Liste de Dorințe
 "CSV","CSV"
-"Carrier/Method","Curier/Metoda"
-"Carts","Cosuri"
-"Coupons","Cupoane"
-"Created at","Creat la"
-"Customer","Client"
-"Customer Name","Nume client"
-"Customer Tags","Tag-uri client"
-"Customers","Clienti"
-"Customers Report","Raport clienti"
-"Customers Reviews","Pareri clienti"
-"Customers Tags","Tag-uri clienti"
-"Customers by number of orders","Top Clienti (dupa numarul de comenzi)"
-"Customers by orders total","Top Clienti (dupa totalul comenzilor)"
-"Customers that have wishlist: %s%","Clienti care au Favorite: %s%"
-"Day","Zi"
-"Default Recently Compared Products count","Default Recently Compared Products count"
-"Default Recently Viewed Products count","Default Recently Viewed Products count"
-"Detail","Detaliu"
-"Discounts","Reduceri"
-"Downloads","Downloads"
-"Email","E-mail"
-"Excel","Excel"
-"First Name","Prenume"
-"Guest","Guest"
-"Hits","Vizite"
+"Carts",Coșuri
+"Catalog Category (Without Subcategories)",Categorie Catalog (Fără Subcategorii)
+"Compared Products Grid Template",Șablon Grilă Produse Comparate
+"Compared Products List Template",Șablon Listă Produse Comparate
+"Coupons",Cupoane
+"Coupons Usage Report",Raport Utilizare Cupoane
+"Created At",Creat La
+"Current Month Starts",Luna Curentă Începe
+"Customer",Client
+"Customer Name",Nume Client
+"Customer Tags",Etichete Client
+"Customers",Clienți
+"Customers Report",Raport Clienți
+"Customers Reviews",Recenzii Clienți
+"Customers Tags",Etichete Clienți
+"Customers by Number of Orders",Clienți după Numărul de Comenzi
+"Customers by Orders Total",Clienți după Totalul Comenzilor
+"Customers by number of orders",Top Clienți (după numărul de comenzi)
+"Customers by orders total",Top Clienți (după totalul comenzilor)
+"Customers that have wishlist: %s%",Clienți care au Listă de Dorințe: %s%
+"Dashboard",Pagina Principală
+"Day",Zi
+"Default Recently Compared Products Count",Număr Implicit Produse Comparate Recent
+"Default Recently Viewed Products Count",Număr Implicit Produse Comparate Recent
+"Description",Descriere
+"Detail",Detaliu
+"Downloads",Descărcări
+"Email",E-mail
+"Empty Rows",Rânduri Goale
+"Excel XML",XML Excel
+"Filter",Filtru
+"First Name",Prenume
+"From",De la
+"Guest",Vizitator
+"Hits",Vizite
 "ID","ID"
-"Invalid date specified","Invalid date specified"
-"Invoiced","Facturat"
-"Items Ordered","Articole comandate"
-"Items in Cart","Articole in cos"
-"Last Name","Nume"
-"Last Review","Ultimua parere"
-"Link","Link"
-"Low stock","Stoc limitat"
-"Month","Luna"
-"Most Viewed","Cele mai vizualizate"
-"Most viewed","Cele mai vizualizate"
-"Name","Nume"
-"New Accounts","Conturi noi"
-"Number Added","Numar adaugate"
-"Number Fulfilled","Numar indeplinite"
-"Number Of Historical Uses","Numar de utilizari din istorie"
-"Number Of Reviews","Numar de pareri"
-"Number Of Uses","Numar de utilizari"
-"Number Purchased","Numar cumparate"
-"Number Viewed","Numar vazute"
-"Number of Items","Numar de articole"
-"Number of Ivoiced Orders","Number of Ivoiced Orders"
-"Number of New Accounts","Numarul conturilor noi"
-"Number of Orders","Numar de comenzi"
-"Number of Refunded Orders","Number of Refunded Orders"
-"Number of Reviews","Numar de pareri"
-"Number of Total Tags","Numarul total al tag-urilor"
-"Number of Unique Tags","Numarul tag-urilor unice"
-"Number of Views","Numar de vizualizari"
-"Number of items bought from a wishlist: %s","Numarul de articole cumparate din favorite: %s"
-"Number of times deleted","De cate ori au fost sterse"
-"Number of times wishlists have been shared (emailed): %s","De cate ori favoritele au fost partajate (pe e-mail): %s"
-"Number of wishlist conversions: %s","Numar de conversii din favorite: %s"
-"Number of wishlist referrals: %s","Numarul de vizite din favorite: %s"
-"Number of wishlists: %s","Numar de favorite: %s"
-"Offline Refunded","Rambursat offline"
-"Online Refunded","Rambursat online"
-"Orders","Comenzi"
-"Out of stock","Stoc epuizat"
-"Poducts Report","Raport produse"
-"Popular Tags","Tag-uri populare"
-"Popularity","Popularitate"
-"Price","Pret"
-"Product Name","Nume produs"
-"Product Reviews","Pareri produs"
-"Product Sku","Cod produs"
-"Product Tags","Tag-uri produs"
-"Products","Produse"
-"Products Report","Raport produse"
-"Products Reviews","Pareri produse"
-"Products Sold","Products Sold"
-"Products Tags","Tag-uri produse"
-"Products in carts","Produse in cosuri"
-"Purchases","Purchases"
-"Quantity Ordered","Cantitate comandata"
-"Quantity of Items","Cantitatea articolelor"
-"Rate","Rate"
-"Recently Compared Products","Produse recent comparate"
-"Recently Viewed Products","Produse recent vizualizate"
-"Recently Viewed/Compared Products","Produse recent vizualizate/comparate"
-"Refunded","Rambursat"
-"Reports","Rapoarte"
-"Results","Rezultate"
-"Revenue","Venituri"
-"Review","Parere"
-"Reviews","Pareri"
-"Reviews for %s","Pareri pentru %s"
-"Sales","Vanzari"
-"Sales Report","Raport de vanzari"
-"Search Terms","Termeni de cautare"
-"Shipping","Livrare"
-"Shopping Cart","Cos de cumparaturi"
-"Show for Current","Arata pentru actuala"
-"Stock Qty","Cantitate in stoc"
-"Submitted In","Trimis in"
-"Submitted On","Trimis la"
+"IP Address",Adresă IP
+"Index model name must be defined",Numele modelului de indexare trebuie să fie definit
+"Invalid date specified.",Dată specificată invalidă.
+"Invoiced",Facturat
+"Items in Cart",Articole în Coș
+"Last Name",Nume
+"Last Review",Ultima Recenzie
+"Link",Legătură
+"List of Products Recently Compared and Removed from the Compare List by Visitor",Lista Produselor Comparate Recent și a celor Eliminate de la Lista de Comparație de către Vizitator
+"List of Products Recently Viewed by Visitor",Lista Produselor Vizualizate Recent de către Vizitator
+"Low Stock",Stoc Limitat
+"Low stock",Stoc limitat
+"Match Period To",Potrivire Perioadă La
+"Month",Lună
+"Most Viewed",Cele mai Vizualizate
+"Name",Nume
+"New Accounts",Conturi Noi
+"No",Nu
+"Number Added",Număr Adăugate
+"Number Fulfilled",Număr Îndeplinite
+"Number Of Reviews",Număr de Recenzii
+"Number Purchased",Număr Cumpărate
+"Number Viewed",Număr Vizualizate
+"Number of Items",Număr de Articole
+"Number of New Accounts",Număr Conturi Noi
+"Number of Products to display",Număr de Produse pentru afișare
+"Number of Reviews",Număr de Recenzii
+"Number of Times Deleted",Număr de Ștergeri
+"Number of Total Tags",Numărul Total al Etichetelor
+"Number of Unique Tags",Numărul Etichetelor Unice
+"Number of Views",Număr de Vizualizări
+"Number of items bought from a wishlist: %s",Numărul de articole cumpărate dintr-o listă de dorințe: %s
+"Number of times wishlists have been shared (emailed): %s",Numărul partajărilor listelor de dorințe (pe e-mail): %s
+"Number of wishlist conversions: %s",Număr de conversii din lista de dorințe: %s
+"Number of wishlist referrals: %s",Numărul de vizite din lista de dorințe: %s
+"Number of wishlists: %s",Număr de liste de dorințe: %s
+"Order Status",Status Comandă
+"Order Taxes Report Grouped by Tax Rate",Raport Taxe Comenzi Grupate după Cota de Taxare
+"Orders",Comenzi
+"Out of stock",Stoc epuizat
+"Period",Perioadă
+"Poducts Report",Raport Produse
+"Popular Tags",Etichete Populare
+"Popularity",Popularitate
+"Price",Preț
+"Product Name",Nume Produs
+"Product Reviews",Recenzii Produs
+"Product SKU",COD Produs
+"Product Tags",Etichete Produs
+"Products",Produse
+"Products Ordered",Produse Comandate
+"Products Report",Raport Produse
+"Products Reviews",Recenzii Produse
+"Products Tags",Etichete Produse
+"Products in carts",Produse în coșuri
+"Purchases",Achiziții
+"Quantity Ordered",Cantitate Comandată
+"Quantity of Items",Cantitatea Articolelor
+"Recently Compared",Comparate Recent
+"Recently Compared Products",Produse Recent Comparate
+"Recently Viewed",Vizualizate Recent
+"Recently Viewed Products",Produse Recent Vizualizate
+"Recently Viewed/Compared Products",Produse Recent Vizualizate/Comparate
+"Refresh Lifetime Statistics",Reîmprospătare Statistici Globale
+"Refresh Statistics",Reîmprospătare Statistici
+"Refresh Statistics for the Last Day",Reîmprospătare Statistici pentru Ultima Zi
+"Refunds",Rambursări
+"Report",Raport
+"Reports",Rapoarte
+"Results",Rezultate
+"Revenue",Venituri
+"Review",Recenzie
+"Reviews",Recenzii
+"Reviews for %s",Recenzii pentru %s
+"Sales",Vânzări
+"Sales Report",Raport de Vânzări
+"Search Query",Interogare Căutare
+"Search Terms",Termeni de Căutare
+"Select day of the month.",Selectare zi din lună.
+"Shipping",Expediere
+"Shopping Cart",Coș de Cumpărături
+"Shopping Cart Price Rule",Regulă Preț Coș Cumpărături
+"Show Actual Values",Afișare Valori Actuale
+"Show Report",Afișare Raport
+"Show for Current",Afișare pentru Curentul
+"Specified",Specificat
+"Statistics",Statistici
+"Stock Qty",Cantitate în Stoc
+"Submitted In",Trimis în
+"Submitted On",Trimis la
 "Subtotal","Subtotal"
-"Tag","Tag"
-"Tag ""%s"" details","Detalii Tag ""%s"""
-"Tag Detail","Detalii tag"
-"Tag Name","Nume tag"
-"Tag use","Utilizare tag"
-"Tags submited by %s","Tag pus de %s"
-"Tags submitted to %s","Tag pus la %s"
-"Tax","Taxa"
-"Tax Amount","Suma taxare"
-"Title","Titlu"
+"Tag",Etichetă
+"Tag ""%s"" details",Detalii Etichetă "%s"
+"Tag Detail",Detalii Etichetă
+"Tag Name",Nume Etichetă
+"Tag Use",Utilizare Etichetă
+"Tags Submitted by %s",Etichete Trimise de %s
+"Tags submitted to %s",Etichetă pusă la %s
+"Tax",Taxe
+"Title",Titlu
+"To",Către
 "Total","Total"
-"Total Invoiced","Total Invoiced"
-"Total Invoiced Captured","Total Invoiced Captured"
-"Total Invoiced not Captured","Total Invoiced not Captured"
-"Total Refunded","Total Rambursat"
-"Total Shipping","Total Livrari"
-"Total Tags","Total Tag-uri"
-"Total invoiced","Total facturat"
-"Total refunded","Total rambursat"
-"Updated at","Actualizat la"
-"Visible In","Vizibil In"
-"Wishlist Report","Raport favorite"
-"Wishlist vs. Regular Order","Favorite vs. Comenzi normale"
-"Wishlists","Favorite"
-"Year","An"
-"Your Recently Compared","Ai comparat recent"
-"Your Recently Viewed","Ai vizualizat recent"
+"Total Invoiced vs. Paid Report",Raport Total Facturat vs. Plătit
+"Total Ordered Report",Raport Total Comandat
+"Total Refunded Report",Raport Total Rambursat
+"Total Shipped Report",Raport Total Expediat
+"Total Tags",Total Etichete
+"Total invoiced",Total Facturat
+"Total refunded",Total Rambursat
+"Updated At",Actualizat La
+"Viewed Products Grid Template",Șablon Grilă Produse Vizualizate
+"Viewed Products List Template",Șablon Listă Produse Vizualizate
+"Visible In",Vizibil În
+"Wishlist Report",Raport Listă de Dorințe
+"Wishlist vs. Regular Order",Lista de Dorințe vs. Comenzi Normale
+"Wishlists",Lista de Dorințe
+"Year",An
+"Year-To-Date Starts",An-La-Dată Începere
+"Yes",Da
+"Your Recently Compared",Comparate Recent de Dvs.
+"Your Recently Viewed",Vizualizate Recent de Dvs.
+"undefined",nedefinit
