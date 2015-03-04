@@ -74,7 +74,7 @@ Serbian (Serbia)	8.85%<br>
 Slovak (Slovakia)	67.62%<br>
 Slovenian (Slovenia)	100.00%<br>
 Spanish (Argentina)	17.30%<br>
-Spanish (Chile)	38.18%<br>
+Spanish (Chile)	87.69%<br>
 Spanish (Colombia)	65.45%<br>
 Spanish (Costa Rica)	0.30%<br>
 Spanish (Mexico)	94.25%<br>
