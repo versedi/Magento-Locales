@@ -1,8 +1,8 @@
 Magento-Locales collected from : https://web.archive.org/web/20140717210430/http://www.magentocommerce.com/translations/ <br>
-Purpose: Currently Magento Translations official page don't exist.
+Purpose: Currently Magento Translations official page doesn't exists.
 
 Translations are copyrighted by their authors – check Licence for each Language Pack. 
-This repo is only a collection (Magento Translations offline). 
+This repo is only a collection (Magento Translations offline) – if you've found a better, more updated translation feel free to pull request. 
 
 ===============
 
