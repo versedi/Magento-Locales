@@ -114,8 +114,8 @@
 "Locale","Локальна змінна"
 "Locale options","Локальні налаштування"
 "Log Settings","Log Settings"
-"Logging from Mage::log(). File is located in�{{base_dir}}/var/log","Logging from Mage::log(). File is located in�{{base_dir}}/var/log"
-"Logging from Mage::logException(). File is located in�{{base_dir}}/var/log","Logging from Mage::logException(). File is located in�{{base_dir}}/var/log"
+"Logging from Mage::log(). File is located in�{{base_dir}}/var/log","Logging from Mage::log(). File is located in�{{base_dir}}/var/log"
+"Logging from Mage::logException(). File is located in�{{base_dir}}/var/log","Logging from Mage::logException(). File is located in�{{base_dir}}/var/log"
 "Logo Image Alt","Logo Image Alt"
 "Logo Image Src","Logo Image Src"
 "Manage Stores","Групи магазинів"
@@ -143,7 +143,7 @@
 "Please enter a valid URL. http:// is required","Будь-ласка, введіть вірний URL. Обов'язково поставте http:// перед адресою"
 "Please enter a valid credit card number.","Будь-ласка, введіть вірний номер кредитної картки."
 "Please enter a valid date.","Будь-ласка, введіть вірну дату."
-"Please enter a valid email address. For example johndoe@domain.com.","Будь-ласка, введіть вірну email адресу. 
+"Please enter a valid email address. For example johndoe@domain.com.","Будь-ласка, введіть вірну email адресу.
 Наприклад ivandoe@domain.com."
 "Please enter a valid number in this field.","Будь-ласка, введіть вірний номер в це поле."
 "Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.","Будь-ласка, введіть вірний номер телефону. Наприклад (123) 456-7890 або 123-456-7890."
